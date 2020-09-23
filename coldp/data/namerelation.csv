@@ -1,0 +1,763 @@
+"nameID","relatedNameID","type","referenceID","remarks"
+"25","23","type","1646","monotypy"
+"59","17","type",,"monotypy"
+"59","19","type",,"original designation"
+"74","22","type","1646","monotypy"
+"271","268","type","1731","original designation"
+"284","270","type",,"original designation"
+"323","321","type","587","original designation"
+"347","343","type","587","original designation"
+"354","351","type","1728","original designation"
+"391","355","type","1827","monotypy"
+"400","397","type","1145","monotypy"
+"414","410","type","190","original designation"
+"419","416","type","807","monotypy"
+"430","399","type","891","original designation"
+"435","418","type","1172","original designation"
+"440","438","type","467","original designation"
+"449","445","type","1719","monotypy"
+"455","453","type","1592","monotypy"
+"460","457","type","713","original designation"
+"489","465","type",,"subsequent designation"
+"497","468","type","1643","original designation"
+"569","3178","type","133","original designation"
+"623","3089","type","737","original designation"
+"673","1630","type","679","original designation"
+"680","718","type","679","original designation"
+"708","705","type","679","original designation"
+"715","711","type","679","original designation"
+"767","726","type","1643","original designation"
+"779","776","type","1841","original designation"
+"788","785","type","1841","original designation"
+"843","796","type","1841","original designation"
+"850","847","type","708","original designation"
+"857","853","type",,"original designation"
+"875","859","type","1848",
+"889","866","type","1643","original designation"
+"890","861","type","1723",
+"977","864","type","1144","monotypy"
+"1099","1093","type","1158","original designation"
+"1101","1095","type","891","original designation"
+"1119","1114","type","1102","monotypy"
+"1133","1129","type","806","monotypy"
+"1138","1134","type","260",
+"1219","1216","type","708","original designation"
+"1269","1266","type","712","original designation"
+"1275","1270","type",,"subsequent designation"
+"1358","1355","type","730","original designation"
+"1377","1375","type","679","original designation"
+"1386","1379","type","1841","original designation"
+"1432","1428","type","724","original designation"
+"1448","1442","type","1144","original designation"
+"1469","1467","type","682","original designation"
+"1473","1471","type","1736","original designation"
+"1479","1475","type","997","original designation"
+"1487","1481","type","1723","monotypy"
+"1499","1493","type","1144","subsequent designation"
+"1550","1544","type","1158","original designation"
+"1575","1548","type","679","original designation"
+"1583","1547","type","679","original designation"
+"1592","1586","type","99","original designation"
+"1592","1588","type","1654","original designation"
+"1603","1601","type","828","original designation"
+"1607","1605","type","76","original designation"
+"1614","1611","type","1646","monotypy"
+"1628","1626","type","85","original designation"
+"1635","1632","type","10","original designation"
+"1652","1649","type","260","original designation"
+"1659","1654","type","1643","original designation"
+"1668","1656","type","260","original designation"
+"1717","1714","type","1823","subsequent designation"
+"1749","1609","type","1785","original designation"
+"1770","3321","type","23","original designation"
+"1781","3323","type","23","original designation"
+"1788","1897","type","679","original designation"
+"1792","1789","type","712","original designation"
+"1800","1796","type","1646","subsequent designation"
+"1830","1824","type","43","original designation"
+"1837","1834","type","1643","original designation"
+"1850","1848","type","1726","monotypy"
+"1857","3319","type",,"monotypy"
+"1884","1881","type","1643","monotypy"
+"1910","1894","type","27","monotypy"
+"1927","1925","type","49","original designation"
+"1932","1929","type","91","original designation"
+"1939","1935","type","1147","monotypy"
+"1956","1937","type","1654","original designation"
+"1962","1957","type","1725","monotypy"
+"1962","1959","type","1147","subsequent designation"
+"1995","1993","type","679","original designation"
+"2000","1997","type","679","original designation"
+"2012","2009","type","679","original designation"
+"2018","2634","type","448","original designation"
+"2045","2021","type","1643","original designation"
+"2070","2023","type","1723","subsequent designation"
+"2246","2024","type","1719","original designation"
+"2446","2489","type","679","original designation"
+"2494","2026","type","679","original designation"
+"2505","2499","type","1723","monotypy"
+"2506","2503","type","1643","original designation"
+"2608","2605","type","1643","original designation"
+"2636","2632","type","1643","original designation"
+"2716","2700","type","956","original designation"
+"2728","2725","type","105","original designation"
+"2759","2756","type","1643","original designation"
+"2776","2764","type","1643","original designation"
+"2848","2846","type","708","original designation"
+"2859","2850","type","1643","original designation"
+"2887","3023","type","760","original designation"
+"2904","2899","type","101","original designation"
+"2921","2907","type","1518","subsequent designation"
+"2921","2912","type",,"subsequent designation"
+"2921","2913","type",,"subsequent designation"
+"2931","3224","type","1662","original designation"
+"3019","3017","type","1654","monotypy"
+"3025","3021","type","86","monotypy"
+"3028","3026","type","1827","monotypy"
+"3034","3032","type","1144","monotypy"
+"3064","3062","type","1217","original designation"
+"3067","3060","type","813","original designation"
+"23","3807","later homonym",,"homonym"
+"2023","3808","later homonym",,"homonym"
+"163","164","later homonym",,"homonym"
+"412","3810","later homonym",,"homonym"
+"1136","3811","later homonym",,"homonym"
+"1325","3806","replacement name",,"homonym"
+"1430","3812","later homonym",,"homonym"
+"1477","3813","later homonym",,"homonym"
+"2025","3809","later homonym",,"homonym"
+"2792","2776","later homonym",,"homonym"
+"3806","1473","later homonym",,"homonym"
+"21","19","superfluous",,"emendation"
+"467","465","superfluous",,"emendation"
+"862","859","superfluous",,"emendation"
+"1273","1270","superfluous",,"emendation"
+"1839","1836","superfluous",,"emendation"
+"2501","2499","superfluous",,"emendation"
+"2914","2907","superfluous",,"emendation"
+"2916","2907","superfluous",,"emendation"
+"2917","2907","superfluous",,"emendation"
+"20","17","superfluous",,"misspelling"
+"357","355","superfluous",,"misspelling"
+"713","711","superfluous",,"misspelling"
+"863","859","superfluous",,"misspelling"
+"865","859","superfluous",,"misspelling"
+"867","859","superfluous",,"misspelling"
+"1096","1093","superfluous",,"misspelling"
+"1444","1442","superfluous",,"misspelling"
+"1464","1461","superfluous",,"misspelling"
+"1485","1481","superfluous",,"misspelling"
+"1750","1747","superfluous",,"misspelling"
+"1798","1796","superfluous",,"misspelling"
+"1896","1894","superfluous",,"misspelling"
+"2399","2399","superfluous",,"misspelling"
+"2400","2399","superfluous",,"misspelling"
+"2794","2791","superfluous",,"misspelling"
+"2915","2907","superfluous",,"misspelling"
+"2918","2907","superfluous",,"misspelling"
+"3055","3053","superfluous",,"misspelling"
+"3132","3131","superfluous",,"misspelling"
+"3800","3805","superfluous",,"misspelling"
+"2909","2907","superfluous",,"unavailable"
+"2910","2907","superfluous",,"unavailable"
+"2911","2907","superfluous",,"unavailable"
+"24","25","basionym","1825",
+"28","29","basionym","374",
+"35","36","basionym",,
+"39","40","basionym","1825",
+"58","59","basionym",,
+"63","64","basionym","1827",
+"72","73","basionym","1825",
+"98","99","basionym","1825",
+"144","145","basionym","374",
+"256","257","basionym","1778",
+"279","280","basionym",,
+"283","284","basionym",,
+"291","292","basionym",,
+"317","318","basionym","218",
+"327","328","basionym","1189",
+"329","330","basionym","1189",
+"331","332","basionym","1189",
+"333","334","basionym","1189",
+"337","338","basionym","1176",
+"341","342","basionym","1744",
+"353","354","basionym","1719",
+"413","414","basionym",,
+"425","426","basionym","679",
+"429","430","basionym","891",
+"434","435","basionym","590",
+"459","460","basionym","1199",
+"469","470","basionym","1065",
+"475","476","basionym","1829",
+"487","488","basionym","458",
+"496","497","basionym","458",
+"506","507","basionym","1827",
+"550","551","basionym","1141",
+"559","560","basionym","1141",
+"565","566","basionym","1831",
+"568","569","basionym","1719",
+"573","574","basionym","1633",
+"591","592","basionym","1726",
+"603","604","basionym","1457",
+"620","621","basionym","1719",
+"622","623","basionym","1189",
+"629","630","basionym","569",
+"659","660","basionym","1195",
+"671","672","basionym","1183",
+"675","676","basionym","1178",
+"677","678","basionym","589",
+"681","682","basionym","1158",
+"683","684","basionym","1623",
+"687","688","basionym",,
+"689","690","basionym","1191",
+"697","698","basionym","1217",
+"702","703","basionym",,
+"707","708","basionym","211",
+"714","715","basionym","1705",
+"720","721","basionym","1027",
+"722","723","basionym","1789",
+"728","729","basionym","1823",
+"730","731","basionym","608",
+"733","734","basionym","1208",
+"736","737","basionym","631",
+"740","741","basionym","574",
+"744","745","basionym","832",
+"746","747","basionym","832",
+"748","749","basionym","832",
+"750","751","basionym","1786",
+"752","753","basionym","844",
+"765","767","basionym","458",
+"772","773","basionym","42",
+"774","775","basionym","171",
+"778","779","basionym","496",
+"787","788","basionym","1719",
+"798","799","basionym","569",
+"807","808","basionym","1835",
+"812","813","basionym","189",
+"825","826","basionym","1181",
+"827","828","basionym","569",
+"829","830","basionym","569",
+"832","833","basionym","1836",
+"836","837","basionym","1199",
+"838","839","basionym","1836",
+"840","841","basionym","1036",
+"842","843","basionym","366",
+"849","850","basionym","1212",
+"855","856","basionym","1218",
+"868","869","basionym","1624",
+"870","871","basionym","369",
+"874","875","basionym","1065",
+"880","881","basionym","1827",
+"888","889","basionym","1520",
+"899","900","basionym","1825",
+"920","921","basionym","1587",
+"934","935","basionym","310",
+"937","938","basionym","1575",
+"942","943","basionym","1566",
+"954","955","basionym","878",
+"963","964","basionym",,
+"967","968","basionym","1827",
+"972","973","basionym",,
+"974","975","basionym","486",
+"1018","1019","basionym","1544",
+"1020","1021","basionym","404",
+"1028","1029","basionym","514",
+"1046","1047","basionym","1726",
+"1060","1061","basionym","569",
+"1075","1076","basionym","1719",
+"1083","1084","basionym","1144",
+"1085","1086","basionym","1141",
+"1089","1090","basionym","1144",
+"1102","1103","basionym","1158",
+"1106","1107","basionym","585",
+"1108","1109","basionym","1158",
+"1110","1111","basionym","218",
+"1118","1119","basionym","1481",
+"1131","1132","basionym","569",
+"1137","1138","basionym","1823",
+"1145","1146","basionym","514",
+"1148","1149","basionym","635",
+"1150","1151","basionym","1390",
+"1153","1154","basionym","1544",
+"1155","1156","basionym","374",
+"1157","1158","basionym","1803",
+"1159","1160","basionym","1544",
+"1161","1162","basionym","1789",
+"1163","1164","basionym","1726",
+"1165","1166","basionym","959",
+"1167","1168","basionym","1134",
+"1169","1170","basionym","171",
+"1179","1180","basionym","578",
+"1181","1182","basionym","1039",
+"1183","1184","basionym","1726",
+"1188","1189","basionym","1039",
+"1190","1191","basionym","1726",
+"1192","1193","basionym","1726",
+"1194","1195","basionym","1126",
+"1196","1197","basionym","1726",
+"1198","1199","basionym","1726",
+"1200","1201","basionym","171",
+"1202","1203","basionym","573",
+"1204","1205","basionym","1158",
+"1208","1209","basionym","1726",
+"1210","1211","basionym","1039",
+"1212","1213","basionym","1719",
+"1218","1219","basionym","1212",
+"1224","1225","basionym","1836",
+"1242","1243","basionym","1158",
+"1244","1245","basionym","1380",
+"1246","1247","basionym","708",
+"1248","1249","basionym","1181",
+"1250","1251","basionym","1372",
+"1252","1253","basionym","1027",
+"1264","1265","basionym","1199",
+"1268","1269","basionym","1158",
+"1274","1275","basionym",,
+"1285","1286","basionym","844",
+"1297","1298","basionym","1726",
+"1304","1305","basionym","1125",
+"1306","1307","basionym","1789",
+"1308","1309","basionym","569",
+"1316","1317","basionym","1150",
+"1318","1319","basionym","1719",
+"1320","1321","basionym","1152",
+"1322","1323","basionym","1719",
+"1326","1327","basionym","1719",
+"1328","1329","basionym","1831",
+"1330","1331","basionym","467",
+"1332","1333","basionym","1141",
+"1334","1335","basionym","467",
+"1336","1337","basionym","1141",
+"1338","1339","basionym","569",
+"1342","1343","basionym","1794",
+"1346","1347","basionym","1719",
+"1349","1350","basionym","702",
+"1357","1358","basionym","1545",
+"1384","1385","basionym",,
+"1402","1403","basionym","282",
+"1406","1407","basionym","1189",
+"1408","1409","basionym","1581",
+"1410","1411","basionym","1160",
+"1431","1432","basionym","569",
+"1434","1435","basionym","1181",
+"1436","1437","basionym","1208",
+"1445","1446","basionym","1719",
+"1454","1455","basionym","1153",
+"1457","1458","basionym","1719",
+"1459","1460","basionym","1126",
+"1461","1462","basionym","1827",
+"1478","1479","basionym","1823",
+"1486","1487","basionym","458",
+"1495","1496","basionym","1744",
+"1497","1498","basionym","844",
+"1503","1504","basionym","1245",
+"1505","1506","basionym",,
+"1512","1513","basionym",,
+"1517","1518","basionym","1576",
+"1526","1527","basionym","1576",
+"1531","1532","basionym","1823",
+"1537","1538","basionym","1162",
+"1539","1540","basionym","1727",
+"1549","1550","basionym",,
+"1551","1552","basionym","1169",
+"1553","1554","basionym","1217",
+"1555","1556","basionym","1737",
+"1558","1559","basionym","492",
+"1564","1565","basionym","1162",
+"1566","1567","basionym","1217",
+"1568","1569","basionym","1158",
+"1574","1575","basionym","679",
+"1576","1577","basionym","1178",
+"1579","1580","basionym","679",
+"1582","1583","basionym","1834",
+"1591","1592","basionym","1544",
+"1598","1599","basionym","1421",
+"1613","1614","basionym","1064",
+"1616","1617","basionym","579",
+"1618","1619","basionym","579",
+"1622","1623","basionym","1130",
+"1634","1635","basionym","424",
+"1636","1637","basionym","408",
+"1640","1641","basionym",,
+"1647","1648","basionym","1158",
+"1651","1652","basionym","374",
+"1657","1658","basionym","788",
+"1661","1662","basionym","624",
+"1667","1668","basionym","458",
+"1672","1673","basionym","1102",
+"1674","1675","basionym","886",
+"1683","1684","basionym","628",
+"1686","1687","basionym","1825",
+"1703","1704","basionym","1726",
+"1707","1708","basionym","1125",
+"1709","1710","basionym","1158",
+"1711","1712","basionym","1219",
+"1716","1717","basionym","1823",
+"1719","1720","basionym","458",
+"1723","1724","basionym","1566",
+"1725","1726","basionym","844",
+"1735","1736","basionym","569",
+"1747","1748","basionym","1217",
+"1751","1752","basionym","1719",
+"1762","1763","basionym","585",
+"1765","1766","basionym","1154",
+"1769","1770","basionym","1226",
+"1775","1776","basionym","1622",
+"1780","1781","basionym","1169",
+"1783","1784","basionym","1187",
+"1785","1786","basionym",,
+"1791","1792","basionym","579",
+"1793","1794","basionym","1726",
+"1799","1800","basionym","1825",
+"1811","1812","basionym",,
+"1813","1814","basionym","1822",
+"1817","1818","basionym","1566",
+"1819","1820","basionym","1825",
+"1826","1827","basionym","1827",
+"1831","1832","basionym",,
+"1836","1837","basionym","1822",
+"1842","1843","basionym","171",
+"1846","1847","basionym","679",
+"1854","1855","basionym","1176",
+"1856","1857","basionym","1208",
+"1866","1867","basionym","1185",
+"1869","1870","basionym","1433",
+"1872","1873","basionym",,
+"1875","1876","basionym","1162",
+"1877","1878","basionym","1182",
+"1879","1880","basionym","1162",
+"1883","1884","basionym","1825",
+"1890","1891","basionym","1144",
+"1898","1899","basionym",,
+"1911","1912","basionym","699",
+"1913","1914","basionym","1744",
+"1915","1916","basionym","679",
+"1917","1918","basionym","1144",
+"1931","1932","basionym","1243",
+"1938","1939","basionym","1826",
+"1947","1948","basionym","1158",
+"1955","1956","basionym","1654",
+"1960","1961","basionym",,
+"1965","1966","basionym","1082",
+"1972","1973","basionym",,
+"1977","1978","basionym",,
+"1979","1980","basionym","578",
+"1981","1982","basionym","1740",
+"1986","1987","basionym","1163",
+"1988","1989","basionym","1187",
+"1990","1991","basionym","104",
+"1999","2000","basionym","211",
+"2007","2008","basionym","211",
+"2011","2012","basionym","245",
+"2013","2014","basionym","675",
+"2017","2018","basionym","448",
+"2019","2020","basionym","708",
+"2027","2028","basionym","1827",
+"2031","2032","basionym",,
+"2033","2034","basionym",,
+"2038","2039","basionym","660",
+"2040","2041","basionym",,
+"2044","2045","basionym","1823",
+"2052","2053","basionym","683",
+"2054","2055","basionym",,
+"2059","2060","basionym","878",
+"2064","2065","basionym","1595",
+"2069","2070","basionym",,
+"2073","2074","basionym","1827",
+"2095","2096","basionym","1544",
+"2097","2098","basionym","1805",
+"2099","2100","basionym","1789",
+"2113","2114","basionym","1208",
+"2115","2116","basionym",,
+"2117","2118","basionym","1231",
+"2119","2120","basionym","1102",
+"2121","2122","basionym","1102",
+"2127","2128","basionym","1789",
+"2129","2130","basionym","1196",
+"2131","2132","basionym",,
+"2133","2134","basionym","1786",
+"2135","2136","basionym","1224",
+"2137","2138","basionym","1158",
+"2139","2140","basionym","1158",
+"2141","2142","basionym","708",
+"2143","2144","basionym","1800",
+"2145","2146","basionym","708",
+"2166","2167","basionym","1217",
+"2168","2169","basionym","1199",
+"2172","2173","basionym","1380",
+"2174","2175","basionym","1836",
+"2176","2177","basionym","708",
+"2180","2181","basionym","1199",
+"2182","2183","basionym","1027",
+"2184","2185","basionym","1027",
+"2186","2187","basionym","1189",
+"2188","2189","basionym","1176",
+"2190","2191","basionym","1744",
+"2192","2193","basionym","1744",
+"2194","2195","basionym","1836",
+"2196","2197","basionym","1836",
+"2202","2203","basionym","1158",
+"2204","2205","basionym","1158",
+"2206","2207","basionym","1212",
+"2208","2209","basionym","1217",
+"2210","2211","basionym","1835",
+"2212","2213","basionym","1719",
+"2216","2217","basionym","1744",
+"2218","2219","basionym","1208",
+"2222","2223","basionym","1836",
+"2224","2225","basionym","1744",
+"2227","2228","basionym","1189",
+"2229","2230","basionym","708",
+"2235","2236","basionym","1744",
+"2237","2238","basionym","1208",
+"2239","2240","basionym",,
+"2241","2242","basionym","1158",
+"2243","2244","basionym","1836",
+"2245","2246","basionym","1719",
+"2247","2248","basionym","709",
+"2249","2250","basionym","709",
+"2251","2252","basionym","1158",
+"2253","2254","basionym","1158",
+"2257","2258","basionym","1744",
+"2262","2263","basionym","1744",
+"2264","2265","basionym","1744",
+"2268","2269","basionym",,
+"2270","2271","basionym","1199",
+"2272","2273","basionym","708",
+"2274","2275","basionym","706",
+"2276","2277","basionym","1158",
+"2286","2287","basionym","1158",
+"2288","2289","basionym","1744",
+"2290","2291","basionym","1744",
+"2292","2293","basionym","1744",
+"2294","2295","basionym","1199",
+"2300","2301","basionym","1744",
+"2302","2303","basionym","1719",
+"2305","2306","basionym","1280",
+"2307","2308","basionym","569",
+"2309","2310","basionym","1208",
+"2311","2312","basionym","171",
+"2317","2318","basionym","1158",
+"2321","2322","basionym","1781",
+"2324","2325","basionym","578",
+"2327","2328","basionym","1834",
+"2329","2330","basionym","171",
+"2331","2332","basionym","1834",
+"2334","2335","basionym","171",
+"2336","2337","basionym","1726",
+"2339","2340","basionym","171",
+"2341","2342","basionym","498",
+"2343","2344","basionym","578",
+"2345","2346","basionym","1158",
+"2347","2348","basionym","391",
+"2349","2350","basionym","1158",
+"2351","2352","basionym","171",
+"2353","2354","basionym","297",
+"2355","2356","basionym","1133",
+"2357","2358","basionym","171",
+"2359","2360","basionym","171",
+"2361","2362","basionym","572",
+"2363","2364","basionym","171",
+"2365","2366","basionym","171",
+"2367","2368","basionym","572",
+"2369","2370","basionym","387",
+"2371","2372","basionym","578",
+"2373","2374","basionym","1176",
+"2376","2377","basionym","171",
+"2378","2379","basionym","171",
+"2380","2381","basionym","171",
+"2382","2383","basionym","171",
+"2384","2385","basionym","171",
+"2386","2387","basionym","1133",
+"2388","2389","basionym",,
+"2391","2392","basionym","1134",
+"2393","2394","basionym","171",
+"2395","2396","basionym","172",
+"2397","2398","basionym","1134",
+"2399","2400","basionym","170",
+"2401","2402","basionym","1134",
+"2403","2404","basionym","171",
+"2405","2406","basionym","1726",
+"2407","2408","basionym","1726",
+"2409","2410","basionym","171",
+"2411","2412","basionym","171",
+"2413","2414","basionym","171",
+"2415","2416","basionym","1133",
+"2417","2418","basionym","1134",
+"2419","2420","basionym","171",
+"2421","2422","basionym","1169",
+"2425","2426","basionym","1185",
+"2427","2428","basionym","1727",
+"2429","2430","basionym","46",
+"2431","2432","basionym","589",
+"2433","2434","basionym","1178",
+"2435","2436","basionym",,
+"2437","2438","basionym","1218",
+"2440","2441","basionym","1216",
+"2442","2443","basionym","708",
+"2444","2445","basionym","1158",
+"2449","2450","basionym","1169",
+"2451","2452","basionym","1727",
+"2455","2456","basionym","1172",
+"2457","2458","basionym","1176",
+"2459","2460","basionym","1158",
+"2461","2462","basionym","1162",
+"2463","2464","basionym","1468",
+"2465","2466","basionym","1162",
+"2467","2468","basionym","1182",
+"2469","2470","basionym","1169",
+"2471","2472","basionym","1720",
+"2473","2474","basionym","1355",
+"2475","2476","basionym","1225",
+"2477","2478","basionym","1158",
+"2479","2480","basionym","467",
+"2483","2484","basionym","467",
+"2485","2486","basionym","1233",
+"2487","2488","basionym","1158",
+"2493","2494","basionym","211",
+"2497","2498","basionym","679",
+"2504","2505","basionym","1624",
+"2510","2511","basionym","1084",
+"2513","2514","basionym","1424",
+"2515","2516","basionym","1080",
+"2519","2520","basionym","1102",
+"2521","2522","basionym","1744",
+"2523","2524","basionym","716",
+"2525","2526","basionym","716",
+"2527","2528","basionym","716",
+"2529","2530","basionym","716",
+"2535","2536","basionym","1836",
+"2537","2538","basionym","1836",
+"2539","2540","basionym","1737",
+"2541","2542","basionym","1836",
+"2545","2546","basionym","1189",
+"2547","2548","basionym","1524",
+"2551","2552","basionym","1189",
+"2553","2554","basionym",,
+"2555","2556","basionym","1208",
+"2557","2558","basionym","1726",
+"2563","2564","basionym","573",
+"2566","2567","basionym","578",
+"2569","2570","basionym","1726",
+"2571","2572","basionym","1835",
+"2577","2578","basionym","578",
+"2581","2582","basionym","796",
+"2583","2584","basionym","579",
+"2586","2587","basionym",,
+"2588","2589","basionym","1726",
+"2595","2596","basionym","573",
+"2597","2598","basionym","670",
+"2599","2600","basionym","679",
+"2601","2602","basionym","679",
+"2603","2604","basionym","678",
+"2607","2608","basionym","1064",
+"2619","2620","basionym","1191",
+"2626","2627","basionym","218",
+"2628","2629","basionym","226",
+"2635","2636","basionym",,
+"2643","2644","basionym","1280",
+"2651","2652","basionym","1158",
+"2657","2658","basionym","1158",
+"2663","2664","basionym","1280",
+"2667","2668","basionym","1836",
+"2677","2678","basionym","171",
+"2679","2680","basionym","797",
+"2682","2683","basionym","1272",
+"2685","2686","basionym","797",
+"2689","2690","basionym","1726",
+"2692","2693","basionym","1726",
+"2702","2703","basionym","956",
+"2704","2705","basionym","427",
+"2706","2707","basionym",,
+"2708","2709","basionym",,
+"2715","2716","basionym","1624",
+"2718","2719","basionym","518",
+"2727","2728","basionym","426",
+"2730","2731","basionym","374",
+"2732","2733","basionym",,
+"2735","2736","basionym","1806",
+"2739","2740","basionym","1153",
+"2741","2742","basionym","70",
+"2743","2744","basionym",,
+"2746","2747","basionym","70",
+"2748","2749","basionym",,
+"2758","2759","basionym","458",
+"2760","2761","basionym","1197",
+"2766","2767","basionym","458",
+"2775","2776","basionym","1064",
+"2789","2790","basionym","1660",
+"2791","2793","basionym","1823",
+"2795","2796","basionym","1825",
+"2815","2816","basionym","1080",
+"2817","2818","basionym","1428",
+"2820","2821","basionym",,
+"2822","2823","basionym","1149",
+"2824","2825","basionym","1742",
+"2826","2827","basionym","1742",
+"2832","2833","basionym","70",
+"2834","2835","basionym",,
+"2836","2837","basionym","374",
+"2838","2839","basionym",,
+"2842","2843","basionym","70",
+"2854","2855","basionym","70",
+"2856","2857","basionym","1577",
+"2858","2859","basionym",,
+"2863","2864","basionym","1823",
+"2871","2872","basionym","72",
+"2876","2877","basionym","956",
+"2878","2879","basionym","1430",
+"2880","2881","basionym","70",
+"2882","2883","basionym","1197",
+"2884","2885","basionym","70",
+"2886","2887","basionym","1176",
+"2889","2890","basionym","91",
+"2891","2892","basionym","748",
+"2893","2894","basionym","760",
+"2895","2896","basionym","760",
+"2897","2898","basionym","1835",
+"2903","2904","basionym","1719",
+"2905","2906","basionym","1632",
+"2920","2921","basionym","1064",
+"2926","2927","basionym","1624",
+"2930","2931","basionym","1278",
+"2932","2933","basionym","110",
+"2936","2937","basionym","1158",
+"2938","2939","basionym","1719",
+"2941","2942","basionym",,
+"2949","2950","basionym","1719",
+"2959","2960","basionym","1355",
+"2961","2962","basionym","1545",
+"2964","2965","basionym","1594",
+"2970","2971","basionym","1719",
+"2974","2975","basionym","1719",
+"2978","2979","basionym","1827",
+"2983","2984","basionym","1158",
+"2989","2990","basionym",,
+"2991","2992","basionym","218",
+"2993","2994","basionym","218",
+"2995","2996","basionym","218",
+"2997","2998","basionym","46",
+"2999","3000","basionym","1719",
+"3007","3008","basionym",,
+"3015","3016","basionym",,
+"3024","3025","basionym","573",
+"3040","3041","basionym","1158",
+"3063","3064","basionym","1217",
+"3065","3066","basionym","585",
+"3093","3094","basionym","1189",
+"3160","3161","basionym","737",
+"3188","3189","basionym","737",
+"3192","3193","basionym","1433",
+"3210","3211","basionym","269",
+"3226","3227","basionym",,
+"3287","3288","basionym","743",
+"3327","3328","basionym","749",
+"3339","3340","basionym",,
+"3462","3463","basionym","748",
+"3513","3514","basionym","1428",
+"3519","3520","basionym","759",
+"3581","3582","basionym","751",
+"3601","3602","basionym","751",
+"161","163","replacement name","38",
+"1325","3806","replacement name","486",
+"1483","3829","later homonym",,"homonym"
