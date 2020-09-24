@@ -731,10 +731,10 @@
 "1038","1038","Stenoptilia stenodactyla","Turati & Fiori, 1930","species",,"Stenoptilia","stenodactyla",,"1630","210","1930","ICZN","established",,
 "1040","1040","Stenoptilia meyeri","Gielis, 1997","species",,"Stenoptilia","meyeri",,"1894","79","1997","ICZN","established",,
 "1042","1042","Stenoptilia pallistriga","Barnes & McDunnough, 1913","species",,"Stenoptilia","pallistriga",,"172","186","1913","ICZN","established",,
-"1044","1044","Stenoptilia mengeli","Fernald, 1898","species",,"Stenoptilia","mengeli",,"573","60","1898","ICZN","established",,
+"1044","1044","Stenoptilia mengeli","Fernald, 1898","species",,"Stenoptilia","mengeli",,"573","60","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485673
 "1046","1047","Stenoptilia exclamationis","(Walsingham, 1880)","species",,"Stenoptilia","exclamationis",,"1726","32","1880","ICZN","established",,
 "1047","1047","Mimeseoptilus exclamationis","Walsingham, 1880","species",,"Mimeseoptilus","exclamationis",,"1726","32","1880","ICZN","established",,
-"1048","1048","Stenoptilia coloradensis","Fernald, 1898","species",,"Stenoptilia","coloradensis",,"573","61","1898","ICZN","established",,
+"1048","1048","Stenoptilia coloradensis","Fernald, 1898","species",,"Stenoptilia","coloradensis",,"573","61","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485674
 "1050","1050","Stenoptilia columbia","McDunnough, 1927","species",,"Stenoptilia","columbia",,"1126","183","1927","ICZN","established",,
 "1052","1052","Stenoptilia grandipuncta","McDunnough, 1939","species",,"Stenoptilia","grandipuncta",,"1134","112","1939","ICZN","established",,
 "1054","1054","Stenoptilia suprema","Meyrick, 1926","species",,"Stenoptilia","suprema",,"1199","301","1926","ICZN","established",,
@@ -852,8 +852,8 @@
 "1199","1199","Platyptilus fragilis","Walsingham, 1880","species",,"Platyptilus","fragilis",,"1726","16","1880","ICZN","established",,
 "1200","1201","Paraplatyptilia maea","(Barnes & Lindsey, 1921)","species",,"Paraplatyptilia","maea",,"171","337","1921","ICZN","established",,
 "1201","1201","Platyptilia maea","Barnes & Lindsey, 1921","species",,"Platyptilia","maea",,"171","337","1921","ICZN","established",,
-"1202","1203","Paraplatyptilia cooleyi","(Fernald, 1898)","species",,"Paraplatyptilia","cooleyi",,"573","30","1898","ICZN","established",,
-"1203","1203","Platyptilia cooleyi","Fernald, 1898","species",,"Platyptilia","cooleyi",,"573","30","1898","ICZN","established",,
+"1202","1203","Paraplatyptilia cooleyi","(Fernald, 1898)","species",,"Paraplatyptilia","cooleyi",,"573","30","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485643
+"1203","1203","Platyptilia cooleyi","Fernald, 1898","species",,"Platyptilia","cooleyi",,"573","30","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485643
 "1204","1205","Paraplatyptilia xylopsamma","(Meyrick, 1908)","species",,"Paraplatyptilia","xylopsamma",,"1158","488","1908 (dated 1907)","ICZN","established",,
 "1205","1205","Platyptilia xylopsamma","Meyrick, 1908","species",,"Platyptilia","xylopsamma",,"1158","488","1908 (dated 1907)","ICZN","established",,
 "1206","1206","Stenoptilia schwarzi","Dyar, 1903","species",,"Stenoptilia","schwarzi",,"498","228","1903","ICZN","established",,
@@ -1794,14 +1794,14 @@
 "2358","2358","Oidaematophorus corvus","Barnes & Lindsey, 1921","species",,"Oidaematophorus","corvus",,"171","437","1921","ICZN","established",,
 "2359","2360","Hellinsia costatus","(Barnes & Lindsey, 1921)","species",,"Hellinsia","costatus",,"171","436","1921","ICZN","established",,
 "2360","2360","Oidaematophorus costatus","Barnes & Lindsey, 1921","species",,"Oidaematophorus","costatus",,"171","436","1921","ICZN","established",,
-"2361","2362","Hellinsia elliottii","(Fernald, 1893)","species",,"Hellinsia","elliottii",,"572","95","1893","ICZN","established",,
-"2362","2362","Alucita elliottii","Fernald, 1893","species",,"Alucita","elliottii",,"572","95","1893","ICZN","established",,
+"2361","2362","Hellinsia elliottii","(Fernald, 1893)","species",,"Hellinsia","elliottii",,"572","95","1893","ICZN","established",,https://www.biodiversitylibrary.org/page/27874986
+"2362","2362","Alucita elliottii","Fernald, 1893","species",,"Alucita","elliottii",,"572","95","1893","ICZN","established",,https://www.biodiversitylibrary.org/page/27874986
 "2363","2364","Hellinsia eros","(Barnes & Lindsey, 1921)","species",,"Hellinsia","eros",,"171","404","1921","ICZN","established","Group: C08",
 "2364","2364","Oidaematophorus eros","Barnes & Lindsey, 1921","species",,"Oidaematophorus","eros",,"171","404","1921","ICZN","established","Group: C08",
 "2365","2366","Hellinsia falsus","(Barnes & Lindsey, 1921)","species",,"Hellinsia","falsus",,"171","436","1921","ICZN","established",,
 "2366","2366","Oidaematophorus falsus","Barnes & Lindsey, 1921","species",,"Oidaematophorus","falsus",,"171","436","1921","ICZN","established",,
-"2367","2368","Hellinsia fishii","(Fernald, 1893)","species",,"Hellinsia","fishii",,"572","95","1893","ICZN","established",,
-"2368","2368","Pterophorus fishii","Fernald, 1893","species",,"Pterophorus","fishii",,"572","95","1893","ICZN","established",,
+"2367","2368","Hellinsia fishii","(Fernald, 1893)","species",,"Hellinsia","fishii",,"572","95","1893","ICZN","established",,https://www.biodiversitylibrary.org/page/27874986
+"2368","2368","Pterophorus fishii","Fernald, 1893","species",,"Pterophorus","fishii",,"572","95","1893","ICZN","established",,https://www.biodiversitylibrary.org/page/27874986
 "2369","2370","Hellinsia glenni","(Cashatt, 1972)","species",,"Hellinsia","glenni",,"387","11","1972","ICZN","established",,
 "2370","2370","Oidaematophorus glenni","Cashatt, 1972","species",,"Oidaematophorus","glenni",,"387","11","1972","ICZN","established",,
 "2371","2372","Hellinsia gratiosus","(Fish, 1881)","species",,"Hellinsia","gratiosus",,"578","73","1881","ICZN","established",,
@@ -1985,8 +1985,8 @@
 "2559","2559","Pterophorus acrias","Meyrick, 1908","species",,"Pterophorus","acrias",,"1158","500","1908 (dated 1907)","ICZN","established",,
 "2560","2560","Pterophorus behrii","Grinnell, 1908","species",,"Pterophorus","behrii",,"796","319","1908","ICZN","established",,
 "2561","2561","Oidaematophorus balsamorrhizae","McDunnough, 1939","species",,"Oidaematophorus","balsamorrhizae",,"1134","109","1939","ICZN","established",,
-"2563","2564","Hellinsia brucei","(Fernald, 1898)","species",,"Hellinsia","brucei",,"573","42","1898","ICZN","established",,
-"2564","2564","Pterophorus brucei","Fernald, 1898","species",,"Pterophorus","brucei",,"573","42","1898","ICZN","established",,
+"2563","2564","Hellinsia brucei","(Fernald, 1898)","species",,"Hellinsia","brucei",,"573","42","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485655
+"2564","2564","Pterophorus brucei","Fernald, 1898","species",,"Pterophorus","brucei",,"573","42","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485655
 "2565","2565","Pterophorus chionastes","Meyrick, 1908","species",,"Pterophorus","chionastes",,"1158","501","1908 (dated 1907)","ICZN","established",,
 "2566","2567","Oidaematophorus cineraceus","(Fish, 1881)","species",,"Oidaematophorus","cineraceus",,"578","73","1881","ICZN","established",,
 "2567","2567","Oedaematophorus cineraceus","Fish, 1881","species",,"Oedaematophorus","cineraceus",,"578","73","1881","ICZN","established",,
@@ -2013,8 +2013,8 @@
 "2590","2590","Stenoptilia californica","Grinnell, 1908","species",,"Stenoptilia","californica",,"796","321","1908","ICZN","established",,
 "2591","2591","Oidaematophorus downesi","McDunnough, 1927","species",,"Oidaematophorus","downesi",,"1126","185","1927","ICZN","established",,
 "2593","2593","Oidaematophorus lindseyi","McDunnough, 1923","species",,"Oidaematophorus","lindseyi",,"1125","87","1923","ICZN","established",,
-"2595","2596","Hellinsia rileyi","(Fernald, 1898)","species",,"Hellinsia","rileyi",,"573","50","1898","ICZN","established",,
-"2596","2596","Pterophorus rileyi","Fernald, 1898","species",,"Pterophorus","rileyi",,"573","50","1898","ICZN","established",,
+"2595","2596","Hellinsia rileyi","(Fernald, 1898)","species",,"Hellinsia","rileyi",,"573","50","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485663
+"2596","2596","Pterophorus rileyi","Fernald, 1898","species",,"Pterophorus","rileyi",,"573","50","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485663
 "2597","2598","Hellinsia borbonicus","(Gibeaux, 1991)","species",,"Hellinsia","borbonicus",,"670","211","1991","ICZN","established",,
 "2598","2598","Leioptilus borbonicus","Gibeaux, 1991","species",,"Leioptilus","borbonicus",,"670","211","1991","ICZN","established",,
 "2599","2600","Hellinsia mineti","(Gibeaux, 1994)","species",,"Hellinsia","mineti",,"679","127","1994","ICZN","established",,
@@ -2375,8 +2375,8 @@
 "3019","3019","Septuaginta zagulajevi","Ustjuzhanin, 1996","species",,"Septuaginta","zagulajevi",,"1654","407","1996","ICZN","established",,
 "3021","3021","Singularia","Arenberger, 1988","genus","Singularia",,,,"86","87","1988","ICZN","established",,
 "3023","3023","Chocophorus","Gielis & Matthews, 1994","genus","Chocophorus",,,,"760","161","1994","ICZN","established",,
-"3024","3025","Singularia walsinghami","(Fernald, 1898)","species",,"Singularia","walsinghami",,"573","36","1898","ICZN","established",,
-"3025","3025","Alucita walsinghami","Fernald, 1898","species",,"Alucita","walsinghami",,"573","36","1898","ICZN","established",,
+"3024","3025","Singularia walsinghami","(Fernald, 1898)","species",,"Singularia","walsinghami",,"573","36","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485649
+"3025","3025","Alucita walsinghami","Fernald, 1898","species",,"Alucita","walsinghami",,"573","36","1898","ICZN","established",,https://www.biodiversitylibrary.org/page/18485649
 "3026","3026","Diacrotricha","Zeller, 1852","genus","Diacrotricha",,,,"1827","399","1852","ICZN","established",,
 "3028","3028","Diacrotricha fasciola","Zeller, 1852","species",,"Diacrotricha","fasciola",,"1827","399","1852","ICZN","established",,
 "3030","3030","Diacrotricha guttuligera","Diakonoff, 1952","species",,"Diacrotricha","guttuligera",,"467","11","1952","ICZN","established",,
