@@ -1998,12 +1998,13 @@ taxonId,area,gazetteer,status,referenceID
 1359,NP,iso,native,
 1359,TH,iso,native,
 1361,PH,iso,native,
-1363,LK,iso,native,
-1365,IN,iso,native,
-1367,IN,iso,native,
-1369,IN,iso,native,
-1371,IN,iso,native,
-1373,ID,iso,native,
+1363,LK,iso,native,983
+1365,IN,iso,native,983
+1367,IN,iso,native,983
+1369,IN,iso,native,983
+1369,LK,iso,native,983
+1371,IN,iso,native,983
+1373,ID,iso,native,983
 1377,MG,iso,native,
 1382,AR,iso,native,
 1382,BR,iso,native,
@@ -5552,3 +5553,5 @@ taxonId,area,gazetteer,status,referenceID
 3819,CL,iso,native,1854
 3820,KG,iso,native,1855
 3821,ZA,iso,native,1856
+2171,PE,iso,native,607
+2171,CO,iso,native,607
