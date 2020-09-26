@@ -526,7 +526,7 @@
 "776","776","Anstenoptilia","Zimmerman, 1958","genus","Anstenoptilia",,,,"1841","404","1958","ICZN","established",,
 "778","779","Anstenoptilia marmarodactyla","(Dyar, 1902)","species",,"Anstenoptilia","marmarodactyla",,"496","442","1902","ICZN","established",,
 "779","779","Platyptilia marmarodactyla","Dyar, 1902","species",,"Platyptilia","marmarodactyla",,"496","442","1902","ICZN","established",,
-"780","780","Platyptilia fuscicornis","auct. nec Zeller, 1877","species",,"Platyptilia","fuscicornis",,,,,"ICZN","not established",,
+"780","780","Platyptilia fuscicornis","auct. [nec Zeller, 1877]","species",,"Platyptilia","fuscicornis",,,,,"ICZN","not established",,
 "781","781","Platyptilia pasadenensis","Grinnell, 1908","species",,"Platyptilia","pasadenensis",,"796","317","1908","ICZN","established",,
 "782","782","Anstenoptilia hugoiella","Gielis, 1996","species",,"Anstenoptilia","hugoiella",,"716","86","1996","ICZN","established",,
 "784","784","Platyptilia pediculosa","Walsingham","species",,"Platyptilia","pediculosa",,,,,"ICZN","not established","Nomen nudum",
@@ -553,7 +553,7 @@
 "808","808","Platyptilia brevipennis","Zeller, 1874","species",,"Platyptilia","brevipennis",,"1835","442","1874","ICZN","established",,
 "809","809","Platyptilia crenulata","Barnes & McDunnough, 1913","species",,"Platyptilia","crenulata",,"172","185","1913","ICZN","established",,
 "810","810","Stenoptilodes amrishi","Makhan, 1994","species",,"Stenoptilodes","amrishi",,"1079","354","1994","ICZN","established",,
-"811","811","Platyptilia taprobanes","auct. nec Felder & Rogenhofer, 1875","species",,"Platyptilia","taprobanes",,,,,"ICZN","not established",,
+"811","811","Platyptilia taprobanes","auct. [nec Felder & Rogenhofer, 1875]","species",,"Platyptilia","taprobanes",,,,,"ICZN","not established",,
 "812","813","Stenoptilodes sematodactyla","(Berg, 1885)","species",,"Stenoptilodes","sematodactyla",,"189","283","1885","ICZN","established",,
 "813","813","Platyptilia sematodactyla","Berg, 1885","species",,"Platyptilia","sematodactyla",,"189","283","1885","ICZN","established",,
 "814","814","Platyptilia epidelta","Meyrick, 1908","species",,"Platyptilia","epidelta",,"1158","486","1908 (dated 1907)","ICZN","established",,
@@ -670,7 +670,7 @@
 "946","946","Stenoptilia scoprodactyla","Zagulajev, 1986","species",,"Stenoptilia","scoprodactyla",,"1806","85","1986","ICZN","established",,
 "948","948","Stenoptilia eborinodactyla","Zagulajev, 1986","species",,"Stenoptilia","eborinodactyla",,"1880","113","1986","ICZN","established",,
 "950","950","Stenoptilia gratiolae","Gibeaux & Nel, 1990","species",,"Stenoptilia","gratiolae",,"686","200","1990","ICZN","established",,
-"951","951","Stenoptilia paludicola","auct. nec Wallengren, 1862","species",,"Stenoptilia","paludicola",,,,,"ICZN","not established",,
+"951","951","Stenoptilia paludicola","auct. [nec Wallengren, 1862]","species",,"Stenoptilia","paludicola",,,,,"ICZN","not established",,
 "952","952","Stenoptilia molleti","Gibeaux, 1992","species",,"Stenoptilia","molleti",,"674","469","1992","ICZN","established",,
 "954","955","Stenoptilia lutescens","(Herrich-Schäffer, 1855)","species",,"Stenoptilia","lutescens",,"878","377","1855","ICZN","established",,
 "955","955","Pterophorus lutescens","Herrich-Schäffer, 1855","species",,"Pterophorus","lutescens",,"878","377","1855","ICZN","established",,
@@ -989,7 +989,7 @@
 "1375","1375","Inferuncus","Gibeaux, 1994","genus","Inferuncus",,,,"679","42","1994","ICZN","established",,
 "1377","1377","Inferuncus nigreus","Gibeaux, 1994","species",,"Inferuncus","nigreus",,"679","43","1994","ICZN","established",,
 "1379","1379","Lioptilodes","Zimmerman, 1958","genus","Lioptilodes",,,,"1841","399","1958","ICZN","established",,
-"1381","1381","Utuca","auct. nec Walker, 1864","genus","Utuca",,,,,,,"ICZN","not established",,
+"1381","1381","Utuca","auct. [nec Walker, 1864]","genus","Utuca",,,,,,,"ICZN","not established",,
 "1382","1382","Lioptilodes subantarcticus","Gielis, 1991","species",,"Lioptilodes","subantarcticus",,"708","15","1991","ICZN","established",,
 "1384","1385","Lioptilodes albistriolatus","(Zeller, 1871)","species",,"Lioptilodes","albistriolatus",,"1836","469, pl. 6","1877","ICZN","established",,"https://www.biodiversitylibrary.org/page/12834711"
 "1385","1385","Mimeseoptilus albistriolatus","Zeller, 1871","species",,"Mimeseoptilus","albistriolatus",,"1836","469, pl. 6","1877","ICZN","established",,
@@ -1113,7 +1113,7 @@
 "1541","1541","Marasmarcha sisyrodes","Meyrick, 1921","species",,"Marasmarcha","sisyrodes",,"1187","50","1921","ICZN","established",,
 "1543","1543","Platyptilia proterischna","Meyrick, 1935","species",,"Platyptilia","proterischna",,"1224","555","1935","ICZN","established",,
 "1544","1544","Exelastis","Meyrick, 1908","genus","Exelastis",,,,"1158","730","1908 (dated 1907)","ICZN","established",,
-"1546","1546","Marasmarcha","auct. nec Meyrick, 1886","genus","Marasmarcha",,,,,,,"ICZN","not established",,
+"1546","1546","Marasmarcha","auct. [nec Meyrick, 1886]","genus","Marasmarcha",,,,,,,"ICZN","not established",,
 "1547","1547","Hepalastis","Gibeaux, 1994","genus","Hepalastis",,,,"679","63","1994","ICZN","established",,
 "1548","1548","Cordivalva","Gibeaux, 1994","genus","Cordivalva",,,,"679","66","1994","ICZN","established",,
 "1549","1550","Exelastis atomosa","(Walsingham, 1885)","species",,"Exelastis","atomosa",,"1729","885","1885","ICZN","established",,
@@ -1220,8 +1220,8 @@
 "1672","1673","Capperia jozana","(Matsumura, 1931)","species",,"Capperia","jozana",,"1102","No. 2062","1931","ICZN","established",,
 "1673","1673","Oxyptilus jozana","Matsumura, 1931","species",,"Oxyptilus","jozana",,"1102","No. 2062","1931","ICZN","established",,
 "1674","1675","Capperia fusca","(Hofmann, 1898)","species",,"Capperia","fusca",,"886","339","1898","ICZN","established",,
-"1675","1675","Oxyptilus leonuri Stange var. fusca","Hofmann, 1898","variety",,"Oxyptilus","leonuri","Stangefusca","886","339","1898","ICZN","established",,
-"1676","1676","Capperia fusca Hofmann forma marrubii","Adamczewski, 1951","form",,"Capperia",,,"10","365","1951","ICZN","established",,
+"1675","1675","Oxyptilus leonuri var. fusca","Hofmann, 1898","variety",,"Oxyptilus","leonuri","fusca","886","339","1898","ICZN","established",,
+"1676","1676","Capperia fusca f. marrubii","Adamczewski, 1951","form",,"Capperia","fusca","marrubii","10","365","1951","ICZN","established",,
 "1677","1677","Capperia bonneaui","Bigot, 1987","species",,"Capperia","bonneaui",,"228","[35]","1987","ICZN","established",,
 "1679","1679","Capperia hellenica","Adamczewski, 1951","species",,"Capperia","hellenica",,"10","371","1951","ICZN","established",,
 "1681","1681","Capperia agadirensis","Arenberger, 2002","species",,"Capperia","agadirensis",,"127","85","2002","ICZN","established",,
@@ -1414,11 +1414,11 @@
 "1908","1908","Trichoptilus ralumensis","Pagenstecher, 1900","species",,"Trichoptilus","ralumensis",,"1355","239","1900","ICZN","established",,
 "1909","1909","Trichoptilus derelictus","Meyrick, 1926","species",,"Trichoptilus","derelictus",,"1200","276","1926","ICZN","established",,
 "1910","1910","Megalorhipida palaestinensis","Amsel, 1935","species",,"Megalorhipida","palaestinensis",,"27","283","1935","ICZN","established",,
-"1911","1912","Megalorhipida pseudodefectalis","Gielis, 1989","species",,"Megalorhipida","pseudodefectalis",,"699","107","1989","ICZN","established",,
+"1911","1912","Megalorhipida pseudodefectalis","(Gielis, 1989)","species",,"Megalorhipida","pseudodefectalis",,"699","107","1989","ICZN","established",,
 "1912","1912","Megalorrhipida pseudodefectalis","Gielis, 1989","species",,"Megalorrhipida","pseudodefectalis",,"699","107","1989","ICZN","established",,
 "1913","1914","Megalorhipida dulcis","(Walsingham, 1915)","species",,"Megalorhipida","dulcis",,"1744","435","1915","ICZN","established",,
 "1914","1914","Trichoptilus dulcis","Walsingham, 1915","species",,"Trichoptilus","dulcis",,"1744","435","1915","ICZN","established",,
-"1915","1916","Megalorhipida prolai","(Gibeaux, 1994","species",,"Megalorhipida","prolai",,"679","93","1994","ICZN","established",,
+"1915","1916","Megalorhipida prolai","(Gibeaux, 1994)","species",,"Megalorhipida","prolai",,"679","93","1994","ICZN","established",,
 "1916","1916","Megalorrhipida prolai","Gibeaux, 1994","species",,"Megalorrhipida","prolai",,"679","93","1994","ICZN","established",,
 "1917","1918","Megalorhipida leptomeres","(Meyrick, 1886)","species",,"Megalorhipida","leptomeres",,"1144","15","1886","ICZN","established",,
 "1918","1918","Trichoptilus leptomeres","Meyrick, 1886","species",,"Trichoptilus","leptomeres",,"1144","15","1886","ICZN","established",,
@@ -1522,7 +1522,7 @@
 "2043","2043","Leioptilus gozmanyi","Bigot, 1969","species",,"Leioptilus","gozmanyi",,"218","285","1969","ICZN","established",,
 "2044","2045","Hellinsia osteodactylus","(Zeller, 1841)","species",,"Hellinsia","osteodactylus",,"1823","851","1841","ICZN","established",,
 "2045","2045","Pterophorus osteodactylus","Zeller, 1841","species",,"Pterophorus","osteodactylus",,"1823","851","1841","ICZN","established",,
-"2046","2046","Alucita microdactyla","Zetterstedt, 1840, [nec Hübner, 1813]","species",,"Alucita","microdactyla",,"1840","1013","1840","ICZN","established",,
+"2046","2046","Alucita microdactyla","Zetterstedt, 1840 [nec Hübner, 1813]","species",,"Alucita","microdactyla",,"1840","1013","1840","ICZN","established",,
 "2047","2047","Leioptilus trimmatodactylus","Christoph, 1872","species",,"Leioptilus","trimmatodactylus",,"402","36","1872","ICZN","established",,
 "2048","2048","Leioptilus cinerariae","Millière, 1869","species",,"Leioptilus","cinerariae",,"1244","418","1869","ICZN","established",,
 "2049","2049","Pterophorus korbi","Caradja, 1920","species",,"Pterophorus","korbi",,"374","86","1920","ICZN","established",,
@@ -1554,7 +1554,7 @@
 "2076","2076","Pterophorus scarodactylus","Becker, 1861","species",,"Pterophorus","scarodactylus",,"178","56","1861","ICZN","established",,
 "2077","2077","Leioptilus serindibanus","Moore, 1887","species",,"Leioptilus","serindibanus",,"1730","527","1887","ICZN","established",,"https://www.biodiversitylibrary.org/page/9340656"
 "2078","2078","Leioptilus sericeodactylus","Pagenstecher, 1900","species",,"Leioptilus","sericeodactylus",,"1355","240","1900","ICZN","established",,
-"2079","2079","Ovendenia septodactyla","Tutt, (nec Treitschke), 1905","species",,"Ovendenia","septodactyla",,"1643","37","1905","ICZN","established",,"https://www.biodiversitylibrary.org/page/9019828"
+"2079","2079","Ovendenia septodactyla","Tutt, 1905 [nec Treitschke, 1833]","species",,"Ovendenia","septodactyla",,"1643","37","1905","ICZN","established",,"https://www.biodiversitylibrary.org/page/9019828"
 "2080","2080","Pterophorus victorianus","Strand, 1913","species",,"Pterophorus","victorianus",,"1593","130","1913","ICZN","established",,
 "2081","2081","Pterophorus scarodactylus var. catharodactylus","Caradja, 1920","variety",,"Pterophorus","scarodactylus","catharodactylus","374","86","1920","ICZN","established",,"https://www.biodiversitylibrary.org/page/12720935"
 "2082","2082","Pterophorus hirosakianus","Matsumura, 1931","species",,"Pterophorus","hirosakianus",,"1102","1056","1931","ICZN","established",,
@@ -2027,7 +2027,7 @@
 "2607","2608","Emmelina monodactyla","(Linnaeus, 1758)","species",,"Emmelina","monodactyla",,"1064","542","1758","ICZN","established",,
 "2608","2608","Phalaena monodactyla","Linnaeus, 1758","species",,"Phalaena","monodactyla",,"1064","542","1758","ICZN","established",,
 "2609","2609","Phalaena bidactyla","Hochenwarth, 1785","species",,"Phalaena","bidactyla",,"1873","336","1785","ICZN","established",,
-"2610","2610","Alucita pterodactyla","Hübner, [1805], nec Linnaeus, 1758","species",,"Alucita","pterodactyla",,"1860","9: 1, figure 4","1805","ICZN","not established",,"https://www.biodiversitylibrary.org/page/28025031"
+"2610","2610","Alucita pterodactyla","Hübner, [1805] [nec Linnaeus, 1758]","species",,"Alucita","pterodactyla",,"1860","9: 1, figure 4","1805","ICZN","not established",,"https://www.biodiversitylibrary.org/page/28025031"
 "2611","2611","Pterophorus flaveodactylus","Amary, 1840","species",,"Pterophorus","flaveodactylus",,"1872","84","1840","ICZN","established",,"https://www.biodiversitylibrary.org/page/9238438"
 "2612","2612","Pterophorus cineridactylus","Fitch, 1854","species",,"Pterophorus","cineridactylus",,"579","848","1854","ICZN","established",,
 "2613","2613","Pterophorus naevosidactylus","Fitch, 1854","species",,"Pterophorus","naevosidactylus",,"579","849","1854","ICZN","established",,
@@ -2107,7 +2107,7 @@
 "2708","2709","Calyciphora albodactylus","(Fabricius, 1794)","species",,"Calyciphora","albodactylus",,"520","348","1794","ICZN","established",,
 "2709","2709","Pterophorus albodactylus","Fabricius, 1794","species",,"Pterophorus","albodactylus",,"520","348","1794","ICZN","established",,
 "2710","2710","Pterophorus xerodactylus","Zeller, 1841","species",,"Pterophorus","xerodactylus",,"1823","860","1841","ICZN","established",,
-"2711","2711","Pterophorus xanthodactylus","auct., (nec Treitschke, 1833)","species",,"Pterophorus","xanthodactylus",,,,,"ICZN","established",,
+"2711","2711","Pterophorus xanthodactylus","auct. [nec Treitschke, 1833]","species",,"Pterophorus","xanthodactylus",,,,,"ICZN","established",,
 "2712","2712","Aciptilia xanthodactyla var. sicula","Fuchs, 1901","variety",,"Aciptilia","xanthodactyla","sicula","630","72","1901","ICZN","established",,
 "2713","2713","Alucita xerodactyla f. luteodactyla","Caradja, 1928","form",,"Alucita","xerodactyla","luteodactyla","376","4","1928","ICZN","not established","Nomen nudum",
 "2714","2714","Alucita xerodactyla f. stauderi","Caradja, 1928","form",,"Alucita","xerodactyla","stauderi","376","30","1928","ICZN","established",,
@@ -2154,7 +2154,7 @@
 "2764","2764","Merrifieldia","Tutt, 1905","genus","Merrifieldia",,,,"1643","37","1905","ICZN","established",,"https://www.biodiversitylibrary.org/page/9019828"
 "2766","2767","Merrifieldia leucodactyla","(Denis & Schiffermüller, 1775)","species",,"Merrifieldia","leucodactyla",,"458","146","1775","ICZN","established",,
 "2767","2767","Alucita leucodactyla","Denis & Schiffermüller, 1775","species",,"Alucita","leucodactyla",,"458","146","1775","ICZN","established",,
-"2768","2768","Pterophorus tetradactyla","auct., (nec Linnaeus, 1758)","species",,"Pterophorus","tetradactyla",,,,,"ICZN","not established","Incorrect identification",
+"2768","2768","Pterophorus tetradactyla","auct. [nec Linnaeus, 1758]","species",,"Pterophorus","tetradactyla",,,,,"ICZN","not established","Incorrect identification",
 "2769","2769","Alucita leucodactyla","Hübner, [1805]","species",,"Alucita","leucodactyla",,"1860","9: 1, figure 5","1805","ICZN","established",,"https://www.biodiversitylibrary.org/page/28025031"
 "2770","2770","Alucita theiodactyla","Hübner, [1825]","species",,"Alucita","theiodactyla",,"1848","431","1825","ICZN","established",,"https://www.biodiversitylibrary.org/page/33045470"
 "2771","2771","Alucita niveidactylus","Stephens, 1834","species",,"Alucita","niveidactylus",,"1589","373","1834","ICZN","established",,"https://www.biodiversitylibrary.org/page/8185742"
@@ -2290,7 +2290,7 @@
 "2916","2916","Acoptilia","Agassiz, 1847","genus","Acoptilia",,,,"12","5","1847 (dated 1846)","ICZN","not established","Incorrect spelling","https://www.biodiversitylibrary.org/page/33664319"
 "2917","2917","Acoptilus","Agassiz, 1847","genus","Acoptilus",,,,"12","5","1847 (dated 1846)","ICZN","not established","Incorrect spelling","https://www.biodiversitylibrary.org/page/33664319"
 "2918","2918","Acyptilus","de Graaf, 1859","genus","Acyptilus",,,,"781","37","1859","ICZN","not established","Incorrect spelling",
-"2919","2919","Alucita","auct. nec Linnaeus, 1758","genus","Alucita",,,,"1346","113",,"ICZN","not established","ICZN Op. 703",
+"2919","2919","Alucita","auct. [nec Linnaeus, 1758]","genus","Alucita",,,,"1346","113",,"ICZN","not established","ICZN Op. 703",
 "2920","2921","Pterophorus pentadactyla","(Linnaeus, 1758)","species",,"Pterophorus","pentadactyla",,"1064","542","1758","ICZN","established",,
 "2921","2921","Phalaena pentadactyla","Linnaeus, 1758","species",,"Phalaena","pentadactyla",,"1064","542","1758","ICZN","established",,
 "2922","2922","Phalaena tridactyla","Scopoli, 1763","species",,"Phalaena","tridactyla",,"1520","257","1763","ICZN","established",,

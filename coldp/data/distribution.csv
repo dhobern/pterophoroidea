@@ -1,4 +1,4 @@
-taxonId,area,gazetteer,status,referenceID
+taxonId,area,gazetteer,status,referenceID,remarks   
 24,AF,iso,native,
 24,BG,iso,native,
 24,BH,iso,native,
@@ -5554,5 +5554,5 @@ taxonId,area,gazetteer,status,referenceID
 3819,CL,iso,native,1854
 3820,KG,iso,native,1855
 3821,ZA,iso,native,1856
-2171,PE,iso,native,607
-2171,CO,iso,native,607
+2168,PE,iso,native,607,As Oidaematorphorus chionoptila
+2168,CO,iso,native,607,As Oidaematorphorus chionoptila
