@@ -2,13 +2,14 @@ title: Catalogue of the Pterophoroidea of the World
 # a short, hopefully unique name for the dataset
 alias: Pterophoroidea
 description: |
-    This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated to correct a number of errors in processing of Cees Gielis' original dataset and to reflect recent additions to the group. Additional page references have been added.
+    "This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated to correct a number of errors in processing of Cees Gielis' original dataset and to reflect recent additions to the group. Additional page references have been added."
 
 # single point of contact for questions
 contact:
   - givenName: Donald
     familyName: Hobern
     email: dhobern@gmail.com
+    orcid: "0000-0001-6492-4016"
 
 # list of authors and editors.
 # Please provide an ORCID if you can so it can be included in DOI metadata
@@ -16,10 +17,10 @@ authorsAndEditors:
   - givenName: Donald
     familyName: Hobern
     email: dhobern@gmail.com
-    orcid: 0000-0001-6492-4016
+    orcid: "0000-0001-6492-4016"
   - givenName: Cees
     familyName: Gielis
-    orcid: 0000-0003-0857-1679
+    orcid: "0000-0003-0857-1679"
 
 # description of the geographical scope of the dataset
 geographicScope: global
@@ -37,7 +38,7 @@ code: zoological
 gazetteer: iso
 
 # Any commons license, but preferrably CC0, CC-BY or CC-BY-NC
-license: CC-BY
+license: CC0
 
 # version name of this copy
 version: ver. 1.1 (09/2020)
