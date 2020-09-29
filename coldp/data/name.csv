@@ -368,7 +368,7 @@
 "565","566","Platyptilia exaltatus","(Zeller, 1867)","species",,"Platyptilia","exaltatus",,"1831","411","1867","ICZN","established",,
 "566","566","Platyptilus exaltatus","Zeller, 1867","species",,"Platyptilus","exaltatus",,"1831","411","1867","ICZN","established",,
 "567","567","Platyptilia dejecta","Meyrick, 1932","species",,"Platyptilia","dejecta",,"1218","334","1932","ICZN","established",,
-"568","569","Sinpunctiptilia emissalis","Walker, 1864","species",,"Sinpunctiptilia","emissalis",,"1719","930","1864","ICZN","established",,
+"568","569","Sinpunctiptilia emissalis","Walker, 1864","species",,"Sinpunctiptilia","emissalis",,"133","116","2006","ICZN","established",,
 "569","569","Platyptilus emissalis","Walker, 1864","species",,"Platyptilus","emissalis",,"1719","930","1864","ICZN","established",,
 "570","570","Platyptilia omissalis","Fletcher, 1926","species",,"Platyptilia","omissalis",,"603","607","1926","ICZN","established",,
 "571","571","Platyptilia enargota","Durrant, 1915","species",,"Platyptilia","enargota",,"489","163","1915","ICZN","established",,
@@ -740,7 +740,7 @@
 "1054","1054","Stenoptilia suprema","Meyrick, 1926","species",,"Stenoptilia","suprema",,"1199","301","1926","ICZN","established",,
 "1056","1056","Stenoptilia neblina","Gielis, 1995","species",,"Stenoptilia","neblina",,"714","147","1995","ICZN","established",,
 "1058","1058","Stenoptilia karsholti","Gielis, 1995","species",,"Stenoptilia","karsholti",,"714","146","1995","ICZN","established",,
-"1060","1061","Stenoptilia tenuis","Felder & Rogenhofer, 1875","species",,"Stenoptilia","tenuis",,"569","CSL: 50","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
+"1060","1061","Stenoptilia tenuis","Felder & Rogenhofer, 1875","species",,"Stenoptilia","tenuis",,"569","CXL: 50","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
 "1061","1061","Mimeseoptilus tenuis","Felder & Rogenhofer, 1875","species",,"Mimeseoptilus","tenuis",,"569","CXL: 50","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
 "1062","1062","Mimeseoptilus gilvidorsis","Zeller, 1877","species",,"Mimeseoptilus","gilvidorsis",,"1836","471","1877","ICZN","established",,
 "1063","1063","Stenoptilia bandamae","Bigot, 1964","species",,"Stenoptilia","bandamae",,"209","113","1964","ICZN","established",,
@@ -788,7 +788,7 @@
 "1125","1125","Nippoptilia rutteni","Gielis, 2003","species",,"Nippoptilia","rutteni",,"734","356","2003","ICZN","established",,
 "1127","1127","Nippoptilia pullum","Gielis & De Vos, 2007","species",,"Nippoptilia","pullum",,"757","192","2007","ICZN","established",,
 "1129","1129","Koremaguia","Hampson, 1891","genus","Koremaguia",,,,"806","142","1891","ICZN","established",,
-"1131","1132","Koremaguia alticola","(Felder & Rogenhofer, 1875)","species",,"Koremaguia","alticola",,"569","CSL: 59","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
+"1131","1132","Koremaguia alticola","(Felder & Rogenhofer, 1875)","species",,"Koremaguia","alticola",,"569","CXL: 59","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
 "1132","1132","Cnemidophorus alticola","Felder & Rogenhofer, 1875","species",,"Cnemidophorus","alticola",,"569","CXL: 59","1875","ICZN","established",,"https://www.biodiversitylibrary.org/page/1221397"
 "1133","1133","Koremaguia aurantidactylus","Hampson, 1891","species",,"Koremaguia","aurantidactylus",,"806","142","1891","ICZN","established",,
 "1134","1134","Paraplatyptilia","Bigot & Picard, 1986","genus","Paraplatyptilia",,,,"260","[17]","1986","ICZN","established",,
@@ -2365,7 +2365,7 @@
 "3003","3003","Pterophorus massai","Gielis, 1991","species",,"Pterophorus","massai",,"708","7","1991","ICZN","established",,
 "3005","3005","Pterophorus uzungwe","Gielis, 1991","species",,"Pterophorus","uzungwe",,"708","7","1991","ICZN","established",,
 "3007","3008","Pterophorus cleronoma","(Meyrick, 1920)","species",,"Pterophorus","cleronoma",,"1184","41","1920","ICZN","established",,"https://www.biodiversitylibrary.org/page/56561446"
-"3008","3008","Alucita cleronoma","Meyrick, 1920","species",,"Alucita","cleronoma",,"1184","41","2910","ICZN","established",,"https://www.biodiversitylibrary.org/page/56561446"
+"3008","3008","Alucita cleronoma","Meyrick, 1920","species",,"Alucita","cleronoma",,"1184","41","1920","ICZN","established",,"https://www.biodiversitylibrary.org/page/56561446"
 "3009","3009","Pterophorus legrandi","Gibeaux, 1992","species",,"Pterophorus","legrandi",,"673","15","1992","ICZN","established",,
 "3011","3011","Pterophorus lamottei","Gibeaux, 1992","species",,"Pterophorus","lamottei",,"673","18","1992","ICZN","established",,
 "3013","3013","Pterophorus baliolus","Bigot & Luquet, 1991","species",,"Pterophorus","baliolus",,"245","242","1991","ICZN","established",,
@@ -2819,7 +2819,7 @@
 "3834","3834","Amblyptilia  hebeata","Hao, Li & Wu, 2005","species",,"Amblyptilia","hebeata",,"1903",,"2005","ICZN","established",,
 "3835","3835","Trichoptylus","Barrett, 1904","genus","Trichoptylus",,,,"1904","9: 396","1904","ICZN","not established","https://www.biodiversitylibrary.org/page/9908514",
 "3836","3836","Pterophoroidea","Kuznetzov & Stekolnikov, 1979","superfamily","Pterophoroidea",,,,"1905",,"1979","ICZN","established",,
-"3837","2185","Hellinsia devriesi","(Landry & Gielis, 1992)","species",,"Hellinsia","devriesi",,"1027","24","1992","ICZN","established",,
-"3838","2205","Hellinsia glochinias","(Landry & Gielis, 1992)","species",,"Hellinsia","glochinias",,"1027","24","1992","ICZN","established",,
-"3839","2187","Hellinsia delospilus","(Meyrick, 1921)","species",,"Hellinsia","delospilus",,"1189","421","1921","ICZN","established",,
+"3837","2185","Hellinsia devriesi","(Landry & Gielis, 1992)","species",,"Hellinsia","devriesi",,"748","642","2011","ICZN","established",,
+"3838","2205","Hellinsia glochinias","(Meyrick, 1908)","species",,"Hellinsia","glochinias",,"748","643","2011","ICZN","established",,
+"3839","2187","Hellinsia delospilus","(Meyrick, 1921)","species",,"Hellinsia","delospilus",,"748","666","2011","ICZN","established",,
 "3840","570","Paraplatyptilia omissalis","(Fletcher, 1926)","species",,"Paraplatyptilia","omissalis",,"1114","246","2005","ICZN","established",,
