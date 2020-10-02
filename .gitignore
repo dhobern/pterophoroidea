@@ -1,3 +1,7 @@
 *.zip
 *.html
-~$*
+*.out
+*.tst
+junk/
+save/
+sorting/
