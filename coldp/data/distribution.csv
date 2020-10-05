@@ -1103,6 +1103,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1616,PE,iso,native,,
 1616,VE,iso,native,,
 1747,AR,iso,native,,
+1747,AU,iso,alien,1894,Introduced for biocontrol
 1747,BM,iso,native,,
 1747,BR,iso,native,,
 1747,CD,iso,native,,
@@ -3848,7 +3849,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 612,US,iso,native,,
 1027,CR,iso,native,,
 837,CR,iso,native,,
-625,AU,iso,alien,,
+625,AU,iso,alien,1894,Introduced for biocontrol
 625,GT,iso,native,,
 625,MX,iso,native,,
 625,US,iso,native,,
@@ -4743,7 +4744,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 2773,SY,iso,native,,
 2773,TR,iso,native,,
 2779,AT,iso,native,,
-2779,AU,iso,alien,,
+2779,AU,iso,alien,1360,Introduced for biocontrol
 2779,BE,iso,native,,
 2779,DE,iso,native,,
 2779,DZ,iso,native,,

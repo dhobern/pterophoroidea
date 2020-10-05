@@ -2790,9 +2790,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2791,2792,Tetraschalis mikado,"(Hori, 1933)",species,,Tetraschalis,mikado,,,,,ICZN,established,,
 2792,2792,Xenopterophora mikado,"Hori, 1933",species,,Xenopterophora,mikado,,911,386,1933,ICZN,established,,
 2793,2793,Tetraschalis ochrias,"Meyrick, 1908",species,,Tetraschalis,ochrias,,1189,475,1908 (dated 1907),ICZN,established,,
-2794,2794,Titanoptilus,"Hampson, 1905",genus,Titanoptilus,,,,824,248,1905,ICZN,established,,
+2794,2794,Titanoptilus,"Hampson, 1905",genus,Titanoptilus,,,,824,248,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/14788068
 2795,2795,Macrotinactis,"Meyrick, 1912",genus,Macrotinactis,,,,1203,55,1912,ICZN,established,,
-2796,2796,Titanoptilus melanodonta,"Hampson, 1905",species,,Titanoptilus,melanodonta,,824,249,1905,ICZN,established,,
+2796,2796,Titanoptilus melanodonta,"Hampson, 1905",species,,Titanoptilus,melanodonta,,824,249,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/14788069
 2797,2797,Titanoptilus procerus,"Bigot, 1969",species,,Titanoptilus,procerus,,226,182,1969,ICZN,established,,
 2798,2798,Titanoptilus rufus,"Gibeaux, 1994",species,,Titanoptilus,rufus,,693,82,1994,ICZN,established,,
 2799,2799,Titanoptilus serrulatus,"Meyrick, 1935",species,,Titanoptilus,serrulatus,,1251,554,1935,ICZN,established,,
