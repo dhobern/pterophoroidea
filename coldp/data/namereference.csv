@@ -491,8 +491,9 @@ nameID,referenceID,page,link,remarks
 1970,604,400,,Original description
 1642,604,401,,Original description
 601,604,403,,Original description
-1454,605,281,,Original description
-2801,605,282,,Original description
+1454,605,281,https://www.biodiversitylibrary.org/page/9948360,Original description
+2828,1895,20,,New combination
+2801,605,282,https://www.biodiversitylibrary.org/page/9948361,Original description
 1470,605,346,,Original description
 2128,605,347,,Original description
 1337,617,13,,Original description
@@ -1364,7 +1365,8 @@ nameID,referenceID,page,link,remarks
 1429,1191,2,,Original description
 1436,1191,2,,Original description
 437,1191,3,,Original description
-607,1191,3,,Original description
+607,1191,3,https://www.biodiversitylibrary.org/page/50494888,Original description
+2829,1895,20,,New combination
 706,1191,3,,Original description
 126,1191,4,,Original description
 343,1191,4,,Original description
@@ -1454,7 +1456,7 @@ nameID,referenceID,page,link,remarks
 1800,1189,420,,Original description
 1205,1189,421,,Original description
 1022,1189,421,,Original description
-2557,1189,421,,Original description
+2557,1189,421,https://www.biodiversitylibrary.org/page/9808843,Original description
 1762,1189,422,,Original description
 899,1189,422,,Original description
 556,1189,422,,Original description
@@ -2306,3 +2308,15 @@ nameID,referenceID,page,link,remarks
 1206,764,666,,New combination
 2566,265,[33],,Original description
 2587,265,[31],,Original description
+2831,1896,225,https://www.biodiversitylibrary.org/page/47928623,Original description
+2832,1898,405,,Original description
+2833,1898,407,,Original description
+2834,1898,407,,Original description
+2835,1898,407,,Original description
+2836,1898,410,,Original description
+2837,1898,412,,Original description
+2838,1898,412,,Original description
+2839,1899,434,,Original description
+2840,1899,435,,Original description
+2841,1900,286,,Original description
+2842,1900,287,,Original description

@@ -602,6 +602,8 @@ nameID,relatedNameID,type,referenceID,remarks
 1070,1071,basionym,1207,
 1106,1107,basionym,1189,
 606,607,basionym,1191,
+2829,607,basionym,1895,
+2828,1454,basionym,1895,
 649,650,basionym,1496,
 705,706,basionym,1191,
 817,818,basionym,1212,
@@ -761,3 +763,4 @@ nameID,relatedNameID,type,referenceID,remarks
 177,178,replacement name,40,
 1571,2819,replacement name,499,
 1659,2827,later homonym,,homonym
+2830,543,basionym,,

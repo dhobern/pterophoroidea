@@ -129,6 +129,7 @@ ID,Indonesia
 ID-JW,Indonesia (Java)
 ID-KA,Indonesia (Kalimantan)
 ID-MA,Indonesia (Maluku)
+ID-MU,Indonesia (North Maluku)
 ID-NB,Indonesia (Sumbawa)
 ID-PB,Indonesia (Misool)
 ID-PP,Indonesia (Irian Jaya)
@@ -241,6 +242,8 @@ RU-AL,Russia (Altai)
 RU-AMU,Russia (Amur)
 RU-DA,Russia (Daghestan)
 RU-VGG,Russia (Sarepta)
+RU-SAK, Russia (Sakhalin)
+RU-MAG, Russia (Magadan)
 RW,Rwanda
 BL,Saint Barthelemy
 SH,Saint Helena
@@ -266,6 +269,8 @@ SI,Slovenia
 SB,Solomon Islands
 SO,Somalia
 ZA,South Africa
+ZA-GP,South Africa (Gauteng)
+ZA-KZN,South Africa (KwaZulu-Natal)
 GS,South Georgia and South Sandwich Islands
 KR,South Korea
 SS,South Sudan

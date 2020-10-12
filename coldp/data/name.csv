@@ -605,7 +605,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 604,604,Hellinsia ambo,"Ustjuzhanin & Kovtunovich, 2011",species,,Hellinsia,ambo,,1724,356,2011,ICZN,established,,
 605,605,Hellinsia ruhuruinia,"Gielis, 2011",species,,Hellinsia,ruhuruinia,,763,51,2011,ICZN,established,,
 606,607,Hellinsia ammonias,"(Meyrick, 1909)",species,,Hellinsia,ammonias,,,,,ICZN,established,,
-607,607,Pterophorus ammonias,"Meyrick, 1909",species,,Pterophorus,ammonias,,1191,3,1909,ICZN,established,,
+607,607,Pterophorus ammonias,"Meyrick, 1909",species,,Pterophorus,ammonias,,1191,3,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/50494888
 608,608,Hellinsia angela,"Gielis, 2011",species,,Hellinsia,angela,,764,680,2011,ICZN,established,,
 609,610,Hellinsia angulofuscus,"Gielis, 1991",species,,Hellinsia,angulofuscus,,,,,ICZN,established,,
 610,610,Oidaematophorus angulofuscus,"Gielis, 1991",species,,Oidaematophorus,angulofuscus,,719,89,1991,ICZN,established,,
@@ -1451,7 +1451,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1451,1451,Oxyptilus erebites,"Meyrick, 1937",species,,Oxyptilus,erebites,,1230,118,1937,ICZN,established,,
 1452,1453,Oxyptilus ericetorum,"(Stainton, 1851)",species,,Oxyptilus,ericetorum,,,,,ICZN,established,,
 1453,1453,Pterophorus ericetorum,"Stainton, 1851",species,,Pterophorus,ericetorum,,1595,28,1851,ICZN,established,,
-1454,1454,Oxyptilus erythrodactylus,"Fletcher, 1911",species,,Oxyptilus,erythrodactylus,,605,281,1911,ICZN,established,,
+1454,1454,Oxyptilus erythrodactylus,"Fletcher, 1911",species,,Oxyptilus,erythrodactylus,,605,281,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/9948360
 1455,1455,Oxyptilus idonealis,"Walker, 1864",species,,Oxyptilus,idonealis,,1763,935,1864,ICZN,established,,
 1456,1456,Oxyptilus maleficus,"Meyrick, 1926",species,,Oxyptilus,maleficus,,1228,296,1926,ICZN,established,,
 1457,1457,Oxyptilus mycites,"Meyrick, 1914",species,,Oxyptilus,mycites,,1210,46,1914,ICZN,established,,
@@ -2553,7 +2553,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2554,2554,Aciptilia baliodactylus var. meridionalis,"Staudinger, 1880",variety,,Aciptilia,baliodactylus,meridionalis,1608,432,1880,ICZN,established,,
 2555,2555,Alucita indocta,"Meyrick, 1913",species,,Alucita,indocta,,1207,111,1913,ICZN,established,,
 2556,2556,Alucita subtilis,"Caradja, 1920",species,,Alucita,subtilis,,383,81,1920,ICZN,established,,
-2557,2557,Alucita parca,"Meyrick, 1921",species,,Alucita,parca,,1189,421,1921,ICZN,established,,
+2557,2557,Alucita parca,"Meyrick, 1921",species,,Alucita,parca,,1189,421,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9808843
 2558,2558,Alucita subcretosa,"Meyrick, 1922",species,,Alucita,subcretosa,,1219,549,1922,ICZN,established,,
 2559,2559,Alucita phaeoschista,"Meyrick, 1923",species,,Alucita,phaeoschista,,1223,277,1923,ICZN,established,,
 2560,2560,Alucita spicidactyla,"Chrétien, 1923",species,,Alucita,spicidactyla,,420,231,1923,ICZN,established,,
@@ -2797,7 +2797,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2798,2798,Titanoptilus rufus,"Gibeaux, 1994",species,,Titanoptilus,rufus,,693,82,1994,ICZN,established,,
 2799,2799,Titanoptilus serrulatus,"Meyrick, 1935",species,,Titanoptilus,serrulatus,,1251,554,1935,ICZN,established,,
 2800,2801,Titanoptilus stenodactylus,"(Fletcher, 1911)",species,,Titanoptilus,stenodactylus,,,,,ICZN,established,,
-2801,2801,Oxyptilus stenodactylus,"Fletcher, 1911",species,,Oxyptilus,stenodactylus,,605,282,1911,ICZN,established,,
+2801,2801,Oxyptilus stenodactylus,"Fletcher, 1911",species,,Oxyptilus,stenodactylus,,605,282,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/9948361
 2802,2802,Titanoptilus patellatus,"Meyrick, 1913",species,,Titanoptilus,patellatus,,1207,109,1913,ICZN,established,,
 2803,2803,Titanoptilus laniger,"Bigot, 1969",species,,Titanoptilus,laniger,,226,183,1969,ICZN,established,,
 2804,2804,Walsinghamiella,"Berg, 1898",genus,Walsinghamiella,,,,198,42,1898,ICZN,established,,
@@ -2823,3 +2823,18 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2825,2825,Shafferia,"Walcott, 1917",genus,Shafferia,,,,1761,71,1917,ICZN,established,Crustacea,https://www.biodiversitylibrary.org/page/29838606
 2826,2826,Richardia,"Robineau-Desvoidy, 1830",genus,Richardia,,,,1488,728,1830,ICZN,established,Diptera: Richardiidae,https://www.biodiversitylibrary.org/page/8687067
 2827,2827,Cnemidophorus,"Wagler, 1830",genus,Cnemidophorus,,,,1756,154,1830,ICZN ,established,Squamata: Teiidae,https://www.biodiversitylibrary.org/page/38965890
+2828,1454,Sphenarches erythrodactylus,"Fletcher, 1911",species,,Sphenarches,erythrodactylus,,1895,20,2020,ICZN,established,,
+2829,607,Marasmarcha ammonias,"Meyrick, 1909",species,,Marasmarcha,ammonias,,1895,20,2020,ICZN,established,,
+2830,543,Pterophorus monodactylus,"(Linnaeus, 1758)",species,,Pterophorus,monodactylus,,,,,ICZN,established,,
+2831,2831,Aciptilia taganrogensis,"Alphéraky, 1876",species,,Aciptilia,taganrogensis,,1896,225,1876,ICZN,established,,https://www.biodiversitylibrary.org/page/47928623
+2832,2832,Hellinsia shiskini,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,shishkini,,1898,405,2018,ICZN,established,,
+2833,2833,Hellinsia vasnetsovi,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,vasnetsovi,,1898,407,2018,ICZN,established,,
+2834,2834,Hellinsia savrasovi,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,savrasovi,,1898,407,2018,ICZN,established,,
+2835,2835,Hellinsia repini,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,repini,,1898,407,2018,ICZN,established,,
+2836,2836,Hellinsia kuinji,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,kuinji,,1898,410,2018,ICZN,established,,
+2837,2837,Hellinsia polenovi,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,polenovi,,1898,412,2018,ICZN,established,,
+2838,2838,Hellinsia levitani,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,levitani,,1898,412,2018,ICZN,established,,
+2839,2839,Hellinsia tatianae,"Kovtunovich & Ustjuzhanin, 2019",species,,Hellinsia,tatianae,,1899,434,2019,ICZN,established,,
+2840,2840,Hellinsia dietrichorum,"Kovtunovich & Ustjuzhanin, 2019",species,,Hellinsia,dietrichorum,,1899,435,2019,ICZN,established,,
+2841,2841,Pterophorus dohertyi,"Ustjuzhanin & Kovtunovich, 2020",species,,Pterophorus,dohertyi,,1900,286,2020,ICZN,established,,
+2842,2842,Pterophorus shevnini,"Ustjuzhanin & Kovtunovich, 2020",species,,Pterophorus,shevnini,,1900,287,2020,ICZN,established,,
