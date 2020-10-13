@@ -1178,7 +1178,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1178,1179,Oidaematophorus lithodactyla,"(Treitschke, 1833)",species,,Oidaematophorus,lithodactyla,,,,,ICZN,established,,
 1179,1179,Alucita lithodactyla,"Treitschke, 1833",species,,Alucita,lithodactyla,,1654,245,1833,ICZN,established,,
 1180,1180,Alucita septodactyla,"Treitschke, 1833",species,,Alucita,septodactyla,,1654,246,1833,ICZN,established,,
-1181,1181,Pterophorus similidactylus,"Dale, 1834",species,,Pterophorus,similidactylus,,462,263,263,ICZN,established,,https://www.biodiversitylibrary.org/page/2351832
+1181,1181,Pterophorus similidactylus,"Dale, 1834",species,,Pterophorus,similidactylus,,462,263,1834,ICZN,established,,https://www.biodiversitylibrary.org/page/2351832
 1182,1182,Pterophorus phaeodactylus,"Stephens, 1834",species,,Pterophorus,phaeodactylus,,1619,375,1835,ICZN,established,,
 1183,1183,Pterophorus lithoxylodactylus,"Duponchel, 1840",species,,Pterophorus,lithoxylodactylus,,499,670,1840,ICZN,established,,https://www.biodiversitylibrary.org/page/9938043
 1184,1185,Oidaematophorus mathewianus,"(Zeller, 1874)",species,,Oidaematophorus,mathewianus,,,,,ICZN,established,,
@@ -2838,3 +2838,5 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2840,2840,Hellinsia dietrichorum,"Kovtunovich & Ustjuzhanin, 2019",species,,Hellinsia,dietrichorum,,1899,435,2019,ICZN,established,,
 2841,2841,Pterophorus dohertyi,"Ustjuzhanin & Kovtunovich, 2020",species,,Pterophorus,dohertyi,,1900,286,2020,ICZN,established,,
 2842,2842,Pterophorus shevnini,"Ustjuzhanin & Kovtunovich, 2020",species,,Pterophorus,shevnini,,1900,287,2020,ICZN,established,,
+2843,2843,Oxyptilus eleanerae,"Matthews, 2017",species,,Oxyptilus,eleanerae,,1903,77,2017,ICZN,established,,
+2844,2844,Platyptilia galicicaensis,"Junnilainen & Kaitila, 2017",species,,Platyptilia,galicicaensis,,1904,110,2017,ICZN,established,,

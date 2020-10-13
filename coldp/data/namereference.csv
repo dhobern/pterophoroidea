@@ -2108,7 +2108,8 @@ nameID,referenceID,page,link,remarks
 1614,1889,404,,Original description
 2350,1889,407,,Original description
 2001,1706,137,,Original description
-1238,1706,139,,Original description
+1238,1706,139,,Misspelling
+1238,1706,600,,Identifies Pselnophorus huntii as correct spelling
 1251,1706,139,,Original description
 1237,1706,139,,Original description
 2515,1706,140,,Original description
@@ -2320,3 +2321,5 @@ nameID,referenceID,page,link,remarks
 2840,1899,435,,Original description
 2841,1900,286,,Original description
 2842,1900,287,,Original description
+2843,1903,77,,Original description
+2844,1904,110,,Original description
