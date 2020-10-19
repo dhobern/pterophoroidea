@@ -2207,8 +2207,8 @@ nameID,referenceID,page,link,remarks
 1623,1010,96,,Original description
 1626,1010,96,,Original description
 1629,1010,97,,Original description
-1631,1010,99,,Original description
-1630,1010,100,,Original description
+1631,1010,99,,"Original description, male genitalia drawing"
+1630,1010,100,,"Original description, female genitalia drawing"
 812,764,605,,Placed in male genitalia group B01
 920,764,606,,Placed in male genitalia group B01
 970,764,606,,Placed in male genitalia group B01
@@ -2323,3 +2323,9 @@ nameID,referenceID,page,link,remarks
 2842,1900,287,,Original description
 2843,1903,77,,Original description
 2844,1904,110,,Original description
+1628,1010,96,,Male genitalia drawing
+1628,1010,97,,Female genitalia drawing
+1626,1010,98,,Male genitalia drawing
+1629,1010,99,,Male genitalia drawing
+1623,1010,98,,Male genitalia drawing
+1632,1010,101,,Male genitalia drawing
