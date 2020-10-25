@@ -864,7 +864,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1961,NP,iso,native,,
 2122,AU,iso,native,,
 1960,ID,iso,native,,
-1647,AU,iso,native,,
+1647,AU,iso,native,138,
 1647,NC,iso,native,,
 1987,NZ,iso,native,,
 1993,IN,iso,native,,
@@ -2822,7 +2822,7 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1528,IN,iso,native,,
 1528,JP,iso,native,,
 1528,KR,iso,native,,
-1818,AU,iso,native,,
+1818,AU,iso,native,138,p. 112
 1818,CN,iso,native,,
 1818,JP,iso,native,,
 1818,KR,iso,native,,
@@ -5569,3 +5569,5 @@ taxonId,area,gazetteer,status,referenceID,remarks
 2842,ID-MU,iso,native,1900,
 2843,US,iso,native,1903,
 2844,MK,iso,native,1904,
+362,AU,iso,native,138,"p. 111, as Hepalastis pumilio"
+1528,AU,iso,native,138,
