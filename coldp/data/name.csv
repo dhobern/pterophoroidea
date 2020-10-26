@@ -191,7 +191,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 190,190,Agdistis pinkeri,"Bigot, 1972",species,,Agdistis,pinkeri,,230,224,1972,ICZN,established,,
 191,191,Agdistis samknotti,"Kovtunovich & Ustjuzhanin, 2015",species,,Agdistis,samknotti,,1018,142,2015,ICZN,established,,
 192,193,Agdistis sanctaehelenae,"(Wollaston, 1879)",species,,Agdistis,sanctaehelenae,,,,,ICZN,established,,
-193,193,Adactyla sanctaehelenae,"Wollaston, 1879",species,,Adactyla,sanctaehelenae,,1823,440,1879,ICZN,established,,
+193,193,Adactyla sanctaehelenae,"Wollaston, 1879",species,,Adactyla,sanctaehelenae,,1823,440,1879,ICZN,established,Published as Adactyla sanctae helenae,https://www.biodiversitylibrary.org/page/25159471
 194,194,Agdistis satanas,"Millière, 1875",species,,Agdistis,satanas,,1270,167,1875,ICZN,established,,https://www.biodiversitylibrary.org/page/8234055
 195,195,Agdistis nanus,"Turati, 1924",species,,Agdistis,nanus,,1657,150,1924,ICZN,established,,
 196,196,Agdistis pseudosatanas,"Amsel, 1951",species,,Agdistis,pseudosatanas,,33,102,1951,ICZN,established,,
@@ -2842,3 +2842,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2844,2844,Platyptilia galicicaensis,"Junnilainen & Kaitila, 2017",species,,Platyptilia,galicicaensis,,1904,110,2017,ICZN,established,,
 2845,363,Hepalastis pumilio,"(Zeller, 1873)",species,,Hepalastis,pumilio,,,,,ICZN,established,,
 2846,2846,Agdistis cambriana,"Arenberger, Beard & Karisch, 2016",species,,Agdistis,cambriana,,1906,327,2016,ICZN,established,,
+2847,2847,Agdistis santahelenae,"(Wollaston, 1879)",species,,Agdistis,santahelenae,,162,449,2012,ICZN,not established,Misspelling,

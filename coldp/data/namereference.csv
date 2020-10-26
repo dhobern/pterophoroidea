@@ -208,7 +208,7 @@ nameID,referenceID,page,link,remarks
 637,160,70,,Original description
 985,160,73,,Original description
 926,160,74,,Original description
-134,162,448,,Original description
+134,162,448,,"Original description with imago, larva, pupa, male genitalia - female genitalia incorrect"
 1128,178,827,,Original description
 1282,176,289,,Original description
 1387,176,304,,Original description
@@ -1947,7 +1947,7 @@ nameID,referenceID,page,link,remarks
 696,1801,29,,Original description
 2235,1815,217,,Original description
 2547,1813,376,,Original description
-193,1823,440,,Original description
+193,1823,440,https://www.biodiversitylibrary.org/page/25159471,Original description
 1525,1823,441,,Original description
 764,1826,6,,Original description
 410,1827,1,,Original description
@@ -2333,3 +2333,4 @@ nameID,referenceID,page,link,remarks
 1818,138,112,,New combination
 2846,1906,327,,"Original description with imago, male and female genitalia"
 134,1906,328,,Reillustrates female genitalia - illustration in original publication is of A. cambriana female genitalia
+2847,162,449,,Misspelling
