@@ -1,8 +1,8 @@
-taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relatedTaxonLink
-1775,,Haplopappus foliosus,eats,1736,,
-1775,,Haplopappus chrysantemifolius,eats,1907,,
-1775,,Haplopappus decurrens,eats,1907,,
-1775,,Haplopappus multifolius,eats,1907,,
-1775,,Haplopappus schumanii,eats,1907,,
-1775,,Haplopappus scrobiculatus,eats,1907,,
-134,,Frankenia portulacifolia,eats,162,,
+taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relatedTaxonLink,relatedTaxonOrder,relatedTaxonFamily,relatedTaxonFullName,relatedTaxonHTMLName
+1775,,Haplopappus foliosus,eats,1736,,https://www.catalogue.life/data/taxon/47cf82ce-e556-4f82-8794-da9e18303018,Asterales,Asteraceae,Haplopappus foliosus DC.,<i>Haplopappus foliosus</i> DC.
+1775,,Haplopappus chrysanthemifolius,eats,1907,,https://www.catalogue.life/data/taxon/9f87f348-21ac-408f-b845-be1856e2cf4b,Asterales,Asteraceae,Haplopappus chrysanthemifolius (Less.) DC.,<i>Haplopappus chrysanthemifolius</i> (Less.) DC.
+1775,,Haplopappus decurrens,eats,1907,,https://www.catalogue.life/data/taxon/0e54a798-a2a5-4c9b-86cd-287e07868acd,Asterales,Asteraceae,Haplopappus decurrens Remy,<i>Haplopappus decurrens</i> Remy
+1775,,Haplopappus multifolius,eats,1907,,https://www.catalogue.life/data/taxon/bda6a2bc-db79-4257-a7ce-2804aec55a17,Asterales,Asteraceae,Haplopappus multifolius Phil. ex Reiche,<i>Haplopappus multifolius</i> Phil. ex Reiche
+1775,,Haplopappus schumannii,eats,1907,,https://www.catalogue.life/data/taxon/60fb7334-785a-40c4-bec5-8e01ed7f9f94,Asterales,Asteraceae,Haplopappus schumannii (Kuntze) G. K. Brown & W. D. Clark,<i>Haplopappus schumannii</i> (Kuntze) G. K. Brown & W. D. Clark
+1775,,Haplopappus scrobiculatus,eats,1907,,https://www.catalogue.life/data/taxon/2a4e854c-8739-484e-83e0-f4c741d95f42,Asterales,Asteraceae,Haplopappus scrobiculatus (Nees) DC.,<i>Haplopappus scrobiculatus</i> (Nees) DC.
+134,,Frankenia portulacifolia,eats,162,,https://www.catalogue.life/data/taxon/df53ae4f-8d82-4fe1-8fa2-f76fead415cc,Caryophyllales,Frankeniaceae,Frankenia portulacifolia (Roxb.) Spreng.,<i>Frankenia portulacifolia</i> (Roxb.) Spreng.
