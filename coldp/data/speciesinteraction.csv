@@ -773,13 +773,13 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2462,,Jurinea mollis,eats,,,https://www.catalogue.life/data/taxon/5fcf9f8b-a755-4b80-9f78-556c4e42f323,Asterales,Asteraceae,Jurinea mollis subsp. mollis,<i>Jurinea mollis</i> subsp. <i>mollis</i>
 2462,,Carlina vulgaris,eats,,,https://www.catalogue.life/data/taxon/a8ec7059-24e7-45da-a910-d66ff3b21b11,Asterales,Asteraceae,Carlina vulgaris L.,<i>Carlina vulgaris</i> L.
 2462,,Carlina acanthifolia,eats,,,https://www.catalogue.life/data/taxon/254707ef-a4fc-40ae-a4fb-c73d0ac79c73,Asterales,Asteraceae,Carlina acanthifolia All.,<i>Carlina acanthifolia</i> All.
-2462,,Carlina longifolia,eats,,,,,,,
+2462,,Carlina biebersteinii,eats,,as Carlina longifolia,https://www.catalogue.life/data/taxon/569ada12-db1f-493d-aeeb-57eca5587338,Asterales,Asteraceae,Carlina biebersteinii Bernh. ex Hornem.,<i>Carlina biebersteinii</i> Bernh. ex Hornem.
 2462,,Echinops ritro,eats,,,https://www.catalogue.life/data/taxon/0d5783ca-7ce0-46ff-97e1-8cb9a2994b9a,Asterales,Asteraceae,Echinops exaltatus Schrad.,<i>Echinops exaltatus</i> Schrad.
 2462,,Echinops ruthenicus,eats,,,,,,,
 2462,,Echinops sphaerocephalus,eats,,,https://www.catalogue.life/data/taxon/6b917d42-bbe9-4ec4-9eda-8eac832119f8,Asterales,Asteraceae,Echinops sphaerocephalus L.,<i>Echinops sphaerocephalus</i> L.
 2480,,Jurinea mollis,eats,,,https://www.catalogue.life/data/taxon/5fcf9f8b-a755-4b80-9f78-556c4e42f323,Asterales,Asteraceae,Jurinea mollis subsp. mollis,<i>Jurinea mollis</i> subsp. <i>mollis</i>
 2480,,Jurinea consanguinea subsp. arachnoidea,eats,,,https://www.catalogue.life/data/taxon/70a88511-890e-4c7d-8da0-dde81a13f4e4,Asterales,Asteraceae,Jurinea arachnoidea Bunge,<i>Jurinea arachnoidea</i> Bunge
-2480,,Carlina longifolia,eats,,,,,,,
+2480,,Carlina biebersteinii,eats,,as Carlina longifolia,https://www.catalogue.life/data/taxon/569ada12-db1f-493d-aeeb-57eca5587338,Asterales,Asteraceae,Carlina biebersteinii Bernh. ex Hornem.,<i>Carlina biebersteinii</i> Bernh. ex Hornem.
 2475,,Cirsium eriophorum,eats,,,https://www.catalogue.life/data/taxon/eae7cdc3-cd22-4da1-8a3e-971f9884a28a,Asterales,Asteraceae,Cirsium eriophorum (L.) Scop.,<i>Cirsium eriophorum</i> (L.) Scop.
 2475,,Cirsium ligulare,eats,,,https://www.catalogue.life/data/taxon/bc476dc6-dec0-4507-8eee-e69680f8e982,Asterales,Asteraceae,Cirsium ligulare Boiss.,<i>Cirsium ligulare</i> Boiss.
 2742,,Carlina corymbosa,eats,,,https://www.catalogue.life/data/taxon/b120a323-e1a1-47cb-be19-e1858f612926,Asterales,Asteraceae,Carlina vulgaris subsp. vulgaris,<i>Carlina vulgaris</i> subsp. <i>vulgaris</i>
@@ -848,7 +848,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2633,,Ipomoea batatas,eats,,,https://www.catalogue.life/data/taxon/ac2938c9-a8f7-4547-82b2-511cf8ab51b8,Solanales,Convolvulaceae,Ipomoea batatas (L.) Lam.,<i>Ipomoea batatas</i> (L.) Lam.
 2672,,Hedera helix,eats,,,https://www.catalogue.life/data/taxon/8c422c42-0970-4906-9dd2-fb793723542d,Apiales,Araliaceae,Hedera helix L.,<i>Hedera helix</i> L.
 2619,,Convolvulus,eats,,,https://www.catalogue.life/data/taxon/3ab1f912-9353-4e7f-9143-806da03d7552,Solanales,Convolvulaceae,Convolvulus,<i>Convolvulus</i>
-2619,,Pharbitis nil,eats,,,,,,,
+2619,,Ipomoea nil,eats,,as Pharbitis nil,https://www.catalogue.life/data/taxon/f6ea74a8-b5da-481e-b7f2-ea28a3b67e21,Solanales,Convolvulaceae,Ipomoea nil (L.) Roth,<i>Ipomoea nil</i> (L.) Roth
 2630,,Merremia hederacea,eats,,,https://www.catalogue.life/data/taxon/89dd77f5-bd27-463e-a779-3cbe5d7bdd2f,Solanales,Convolvulaceae,Merremia hederacea (Burm. fil.) Hall. fil.,<i>Merremia hederacea</i> (Burm. fil.) Hall. fil.
 2630,,Oldenlandia corymbosa,eats,,,https://www.catalogue.life/data/taxon/ce5e4bf2-4c00-439a-af74-4883ee4153e1,Gentianales,Rubiaceae,Oldenlandia lactea (Willd.) DC.,<i>Oldenlandia lactea</i> (Willd.) DC.
 2504,,Averrhoa carambola,eats,,,https://www.catalogue.life/data/taxon/32403011-0f0c-4323-8723-c46aa556cb47,Oxalidales,Oxalidaceae,Averrhoa carambola L.,<i>Averrhoa carambola</i> L.
@@ -861,7 +861,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 797,,Eupatorium capillifolium,eats,,,https://www.catalogue.life/data/taxon/7afd610b-c606-4805-9f76-e5161a5c840c,Asterales,Asteraceae,Eupatorium capillifolium (Lam.) Small,<i>Eupatorium capillifolium</i> (Lam.) Small
 1776,,Baccharis scandens,eats,,,https://www.catalogue.life/data/taxon/4a71939f-7bf0-47d8-befb-e125191fecef,Asterales,Asteraceae,Baccharis scandens (Ruiz & Pav.) Pers.,<i>Baccharis scandens</i> (Ruiz & Pav.) Pers.
 651,,Ageratina dendroides,eats,,,https://www.catalogue.life/data/taxon/db5ed533-f2fb-43ff-962a-b7b4e08b20d7,Asterales,Asteraceae,Raulinoreitzia crenulata (Spreng.) R. King & H. Rob.,<i>Raulinoreitzia crenulata</i> (Spreng.) R. King & H. Rob.
-1625,,Lysionotus paucifloris,eats,,,,,,,
+1625,,Lysionotus pauciflorus,eats,,,https://www.catalogue.life/data/taxon/fe278b2c-087f-40cb-a4b7-ad05b57eca4c,Lamiales,Gesneriaceae,Lysionotus pauciflorus Maxim.,<i>Lysionotus pauciflorus</i> Maxim.
 1625,,Conandron ramondioides,eats,,,https://www.catalogue.life/data/taxon/5f5c49ca-14b3-4ec5-8869-374cbf79e4be,Lamiales,Gesneriaceae,Conandron ramondioides Sieb. & Zucc.,<i>Conandron ramondioides</i> Sieb. & Zucc.
 929,,Melanthera prostrata,eats,,,https://www.catalogue.life/data/taxon/d2d3d72a-92c3-4bdc-9770-6f51f8b74aa9,Asterales,Asteraceae,Wollastonia dentata (H. Lév. & Vaniot) Orchard,<i>Wollastonia dentata</i> (H. Lév. & Vaniot) Orchard
 929,,Melanthera robusta,eats,,,https://www.catalogue.life/data/taxon/7e7753a0-235a-4bf8-b90d-1b7116427f1e,Asterales,Asteraceae,Melanthera robusta (Makino) K. Ohashi & H. Ohashi,<i>Melanthera robusta</i> (Makino) K. Ohashi & H. Ohashi
