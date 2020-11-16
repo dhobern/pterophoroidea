@@ -950,7 +950,7 @@ taxonID,nameID,status,referenceID,remarks
 1189,1191,synonym,,
 1036,1037,synonym,,
 655,656,synonym,,
-914,915,synonym,,
+1213,915,synonym,,Bippus 2020 confirms identity by female genitalia
 904,905,synonym,,
 934,935,synonym,,
 542,543,synonym,,
@@ -1199,3 +1199,6 @@ taxonID,nameID,status,referenceID,remarks
 204,64,synonym,1902,
 362,2845,synonym,,
 192,2847,synonym,162,Misspelling
+1213,2850,synonym,,Bippus 2020 treats Hellinsia imerinae as a separate species for the time being
+1213,914,synonym,,Bippus 2020 confirms identity by female genitalia
+2849,328,synonym,1912,"Kemal & Koçak 2017 pointed out the precedence of Marasmarchidi Tutt, 1906 over Exelastini Gielis, 2000"

@@ -5573,3 +5573,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1528,AU,iso,native,138,
 2846,SH,iso,native,1906,
 2847,CL,iso,native,1908,
+2848,RE,iso,native,,
+359,MU,iso,uncertain,1911,"Mauritius, Blackriver"
+2134,MU,iso,uncertain,1911,"Mauritius, Bambous"

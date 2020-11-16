@@ -324,7 +324,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 323,323,Ochyrotica willyi,"Gielis, 2011",species,,Ochyrotica,willyi,,763,39,2011,ICZN,established,,
 324,324,Ochyrotica yanoi,"Arenberger, 1988",species,,Ochyrotica,yanoi,,89,276,1988,ICZN,established,,
 325,325,Ochyrotica zolotuhini,"Ustjuzhanin & Kovtunovich, 2010",species,,Ochyrotica,zolotuhini,,1701,245,2010,ICZN,established,,
-326,326,Pterophorinae,"Zeller, 1841",subfamily,Pterophorinae,,,,1873,755,1841,ICZN,established,Pterophoridae proprii,
+326,326,Pterophorinae,"Zeller, 1841",subfamily,Pterophorinae,,,,1873,755,1841,ICZN,established,,
 327,327,Platyptiliinae,"Tutt, 1906",subfamily,Platyptiliinae,,,,1676,156,1906,ICZN,established,,https://www.biodiversitylibrary.org/page/39246219
 328,328,Exelastini,"Gielis, 2000",tribe,Exelastini,,,,743,59,2000,ICZN,established,,
 329,329,Arcoptilia,"Arenberger, 1985",genus,Arcoptilia,,,,76,167,1985,ICZN,established,,
@@ -2844,3 +2844,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2846,2846,Agdistis cambriana,"Arenberger, Beard & Karisch, 2016",species,,Agdistis,cambriana,,1906,327,2016,ICZN,established,,
 2847,2847,Agdistis santahelenae,"(Wollaston, 1879)",species,,Agdistis,santahelenae,,162,449,2012,ICZN,not established,Misspelling,
 2848,2848,Adaina jobimi,"Vargas, 2020",species,,Adaina,jobimi,,1908,330,2020,ICZN,established,,
+2849,2849,Megalorhipida monsa,"Bippus, 2020",species,,Megalorhipida,monsa,,1911,92,2020,ICZN,established,,
+2850,1215,Hellinsia imerinae,"(Bigot, 1964)",species,,Hellinsia,imerinae,,1911,90,2020,ICZN,established,Bippus notes the prior synonymisation of Pterophorus imerinae with Picardia orchatias but is cautious because genitalia are not illustrated for the latter,
+2851,2851,Marasmarchini,"Tutt, 1906",tribe,Marasmarchini,,,,1676,385,1906,ICZN,established,,https://www.biodiversitylibrary.org/page/39246452
