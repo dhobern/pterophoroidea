@@ -2,7 +2,7 @@ title: Catalogue of the Pterophoroidea of the World
 # a short, hopefully unique name for the dataset
 alias: Pterophoroidea
 description: |
-    "This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated to correct a number of errors in processing of Cees Gielis' original dataset and to reflect recent additions to the group. Additional page references have been added."
+    This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated to correct a number of errors in processing of Cees Gielis' original dataset and to reflect recent additions to the group. Additional page references have been added.
 
 # single point of contact for questions
 contact:
@@ -41,10 +41,10 @@ gazetteer: iso
 license: CC0
 
 # version name of this copy
-version: 1.1.20321 (16 Nov 2020)
+version: 1.1.2148 (17 Feb 2021)
 
 # release date of this version in ISO YYYY-MM-DD
-released: 2020-11-16
+released: 2021-02-17
 
 # URL to large logo image
 logo: http://hobern.net/img/Deuterocopus_ritsemae.png
