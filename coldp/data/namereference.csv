@@ -1631,8 +1631,8 @@ nameID,referenceID,page,link,remarks
 1571,1409,485,,Original description
 1661,1411,46,,Original description
 1897,1417,9,,Original description
-29,1448,29,,Original description
-211,1448,30,,Original description
+29,1448,29,,"Original description, male, female genitalia"
+211,1448,30,,"Original description, male genitalia"
 695,1450,113,https://www.biodiversitylibrary.org/page/35764575,Original description
 1159,1451,230,https://www.biodiversitylibrary.org/page/35764692,Original description
 48,1455,114,,Original description
@@ -1950,7 +1950,7 @@ nameID,referenceID,page,link,remarks
 193,1823,440,https://www.biodiversitylibrary.org/page/25159471,Original description
 1525,1823,441,,Original description
 764,1826,6,,Original description
-410,1827,1,,Original description
+410,1827,1,,"Original description; habitus, male and female genitalia drawings"
 2016,1829,137,,Original description
 1527,1830,87,,Original description
 1530,1830,88,,Original description
@@ -2345,3 +2345,6 @@ nameID,referenceID,page,link,remarks
 404,1912,3,,Photographs: larva and pupa
 404,1912,4,,Photograph: male genitalia
 2851,1676,385,https://www.biodiversitylibrary.org/page/39246452,
+1360,1447,12,,"Original description, male genitalia"
+1360,1087,,,Synonymy with Crombrugghia tristis
+29,1087,,,Synonymised with Agdistis adactyla

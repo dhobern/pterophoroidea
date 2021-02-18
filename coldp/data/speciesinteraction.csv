@@ -418,7 +418,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 408,,Ononis spinosa,eats,,,https://www.catalogue.life/data/taxon/b399844c-6af2-42f2-838a-4886de87b925,Fabales,Fabaceae,Ononis spinosa L.,<i>Ononis spinosa</i> L.
 420,,Ononis rotundifolia,eats,,,https://www.catalogue.life/data/taxon/b293ce8d-1b20-4822-8f57-72d7b46a47f0,Fabales,Fabaceae,Ononis rotundifolia L.,<i>Ononis rotundifolia</i> L.
 400,,Glycyrrhiza,eats,,,https://www.catalogue.life/data/taxon/266869fe-85d1-45fd-a42b-bc3c91f6e5f9,Fabales,Fabaceae,Glycyrrhiza,<i>Glycyrrhiza</i>
-410,,Glycyrrhiza uralensis,eats,,,https://www.catalogue.life/data/taxon/9d0d8610-dff9-40f3-9f84-71403d1a2f82,Fabales,Fabaceae,Glycyrrhiza uralensis Fisch.,<i>Glycyrrhiza uralensis</i> Fisch.
+410,,Glycyrrhiza uralensis,eats,1827,Feed on leaves and developing seed cases,https://www.catalogue.life/data/taxon/9d0d8610-dff9-40f3-9f84-71403d1a2f82,Fabales,Fabaceae,Glycyrrhiza uralensis Fisch.,<i>Glycyrrhiza uralensis</i> Fisch.
 338,,Cajanus indicus,eats,,,https://www.catalogue.life/data/taxon/b7685d33-ffb9-4988-b8ff-56c29c54ed64,Fabales,Fabaceae,Cajanus cajan (L.) Millsp.,<i>Cajanus cajan</i> (L.) Millsp.
 338,,Lablab purpureus,eats,,as Dolichos lablab,https://www.catalogue.life/data/taxon/fe2efa55-6bc1-42a8-9417-5c6a2094da8f,Fabales,Fabaceae,Lablab purpureus (L.) Sweet,<i>Lablab purpureus</i> (L.) Sweet
 354,,Rhynchosia minima,eats,,,https://www.catalogue.life/data/taxon/97b98c83-0ad0-45a5-ad10-3818476c4415,Fabales,Fabaceae,Rhynchosia minima (L.) DC.,<i>Rhynchosia minima</i> (L.) DC.
