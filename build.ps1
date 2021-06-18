@@ -1,6 +1,6 @@
-$versionid=get-date -UFormat "%y%j (%d %b %Y)"
+$versionid=get-date -UFormat "%y.%j (%d %b %Y)"
 $releasedate=get-date -UFormat "%Y-%m-%d"
-sed -i -e "s/^version: .*$/version: 1.1.$versionid/" -e "s/^released: .*$/released: $releasedate/" coldp/metadata.yaml
+sed -i -e "s/^version: .*$/version: 1.1.$versionid\r/" -e "s/^released: .*$/released: $releasedate\r/" coldp/metadata.yaml
 
 erase Pterophoroidea.zip
 cd coldp

@@ -1,53 +1,56 @@
 title: Catalogue of the Pterophoroidea of the World
-# a short, hopefully unique name for the dataset
+
 alias: Pterophoroidea
+
 description: |
-    This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4), as subsequently maintained and updated by Cees Gielis. The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://hobern.net/Pterophoroidea. Version 1.1 has been updated to correct a number of errors in processing of Cees Gielis' original dataset and to reflect recent additions to the group. Additional page references have been added.
+    This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://Pterophoroidea.hobern.net/. Version 1.0 includes updates to reflect recent changes in taxonomy and new species.
 
-# single point of contact for questions
+released: 2021-06-18
+
+version: 1.1.21.169 (18 Jun 2021)
+
 contact:
-  - givenName: Donald
-    familyName: Hobern
+  - given: Donald
+    family: Hobern
     email: dhobern@gmail.com
-    orcid: "0000-0001-6492-4016"
+    orcid: 0000-0001-6492-4016
 
-# list of authors and editors.
-# Please provide an ORCID if you can so it can be included in DOI metadata
-authorsAndEditors:
-  - givenName: Donald
-    familyName: Hobern
+creator:
+  - given: Donald
+    family: Hobern
     email: dhobern@gmail.com
-    orcid: "0000-0001-6492-4016"
-  - givenName: Cees
-    familyName: Gielis
-    orcid: "0000-0003-0857-1679"
+    orcid: 0000-0001-6492-4016
+  - given: Cees
+    family: Gielis
+    orcid: 0000-0003-0857-1679
 
-# description of the geographical scope of the dataset
+editor:
+  - given: Donald
+    family: Hobern
+    email: dhobern@gmail.com
+    orcid: 0000-0001-6492-4016
+
 geographicScope: global
 
-# taxonomic scope of the dataset
 taxonomicScope: Pterophoroidea
 
-# nomeclatural code covered. Keep empty if its across codes
-# botanical, zoological, bacterial, virus
-code: zoological
+temporalScope: All taxa described to present
 
-# gazateer to base distribution codes on.
-# See http://api.catalogue.life/vocab/gazetteer
-# tdwg, iso, fao, longhurst, teow, iho, text
-gazetteer: iso
+confidence: 5
 
-# Any commons license, but preferrably CC0, CC-BY or CC-BY-NC
+completeness: 99
+
 license: CC0
 
-# version name of this copy
-version: 1.1.21138 (18 May 2021)
+url: https://pterophoroidea.hobern.net
 
-# release date of this version in ISO YYYY-MM-DD
-released: 2021-05-18
+logo: https://hobern.net/img/Deuterocopus_ritsemae.png 
 
-# URL to large logo image
-logo: http://hobern.net/img/Deuterocopus_ritsemae.png
-
-# how to cite the dataset
-citation: Gielis C. & Hobern D. (eds) (2020). Catalogue of the Pterophoroidea of the World (version 1.1, 09/2020).
+source:
+  - id: gielis-2003
+    type: book
+    title: "Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4)"
+    author:
+      - Cees Gielis
+    issued: 2003
+    isbn: 87-88757-68-4
