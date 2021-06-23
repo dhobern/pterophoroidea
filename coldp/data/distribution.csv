@@ -3251,7 +3251,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1402,YE,iso,native,,
 1419,ID,iso,native,,
 1419,ID-PP,iso,native,,
-1147,PK,iso,native,,
 1257,AF,iso,native,,
 1257,CY,iso,native,,
 1257,DZ,iso,native,,
@@ -5577,3 +5576,4 @@ taxonId,area,gazetteer,status,referenceID,remarks
 359,MU,iso,uncertain,1911,"Mauritius, Blackriver"
 2134,MU,iso,uncertain,1911,"Mauritius, Bambous"
 1831,AU,iso,uncertain,,Queensland and Northern Territory
+347,PK,iso,native,1915,
