@@ -2424,7 +2424,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2424,2425,Xyroptila aritai,"Gielis & Mano, 2013",species,,Xyroptila,aritai,,,,,ICZN,established,,
 2425,2425,Xyriptila aritai,"Gielis & Mano, 2013",species,,Xyriptila,aritai,,774,151,2013,ICZN,established,,
 2426,2427,Xyroptila caminites,"(Meyrick, 1908)",species,,Xyroptila,caminites,,,,,ICZN,established,,
-2427,2427,Oxyptilus caminites,"Meyrick, 1908",species,,Oxyptilus,caminites,,1189,478,1908 (dated 1907),ICZN,established,,
+2427,2427,Oxyptilus caminites,"Meyrick, 1908",species,,Oxyptilus,caminites,,1189,478,1908,ICZN,established,Dated 1907 but published in 1908,https://www.biodiversitylibrary.org/page/13535020
 2428,2428,Xyroptila colluceo,"Gielis & De Vos, 2007",species,,Xyroptila,colluceo,,772,191,2007,ICZN,established,,
 2429,2429,Xyroptila dohertyi,"Kovtunovich & Ustjuzhanin, 2006",species,,Xyroptila,dohertyi,,1011,263,2006,ICZN,established,,
 2430,2430,Xyroptila elegans,"Kovtunovich & Ustjuzhanin, 2006",species,,Xyroptila,elegans,,1011,258,2006,ICZN,established,,

@@ -5,9 +5,9 @@ alias: Pterophoroidea
 description: |
     This GSD is derived from C. Gielis (2003) Pterophoroidea & Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://Pterophoroidea.hobern.net/. Version 1.0 includes updates to reflect recent changes in taxonomy and new species.
 
-released: 2021-07-29
+released: 2021-07-30
 
-version: 1.1.21.210 (29 Jul 2021)
+version: 1.1.21.211 (30 Jul 2021)
 
 contact:
   - given: Donald
