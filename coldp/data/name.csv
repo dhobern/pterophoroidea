@@ -2847,3 +2847,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2849,2849,Megalorhipida monsa,"Bippus, 2020",species,,Megalorhipida,monsa,,1911,92,2020,ICZN,established,,
 2850,1215,Hellinsia imerinae,"(Bigot, 1964)",species,,Hellinsia,imerinae,,1911,90,2020,ICZN,established,Bippus notes the prior synonymisation of Pterophorus imerinae with Picardia orchatias but is cautious because genitalia are not illustrated for the latter,
 2851,2851,Marasmarchini,"Tutt, 1906",tribe,Marasmarchini,,,,1676,385,1906,ICZN,established,,https://www.biodiversitylibrary.org/page/39246452
+2852,2852,Pselnophorus boldyrevae,"Kovtunovich & Ustjuzhanin, 2017",species,,Pselnophorus,boldyrevae,,1916,576,2017,ICZN,established,,
+2853,2853,Crassuncus kenzo,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,kenzo,,1916,577,2017,ICZN,established,,
+2854,2854,Crassuncus ermakovae,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,ermakovae,,1916,579,2017,ICZN,established,,
+2855,2855,Hellinsia birichevskayae,"Kovtunvich & Ustjuzhanin, 2017",species,,Hellinsia,birichevskayae,,1916,579,2017,ICZN,established,,
