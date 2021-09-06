@@ -2854,3 +2854,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2856,1695,Gillmeria tetradactyla,"(Linnaeus, 1761)",species,,Gillmeria,tetradactyla,,1674,37,1905,ICZN,established,"Tutt established Gillmeria ochrodactyla as the type species of Gillmeria in 1905, but ochrodactyla is preceded by tetradactyla",
 2857,1696,Platyptilia ochrodactyla,"(Denis & Schiffermüller, 1775)",species,,Platyptilia,ochrodactyla,,,,1775,ICZN,established,,
 2858,2858,Amblyptilia acanthodactyla,"(Hübner, 1813)",species,,Amblyptilia,acanthodactyla,,,,,ICZN,not established,Misspelling,
+2859,1695,Platyptilia tetradactyla,"(Linnaeus, 1761)",species,,Platyptilia,tetradactyla,,,,1761,ICZN,established,,
