@@ -980,7 +980,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,referenceID,extinct,temporalRange
 1686,1675,1686,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria macrornis,
 1689,1675,1689,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria melanoschista,
 1692,1675,1692,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria miantodactylus,
-1694,1675,1694,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria ochrodactyla,
 1701,1675,1701,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria pallidactyla,
 1715,1675,1715,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria rhusiodactyla,
 1719,1675,1719,"Gielis, C. & Hobern, D.",2020-07-16,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria scutata,
@@ -1638,3 +1637,4 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,referenceID,extinct,temporalRange
 2851,503,2853,D. Hobern,2021-09-06,1916,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,Crassuncus,Crassuncus kenzo,
 2852,503,2854,D. Hobern,2021-09-06,1916,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,Crassuncus,Crassuncus ermakovae,
 2853,578,2855,D. Hobern,2021-09-06,1916,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,Hellinsia,Hellinsia birichevskayae,
+2854,1675,2856,D. Hobern,2021-09-06,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Gillmeria,Gillmeria tetradactyla,

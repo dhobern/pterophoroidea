@@ -2851,3 +2851,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2853,2853,Crassuncus kenzo,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,kenzo,,1916,577,2017,ICZN,established,,
 2854,2854,Crassuncus ermakovae,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,ermakovae,,1916,579,2017,ICZN,established,,
 2855,2855,Hellinsia birichevskayae,"Kovtunvich & Ustjuzhanin, 2017",species,,Hellinsia,birichevskayae,,1916,579,2017,ICZN,established,,
+2856,1695,Gillmeria tetradactyla,"(Linnaeus, 1761)",species,,Gillmeria,tetradactyla,,1674,37,1905,ICZN,established,"Tutt established Gillmeria ochrodactyla as the type species of Gillmeria in 1905, but ochrodactyla is preceded by tetradactyla",
+2857,1696,Platyptilia ochrodactyla,"(Denis & Schiffermüller, 1775)",species,,Platyptilia,ochrodactyla,,,,1775,ICZN,established,,
+2858,2858,Amblyptilia acanthodactyla,"(Hübner, 1813)",species,,Amblyptilia,acanthodactyla,,,,,ICZN,not established,Misspelling,
