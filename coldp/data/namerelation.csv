@@ -766,3 +766,5 @@ nameID,relatedNameID,type,referenceID,remarks
 2830,543,basionym,,
 2845,363,basionym,,
 390,2851,type,,
+1095,2865,type,979,original designation
+2865,2821,replacement name,979,
