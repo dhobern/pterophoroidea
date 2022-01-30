@@ -5099,7 +5099,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 1850,CA,iso,native,,
 103,KZ,iso,native,,
 221,CN,iso,native,,
-223,IR,iso,native,,
 269,BR,iso,native,,
 271,EC,iso,native,,
 282,PA,iso,native,,
@@ -5588,3 +5587,4 @@ taxonId,area,gazetteer,status,referenceID,remarks
 456,VE,iso,native,1920,
 457,VE,iso,native,1920,
 532,VE,iso,native,1920,
+1195,CL,iso,native,1922,
