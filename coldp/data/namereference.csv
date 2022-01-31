@@ -336,8 +336,8 @@ nameID,referenceID,page,link,remarks
 2556,383,81,,Original description
 2514,383,81,,Original description
 2582,383,83,,Original description
-403,383,84,,Original description
-428,383,84,,Original description
+403,383,84,https://www.biodiversitylibrary.org/page/12720933,Original description
+428,383,84,https://www.biodiversitylibrary.org/page/12720933,Original description
 1260,383,85,https://www.biodiversitylibrary.org/page/12720934,Original description
 965,383,86,,Original description
 966,383,86,,Original description
@@ -1488,7 +1488,6 @@ nameID,referenceID,page,link,remarks
 937,1229,276,,Original description
 1273,1230,325,,Original description
 2266,1231,301,,Original description
-2265,1231,570,,Original description
 141,1235,461,,Original description
 488,1235,507,,Original description
 2635,1235,708,,Original description
@@ -1995,7 +1994,7 @@ nameID,referenceID,page,link,remarks
 2564,1868,40,,Original description
 1688,1869,688,,Original description
 923,1869,691,,Original description
-1358,1870,277,,Original description
+1358,1870,277,https://www.biodiversitylibrary.org/page/13244177,Original description
 1276,1870,277,,Original description
 1277,1870,277,,Original description
 21,1871,763,https://www.biodiversitylibrary.org/page/13238935,Original description
@@ -2391,3 +2390,4 @@ nameID,referenceID,page,link,remarks
 1392,23,522-524,,Phylogenetic review indicated close relationship of Antarches with Oxyptilus group of genera
 1392,1699,697,,Antarches was synonymised with Megalorhipida based on structure of genitalia and external characters of imago
 1717,1924,376,,Platyptilia armeniaca synonymised with Gillmeria rhusiodactyla
+2265,1237,570,,Original description

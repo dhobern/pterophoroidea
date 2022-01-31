@@ -401,7 +401,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 400,401,Marasmarcha cinnamomeus,"(Staudinger, 1870)",species,,Marasmarcha,cinnamomeus,,,,,ICZN,established,,
 401,401,Pterophorus cinnamomeus,"Staudinger, 1870",species,,Pterophorus,cinnamomeus,,1607,326,1870,ICZN,established,,
 402,402,Marasmarcha glycyrrhizae,"Zagulajev, 1969",species,,Marasmarcha,glycyrrhizae,,1847,212,1969,ICZN,established,,
-403,403,Marasmarcha colossa,"Caradja, 1920",species,,Marasmarcha,colossa,,383,84,1920,ICZN,established,,
+403,403,Marasmarcha colossa,"Caradja, 1920",species,,Marasmarcha,colossa,,383,84,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720933
 404,405,Marasmarcha ehrenbergianus,"(Zeller, 1841)",species,,Marasmarcha,ehrenbergianus,,,,,ICZN,established,,
 405,405,Pterophorus ehrenbergianus,"Zeller, 1841",species,,Pterophorus,ehrenbergianus,,1871,833,1841,ICZN,established,,
 406,407,Marasmarcha empedota,"(Meyrick, 1908)",species,,Marasmarcha,empedota,,,,,ICZN,established,,
@@ -426,7 +426,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 425,425,Mimaeseoptilus pulcher,"Christoph, 1885",species,,Mimaeseoptilus,pulcher,,415,164,1885,ICZN,established,,
 426,427,Marasmarcha rhypodactylus,"(Staudinger, 1870)",species,,Marasmarcha,rhypodactylus,,,,,ICZN,established,,
 427,427,Pterophorus rhypodactylus,"Staudinger, 1870",species,,Pterophorus,rhypodactylus,,1607,327,1870,ICZN,established,,
-428,428,Pterophorus ehrenbergiana var. decolorum,"Caradja, 1920",variety,,Pterophorus,ehrenbergiana,decolorum,383,84,1920,ICZN,established,,
+428,428,Pterophorus ehrenbergiana var. decolorum,"Caradja, 1920",variety,,Pterophorus,ehrenbergiana,decolorum,383,84,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720933
 429,429,Marasmarcha leucocrossa,"Meyrick, 1936",species,,Marasmarcha,leucocrossa,,1226,64,1936,ICZN,established,,
 430,430,Pterophorus terrenus,"Meyrick, 1936",species,,Pterophorus,terrenus,,1226,64,1936,ICZN,established,,
 431,431,Marasmarcha samarcandica,"Gerasimov, 1930",species,,Marasmarcha,samarcandica,,658,27,1930,ICZN,established,,
@@ -1355,7 +1355,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1355,1356,Crombrugghia richardi,"(Ustjuzhanin & Kovtunovich, 2010)",species,,Crombrugghia,richardi,,,,,ICZN,established,,
 1356,1356,Stenodacma richardi,"Ustjuzhanin & Kovtunovich, 2010",species,,Stenodacma,richardi,,1699,697,2010,ICZN,established,,
 1357,1358,Crombrugghia tristis,"(Zeller, 1839)",species,,Crombrugghia,tristis,,,,,ICZN,established,,
-1358,1358,Pterophorus tristis,"Zeller, 1839",species,,Pterophorus,tristis,,1870,277,1839,ICZN,established,,
+1358,1358,Pterophorus tristis,"Zeller, 1839",species,,Pterophorus,tristis,,1870,277,1839,ICZN,established,,https://www.biodiversitylibrary.org/page/13244177
 1359,1359,Oxyptilus adamczewskii,"Bigot & Picard, 1988",species,,Oxyptilus,adamczewskii,,263,246,1988,ICZN,established,,
 1360,1360,Crombrugghia brachycerus,"Qin & Zheng, 1997",species,,Crombrugghia,brachycerus,,1447,12,1997,ICZN,established,,
 1361,1361,Dejongia,"Gielis, 1993",genus,Dejongia,,,,726,16,1993,ICZN,established,,
@@ -2262,7 +2262,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2262,2262,Stenoptilia madyana,"Arenberger, 1999",species,,Stenoptilia,madyana,,125,219,1999,ICZN,established,,
 2263,2264,Stenoptilia mannii,"(Zeller, 1852)",species,,Stenoptilia,mannii,,,,,ICZN,established,,
 2264,2264,Pterophorus mannii,"Zeller, 1852",species,,Pterophorus,mannii,,1875,375,1852,ICZN,established,,
-2265,2265,Stenoptilia megalochra,"Meyrick, 1927",species,,Stenoptilia,megalochra,,1231,570,1927,ICZN,established,,
+2265,2265,Stenoptilia megalochra,"Meyrick, 1930",species,,Stenoptilia,megalochra,,1237,570,1930,ICZN,established,,
 2266,2266,Stenoptilia melanoloncha,"Meyrick, 1927",species,,Stenoptilia,melanoloncha,,1231,301,1927,ICZN,established,,
 2267,2267,Stenoptilia melgarejoae,"Gielis, 2012",species,,Stenoptilia,melgarejoae,,765,105,2012,ICZN,established,,
 2268,2268,Stenoptilia mengeli,"Fernald, 1898",species,,Stenoptilia,mengeli,,586,60,1898,ICZN,established,,https://www.biodiversitylibrary.org/page/18485673
