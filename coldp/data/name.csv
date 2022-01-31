@@ -1713,7 +1713,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1713,1713,Platyptilia pallidiola,"Matsumura, 1931",species,,Platyptilia,pallidiola,,1131,No. 2069,1931,ICZN,established,,
 1714,1714,Pterophorus migadactylus,"Curtis, 1827",species,,Pterophorus,migadactylus,,459,4: 375,1827,ICZN,established,References Fabricius (https://www.biodiversitylibrary.org/page/56351796),https://www.biodiversitylibrary.org/page/8185744
 1715,1716,Gillmeria rhusiodactyla,"(Fuchs, 1903)",species,,Gillmeria,rhusiodactyla,,,,,ICZN,established,,
-1716,1716,Platyptilia rhusiodactyla,"Fuchs, 1903",species,,Platyptilia,rhusiodactyla,,645,14,1903,ICZN,established,,
+1716,1716,Platyptilia rhusiodactyla,"Fuchs, 1903",species,,Platyptilia,rhusiodactyla,,645,14,1903,ICZN,established,,https://www.biodiversitylibrary.org/page/9009682
 1717,1717,Platyptilia armeniaca,"Zagulajev, 1984",species,,Platyptilia,armeniaca,,1849,46,1984,ICZN,established,,
 1718,1718,Gillmeria uralskinensis,"Gibeaux, 1995",species,,Gillmeria,uralskinensis,,695,91,1995,ICZN,established,,
 1719,1720,Gillmeria scutata,"(Yano, 1961)",species,,Gillmeria,scutata,,,,,ICZN,established,,
@@ -2883,8 +2883,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2885,2885,Lioptilodes karinupponeni,"Ustjuzhanin. Kovtunovich & Pototski, 2021",species,,Lioptilodes,karinupponeni,,1917,17,2021,ICZN,established,Original description,
 2886,2886,Hellinsia haverineni,"Ustjuzhanin, Kovtunovich  Pototski, 2021",species,,Hellinsia,haverineni,,1917,19,2021,ICZN,established,Original description,
 2887,2887,Platyptilia butvila,"Ustjuzhanin, Kovtunovich & Salidaitis, 2021",species,,Platyptilia,butvila,,1918,323,2021,ICZN,established,Original description,
-2888,2888,Platyptilia duda,"Ustjuzhanin, Kovtunovich & Salidaitis, 2021",species,,Platyptilia,duda,,1918,324,2021,ICZN,established,Original description,
-2889,2889,Hellinsia alena,"Ustjuzhanin, Kovtunovich & Salidaitis, 2021",species,,Hellinsia,alena,,1918,325,2021,ICZN,established,Original description,
+2888,2888,Platyptilia duda,"Ustjuzhanin, Kovtunovich & Saldaitis, 2021",species,,Platyptilia,duda,,1918,324,2021,ICZN,established,Original description,
+2889,2889,Hellinsia alena,"Ustjuzhanin, Kovtunovich & Saldaitis, 2021",species,,Hellinsia,alena,,1918,325,2021,ICZN,established,Original description,
 2890,2890,Emmelina doroshkini,"Ustjuzhanin & Kovtunovich, 2021",species,,Emmelina,doroshkini,,1919,441,2021,ICZN,established,Original description,
 2891,2891,Emmelina reshetnikovi,"Ustjuzhanin & Kovtunovich, 2021",species,,Emmelina,reshetnikovi,,1919,441,2021,ICZN,established,Original description,
 2892,2892,Postplatyptilia lastukhini,"Ustjuzhanin & Kovtunovich, 2021",species,,Postplatyptilia,lastukhini,,1920,502,2021,ICZN,established,,
