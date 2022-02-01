@@ -399,7 +399,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 398,399,Marasmarcha brevirostris,"(Walsingham, 1915)",species,,Marasmarcha,brevirostris,,,,,ICZN,established,,
 399,399,Platyptilia brevirostris,"Walsingham, 1915",species,,Platyptilia,brevirostris,,1790,438,1915,ICZN,established,,
 400,401,Marasmarcha cinnamomeus,"(Staudinger, 1870)",species,,Marasmarcha,cinnamomeus,,,,,ICZN,established,,
-401,401,Pterophorus cinnamomeus,"Staudinger, 1870",species,,Pterophorus,cinnamomeus,,1607,326,1870,ICZN,established,,
+401,401,Pterophorus cinnamomeus,"Staudinger, 1870",species,,Pterophorus,cinnamomeus,,1607,326,1870,ICZN,established,,https://www.biodiversitylibrary.org/page/8340952
 402,402,Marasmarcha glycyrrhizae,"Zagulajev, 1969",species,,Marasmarcha,glycyrrhizae,,1847,212,1969,ICZN,established,,
 403,403,Marasmarcha colossa,"Caradja, 1920",species,,Marasmarcha,colossa,,383,84,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720933
 404,405,Marasmarcha ehrenbergianus,"(Zeller, 1841)",species,,Marasmarcha,ehrenbergianus,,,,,ICZN,established,,
