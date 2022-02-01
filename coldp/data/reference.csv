@@ -1,4 +1,4 @@
-ID,author,title,year,containerTitle,volume,link
+ID,author,title,issued,containerTitle,volume,issue,page,link
 1,"Aarvik, L.","Contribution to the knowledge of the Norwegian Lepidoptera, II",1987,Fauna Norv. Ser. B,34,,7-13,
 2,"Aarvik, L. & Berggren, K.",Nye funn av sommerfugler i Norge 1,2001,Insekt-Nytt,26,,21-30,
 3,"Aarvik, L. & Bjoernstad, A.",Stenoptilia veronicae Karvonen new to Norway,1990,Fauna Norv. Ser. B,37,,42-43,
@@ -69,7 +69,7 @@ ID,author,title,year,containerTitle,volume,link
 68,"Arenberger, E.",Die palaearktischen Agdistis-Arten,1977,Beitr. Naturk. Forsch. SW.Deutschl.,36,,185-226,
 69,"Arenberger, E.",Agdistis-Arten aus Spanien,1978,Z. ArbGem. öst. Ent.,29,,73-80,
 70,"Arenberger, E.",Pterophoridae aus Tunesien,1978,Fol. Ent. Hung. (S.N.),31,,(2): 11-14,
-71,"Arenberger, E.",Die Pterophorus-Arten West-und Zentralasiens. 1. Beitrag,1980,Z. ArbGem. öst. Ent.,32,,97-110,https://www.zobodat.at/pdf/ZAOE_32_0097-0110.pdf
+71,"Arenberger, E.",Die Pterophorus-Arten West-und Zentralasiens. 1. Beitrag,1981,Z. ArbGem. öst. Ent.,32,,97-110,https://www.zobodat.at/pdf/ZAOE_32_0097-0110.pdf
 72,"Arenberger, E.",Die Pterophorus-Arten West-und Zentralasiens. 2. Beitrag,1981,Z. ArbGem. öst. Ent.,33,,17-29,https://www.zobodat.at/pdf/ZAOE_33_0017-0029.pdf
 73,"Arenberger, E.",Ergänzungen zur Gattung Agdistis,1983,Andrias,3,,51-54,
 74,"Arenberger, E.",Records of the Lepidoptera of Greece based on the collections of G. Christensen and L. Gozmány: II Pterophoridae,1983,Annls. Mus. Goulandris,6,,199-206,
@@ -1090,7 +1090,7 @@ ID,author,title,year,containerTitle,volume,link
 1089,"Lindsey, A.W.",Notes on the distribution and synonymy of some species of Pterophoridae,1922,Ent. News,33,,211-213,
 1090,"Lindsey, A.W.",Trichoptilus pygmaeus Walsingham and the neuration of the family Pterophoridae,1924,Denison Univ. Bull.,20,,187-192,
 1091,"Linnaeus, C.","Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis",1758,,,,1-824,https://www.biodiversitylibrary.org/page/726886
-1092,"Linnaeus, C.",Fauna Svecica,1761,,Pars Lepidoptera,,pp. 267-371,
+1092,"Linnaeus, C.",Fauna Svecica,1761,,Pars Lepidoptera,,pp. 267-371,https://www.biodiversitylibrary.org/page/32170736
 1093,"Linnaeus, C.",Systema Natura per regna tria naturae,1767,,I.,,Pars Lepidoptera: pp. 744-900. (Ed. 13th),
 1094,"Lintner, J.A.",12th report on the injurious and other insects of the state of New York for the year 1896,1897,Rep. New York State Mus.,0.625,,"165, 218-222, plates 4-5",
 1095,"Liu, Y.",Pterophoridae. In: Iconographia Heterocerorum Sinicorum.,1981,,1,,"56, plates 3 and 11",
@@ -1870,7 +1870,7 @@ ID,author,title,year,containerTitle,volume,link
 1869,"Zagulajev, A.K. & Pentschukovskaya, T.A.",Plume moths from the Mongolian People's Republic,1972,Insects of Mongolia,1,,687-692,
 1870,"Zeller, P.C.",Kritische Bestimmung der in Degeers Abhandlungen zur Geschichte der Insekten enthaltenen Lepidopteren,1839,Isis von Oken,32,,243-347,https://www.biodiversitylibrary.org/page/13244160
 1871,"Zeller, P.C.","Vorläufer einer vollständigen Naturgeschichte den Pterophoriden, einer Nachtfalterfamilie",1841,Isis von Oken,34,,"756-794, 827-891, plate 4",https://www.biodiversitylibrary.org/page/13238931
-1872,"Zeller, P.C.",Bemerkungen über die auf einer Reise nach Italien und Sicilien beobachteten Schmetter lingsarten,1847,Isis von Oken,40,,895-910,
+1872,"Zeller, P.C.",Bemerkungen über die auf einer Reise nach Italien und Sicilien beobachteten Schmetterlingsarten,1847,Isis von Oken,40,,895-910,
 1873,"Zeller, P.C.",Verzeichniss der vom Prof. Dr Loew in der Türkeij und Asien gesammelten Lepidoptera,1847,Isis von Oken,40,,3-39,https://www.biodiversitylibrary.org/page/13238931
 1874,"Zeller, P.C.",Verzeichniss der von Herrn Jos. Mann beobachteten Toscanischen Microlepidoptera,1850,Stettiner Entomologische Zeitung,11,,195-212,https://www.biodiversitylibrary.org/page/34518220
 1875,"Zeller, P.C.",Revision der Pterophoriden,1852,Linnaea Ent.,1,,319-413,

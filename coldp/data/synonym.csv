@@ -1,4 +1,6 @@
 taxonID,nameID,status,referenceID,remarks
+18,19,synonym,,
+18,20,synonym,,
 18,21,synonym,,
 18,22,synonym,,
 18,23,synonym,,
@@ -1233,3 +1235,4 @@ taxonID,nameID,status,referenceID,remarks
 1348,2883,synonym,,
 362,2884,synonym,,
 77,223,synonym,,
+2752,2899,synonym,,
