@@ -11,7 +11,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 208,,Myricaria germanica,eats,,,https://www.catalogueoflife.org/data/taxon/458GR,Caryophyllales,Tamaricaceae,Myricaria germanica (L.) Desv.,<i>Myricaria germanica</i> (L.) Desv.
 108,,Limonium vulgare subsp. serotinum,eats,,,https://www.catalogueoflife.org/data/taxon/6QDRT,Caryophyllales,Plumbaginaceae,Limonium narbonense Mill.,<i>Limonium narbonense</i> Mill.
 40,,Limonium vulgare,eats,,,https://www.catalogueoflife.org/data/taxon/72FLT,Caryophyllales,Plumbaginaceae,Limonium vulgare Mill.,<i>Limonium vulgare</i> Mill.
-40,,Limonium binervosum subsp. binervosum,eats,,,https://www.catalogue.life/data/taxon/06185ba3-848c-4c0d-802c-71a821b4289c,Caryophyllales,Plumbaginaceae,Limonium binervosum subsp. binervosum,<i>Limonium binervosum</i> subsp. <i>binervosum</i>
+40,,Limonium binervosum subsp. binervosum,eats,,,,Caryophyllales,Plumbaginaceae,Limonium binervosum subsp. binervosum,<i>Limonium binervosum</i> subsp. <i>binervosum</i>
 147,,Limonium,eats,,,https://www.catalogueoflife.org/data/taxon/62YMP,Caryophyllales,Plumbaginaceae,Limonium Mill.,<i>Limonium</i> Mill.
 136,,Limonium vulgare,eats,,,https://www.catalogueoflife.org/data/taxon/72FLT,Caryophyllales,Plumbaginaceae,Limonium vulgare Mill.,<i>Limonium vulgare</i> Mill.
 136,,Limonium binervosum,eats,,,https://www.catalogueoflife.org/data/taxon/6QDZL,Caryophyllales,Plumbaginaceae,Limonium binervosum (G. E. Sm.) C. E. Salmon,<i>Limonium binervosum</i> (G. E. Sm.) C. E. Salmon
@@ -20,7 +20,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 136,,Limonium cordatum,eats,,,https://www.catalogueoflife.org/data/taxon/72DLS,Caryophyllales,Plumbaginaceae,Limonium cordatum (L.) Mill.,<i>Limonium cordatum</i> (L.) Mill.
 136,,Limonium pectinatum,eats,,,https://www.catalogueoflife.org/data/taxon/6QDSW,Caryophyllales,Plumbaginaceae,Limonium pectinatum (Aiton) Kuntze,<i>Limonium pectinatum</i> (Aiton) Kuntze
 189,,Salsola oppositifolia,eats,,,https://www.catalogueoflife.org/data/taxon/77876,Caryophyllales,Amaranthaceae,Petrosimonia oppositifolia (Pall.) Litv.,<i>Petrosimonia oppositifolia</i> (Pall.) Litv.
-156,,Atriplex portulacoides,eats,,,https://www.catalogue.life/data/taxon/5ca2fbde-eace-42ed-901d-035ee3081861,Caryophyllales,Amaranthaceae,Atriplex verrucifera Bieb.,<i>Atriplex verrucifera</i> Bieb.
+156,,Atriplex portulacoides,eats,,,,Caryophyllales,Amaranthaceae,Atriplex verrucifera Bieb.,<i>Atriplex verrucifera</i> Bieb.
 156,,Euphorbia pithyusa,eats,,,https://www.catalogueoflife.org/data/taxon/3CQ9S,Malpighiales,Euphorbiaceae,Euphorbia pithyusa L.,<i>Euphorbia pithyusa</i> L.
 156,,Frankenia,eats,,,https://www.catalogueoflife.org/data/taxon/4KZH,Caryophyllales,Frankeniaceae,Frankenia L.,<i>Frankenia</i> L.
 25,,Artemisia campestris,eats,,,https://www.catalogueoflife.org/data/taxon/5FSGS,Asterales,Asteraceae,Artemisia alba subsp. alba,<i>Artemisia alba</i> subsp. <i>alba</i>
@@ -38,10 +38,10 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 77,,Frankenia,eats,,,https://www.catalogueoflife.org/data/taxon/4KZH,Caryophyllales,Frankeniaceae,Frankenia L.,<i>Frankenia</i> L.
 77,,Limonium minutum,eats,,,https://www.catalogueoflife.org/data/taxon/72DRY,Caryophyllales,Plumbaginaceae,Limonium minutum (L.) Chaz.,<i>Limonium minutum</i> (L.) Chaz.
 102,,Limonium gmelinii,eats,,,https://www.catalogueoflife.org/data/taxon/6QDNG,Caryophyllales,Plumbaginaceae,Limonium gmelinii (Willd.) Kuntze,<i>Limonium gmelinii</i> (Willd.) Kuntze
-91,,Limonium eugeniae,eats,,,https://www.catalogue.life/data/taxon/40555846-dff6-4974-9766-777e8115f7bd,Caryophyllales,Plumbaginaceae,Limonium eugeniae Sennen,<i>Limonium eugeniae</i> Sennen
+91,,Limonium eugeniae,eats,,,,Caryophyllales,Plumbaginaceae,Limonium eugeniae Sennen,<i>Limonium eugeniae</i> Sennen
 129,,Limoniastrum monopetalum,eats,,,https://www.catalogueoflife.org/data/taxon/6QDX9,Caryophyllales,Plumbaginaceae,Limoniastrum monopetalum (L.) Boiss.,<i>Limoniastrum monopetalum</i> (L.) Boiss.
 165,,Limonium vulgare,eats,,,https://www.catalogueoflife.org/data/taxon/72FLT,Caryophyllales,Plumbaginaceae,Limonium vulgare Mill.,<i>Limonium vulgare</i> Mill.
-165,,Limonium ramoissimum subsp. confusum,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+165,,Limonium ramoissimum subsp. confusum,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 165,,Limonium virgatum,eats,,,https://www.catalogueoflife.org/data/taxon/72FM4,Caryophyllales,Plumbaginaceae,Limonium virgatum (Willd.) Fourr.,<i>Limonium virgatum</i> (Willd.) Fourr.
 174,,Frankenia ericifolia,eats,,,https://www.catalogueoflife.org/data/taxon/6JL9K,Caryophyllales,Frankeniaceae,Frankenia ericifolia Chr. P. Sm.,<i>Frankenia ericifolia</i> Chr. P. Sm.
 200,,Limoniastrum guyonianum,eats,,,https://www.catalogueoflife.org/data/taxon/6QDXB,Caryophyllales,Plumbaginaceae,Limoniastrum guyonianum Durieu ex Boiss.,<i>Limoniastrum guyonianum</i> Durieu ex Boiss.
@@ -60,8 +60,8 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 252,,Vitis quinquangularis,eats,,,https://www.catalogueoflife.org/data/taxon/5BLS9,Vitales,Vitaceae,Vitis heyneana Roem. & Schult.,<i>Vitis heyneana</i> Roem. & Schult.
 252,,Columella trifolia,eats,,,https://www.catalogueoflife.org/data/taxon/8S4LV,Vitales,Vitaceae,Causonis trifolia (L.) Mabb. & J. Wen,<i>Causonis trifolia</i> (L.) Mabb. & J. Wen
 236,,Vitis,eats,,,https://www.catalogueoflife.org/data/taxon/872G,Vitales,Vitaceae,Vitis L.,<i>Vitis</i> L.
-247,,Leea sambucina,eats,,"As Leea sambucina, an ambiguous name for several Leea species",https://www.catalogue.life/data/taxon/2e0b5b30-9538-43db-a715-5fc5520249b0,Vitales,Vitaceae,Leea D.Royen ex L.,<i>Leea</i> D.Royen ex L.
-249,,Leea sambucina,eats,,"As Leea sambucina, an ambiguous name for several Leea species",https://www.catalogue.life/data/taxon/2e0b5b30-9538-43db-a715-5fc5520249b0,Vitales,Vitaceae,Leea D.Royen ex L.,<i>Leea</i> D.Royen ex L.
+247,,Leea sambucina,eats,,"As Leea sambucina, an ambiguous name for several Leea species",,Vitales,Vitaceae,Leea D.Royen ex L.,<i>Leea</i> D.Royen ex L.
+249,,Leea sambucina,eats,,"As Leea sambucina, an ambiguous name for several Leea species",,Vitales,Vitaceae,Leea D.Royen ex L.,<i>Leea</i> D.Royen ex L.
 259,,Cissus quadrangularis,eats,,,https://www.catalogueoflife.org/data/taxon/VKWL,Vitales,Vitaceae,Cissus quadrangularis L.,<i>Cissus quadrangularis</i> L.
 235,,Vitis ficifolia,eats,,as Vitis thunbergii,https://www.catalogueoflife.org/data/taxon/5BLQC,Vitales,Vitaceae,Vitis ficifolia Bunge,<i>Vitis ficifolia</i> Bunge
 235,,Vitis vinifera,eats,,,https://www.catalogueoflife.org/data/taxon/5BM7B,Vitales,Vitaceae,Vitis vinifera L.,<i>Vitis vinifera</i> L.
@@ -79,10 +79,10 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1964,,Calendula officinalis,eats,,,https://www.catalogueoflife.org/data/taxon/PJDZ,Asterales,Asteraceae,Calendula officinalis L.,<i>Calendula officinalis</i> L.
 1964,,Callistephus chinensis,eats,,,https://www.catalogueoflife.org/data/taxon/PTRG,Asterales,Asteraceae,Callistephus chinensis (L.) Nees,<i>Callistephus chinensis</i> (L.) Nees
 1964,,Centaurea cyanus,eats,,,https://www.catalogueoflife.org/data/taxon/69GPL,Asterales,Asteraceae,Centaurea cyanus L.,<i>Centaurea cyanus</i> L.
-1964,,Dahlia pinnata,eats,,,https://www.catalogue.life/data/taxon/a1a8a82c-e6fb-4064-8ee2-81ea74a5d875,Asterales,Asteraceae,Dahlia pinnata Cav.,<i>Dahlia pinnata</i> Cav.
+1964,,Dahlia pinnata,eats,,,,Asterales,Asteraceae,Dahlia pinnata Cav.,<i>Dahlia pinnata</i> Cav.
 1964,,Emilia flammea,eats,,,https://www.catalogueoflife.org/data/taxon/39GVS,Asterales,Asteraceae,Emilia javanica (Burm. fil.) C. B. Rob.,<i>Emilia javanica</i> (Burm. fil.) C. B. Rob.
 1964,,Helichrysum bracteatum,eats,,,https://www.catalogueoflife.org/data/taxon/5CCKX,Asterales,Asteraceae,Xerochrysum bracteatum (Vent.) Tzvelev,<i>Xerochrysum bracteatum</i> (Vent.) Tzvelev
-1964,,Teucrium tomentosum,eats,,"As Teucrium tomentosum, an ambiguous name for several Teucrium species",https://www.catalogue.life/data/taxon/786a9e6a-64c2-4c69-92ac-b4d40986b789,Lamiales,Lamiaceae,Teucrium L.,<i>Teucrium</i> L.
+1964,,Teucrium tomentosum,eats,,"As Teucrium tomentosum, an ambiguous name for several Teucrium species",,Lamiales,Lamiaceae,Teucrium L.,<i>Teucrium</i> L.
 2013,,Senecio fuchsii,eats,,,https://www.catalogueoflife.org/data/taxon/5L5HM,Asterales,Asteraceae,Senecio ovatus subsp. ovatus,<i>Senecio ovatus</i> subsp. <i>ovatus</i>
 2013,,Senecio fluviatilis,eats,,,https://www.catalogueoflife.org/data/taxon/6YGYY,Asterales,Asteraceae,Senecio sarracenicus L.,<i>Senecio sarracenicus</i> L.
 2013,,Senecio sarracenicus,eats,,,https://www.catalogueoflife.org/data/taxon/5L5HM,Asterales,Asteraceae,Senecio ovatus subsp. ovatus,<i>Senecio ovatus</i> subsp. <i>ovatus</i>
@@ -93,7 +93,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1931,,Senecio nemorensis,eats,,,https://www.catalogueoflife.org/data/taxon/4WM5F,Asterales,Asteraceae,Senecio nemorensis L.,<i>Senecio nemorensis</i> L.
 1931,,Senecio sylvaticus,eats,,,https://www.catalogueoflife.org/data/taxon/4WNDG,Asterales,Asteraceae,Senecio sylvaticus L.,<i>Senecio sylvaticus</i> L.
 1931,,Doronicum,eats,,,https://www.catalogueoflife.org/data/taxon/47VT,Asterales,Asteraceae,Doronicum L.,<i>Doronicum</i> L.
-1931,,Erigeron acer subsp. politus,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+1931,,Erigeron acer subsp. politus,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 1989,,Senecio,eats,,,https://www.catalogueoflife.org/data/taxon/7FJL,Asterales,Asteraceae,Senecio L.,<i>Senecio</i> L.
 1994,,Senecio,eats,,,https://www.catalogueoflife.org/data/taxon/7FJL,Asterales,Asteraceae,Senecio L.,<i>Senecio</i> L.
 1994,,Jacobaea aquatica,eats,,as Senecio aquaticus,https://www.catalogueoflife.org/data/taxon/6NDJN,Asterales,Asteraceae,"Jacobaea aquatica (Hill) G. Gaertn., B. Mey. & Scherb.","<i>Jacobaea aquatica</i> (Hill) G. Gaertn., B. Mey. & Scherb."
@@ -118,7 +118,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2066,,Layia hieracioides,eats,,,https://www.catalogueoflife.org/data/taxon/3SNY4,Asterales,Asteraceae,Layia hieracioides (DC.) Hook. & Arn.,<i>Layia hieracioides</i> (DC.) Hook. & Arn.
 2066,,Artemisia vulgaris,eats,,,https://www.catalogueoflife.org/data/taxon/5W4M9,Asterales,Asteraceae,Artemisia keiskeana Miq.,<i>Artemisia keiskeana</i> Miq.
 2066,,Artemisia douglasiana,eats,,,https://www.catalogueoflife.org/data/taxon/67SKB,Asterales,Asteraceae,Artemisia douglasiana Besser,<i>Artemisia douglasiana</i> Besser
-2066,,Gnaphalium decurrens,eats,,Ambiguous name for Pseudognaphlium californicum/macounii,https://www.catalogue.life/data/taxon/3cadcf93-cbab-4fb4-9346-bfc645490c32,Asterales,Asteraceae,Pseudognaphalium Kirp.,<i>Pseudognaphalium</i> Kirp.
+2066,,Gnaphalium decurrens,eats,,Ambiguous name for Pseudognaphlium californicum/macounii,,Asterales,Asteraceae,Pseudognaphalium Kirp.,<i>Pseudognaphalium</i> Kirp.
 2066,,Ambrosia camphorata,eats,,as Franseria bipinnatifida,https://www.catalogueoflife.org/data/taxon/CPNL,Asterales,Asteraceae,Ambrosia camphorata (Greene) Payne,<i>Ambrosia camphorata</i> (Greene) Payne
 2066,,Senecio aronicoides,eats,,,https://www.catalogueoflife.org/data/taxon/4WJNY,Asterales,Asteraceae,Senecio aronicoides DC.,<i>Senecio aronicoides</i> DC.
 2066,,Senecio blochmaniae,eats,,,https://www.catalogueoflife.org/data/taxon/4WJV2,Asterales,Asteraceae,Senecio blochmaniae Greene,<i>Senecio blochmaniae</i> Greene
@@ -171,7 +171,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1747,,Mentha,eats,,,https://www.catalogueoflife.org/data/taxon/5P5P,Lamiales,Lamiaceae,Mentha,<i>Mentha</i>
 1747,,Utricularia,eats,,,https://www.catalogueoflife.org/data/taxon/85JD,Lamiales,Lentibulariaceae,Utricularia L.,<i>Utricularia</i> L.
 2389,,Spergularia media,eats,,,https://www.catalogueoflife.org/data/taxon/4YJH7,Caryophyllales,Caryophyllaceae,Spergularia media (L.) J. Presl,<i>Spergularia media</i> (L.) J. Presl
-2389,,Spergularia maritima,eats,,,https://www.catalogue.life/data/taxon/25064489-b122-45c3-9f18-913ed8febae1,Entomobryomorpha,Entomobryidae,"Entomobrya lanuginosa -maritima Denis, 1948","<i>Entomobrya lanuginosa</i> -maritima Denis, 1948"
+2389,,Spergularia maritima,eats,,,,Entomobryomorpha,Entomobryidae,"Entomobrya lanuginosa -maritima Denis, 1948","<i>Entomobrya lanuginosa</i> -maritima Denis, 1948"
 2389,,Spergularia salina,eats,,,https://www.catalogueoflife.org/data/taxon/4YJGZ,Caryophyllales,Caryophyllaceae,Spergularia marina (L.) Besser,<i>Spergularia marina</i> (L.) Besser
 2389,,Antirrhinum majus,eats,,,https://www.catalogueoflife.org/data/taxon/F2W4,Lamiales,Plantaginaceae,Antirrhinum majus L.,<i>Antirrhinum majus</i> L.
 2389,,Clinopodium vulgare,eats,,,https://www.catalogueoflife.org/data/taxon/W6WV,Lamiales,Lamiaceae,Clinopodium vulgare L.,<i>Clinopodium vulgare</i> L.
@@ -193,13 +193,13 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2389,,Samolus,eats,,,https://www.catalogueoflife.org/data/taxon/7C42,Ericales,Primulaceae,Samolus L.,<i>Samolus</i> L.
 2389,,Striga asiatica,eats,,,https://www.catalogueoflife.org/data/taxon/52ZJH,Lamiales,Orobanchaceae,Striga asiatica (L.) Kuntze,<i>Striga asiatica</i> (L.) Kuntze
 2389,,Striga densiflora,eats,,,https://www.catalogueoflife.org/data/taxon/52ZK2,Lamiales,Orobanchaceae,Striga densiflora (Benth.) Benth.,<i>Striga densiflora</i> (Benth.) Benth.
-2389,,Sabatia,eats,,,https://www.catalogueoflife.org/data/search?q=Sabatia,Gentianales,Gentianaceae,Sabatia (Multiple matches in COL),Sabatia (Multiple matches in COL)
+2389,,Sabatia,eats,,,https://www.catalogueoflife.org/data/search?q=Sabatia,,,,
 2389,,Hydrolea,eats,,,https://www.catalogueoflife.org/data/taxon/4ZTC,Solanales,Hydroleaceae,Hydrolea L.,<i>Hydrolea</i> L.
 2354,,Coutoubea spicata,eats,,,https://www.catalogueoflife.org/data/taxon/Z2ZX,Gentianales,Gentianaceae,Coutoubea reflexa Benth.,<i>Coutoubea reflexa</i> Benth.
 2354,,Capraria biflora,eats,,,https://www.catalogueoflife.org/data/taxon/QS79,Lamiales,Scrophulariaceae,Capraria biflora L.,<i>Capraria biflora</i> L.
 2381,,Mentha,eats,,,https://www.catalogueoflife.org/data/taxon/5P5P,Lamiales,Lamiaceae,Mentha,<i>Mentha</i>
 2352,,Antirrhinum,eats,,,https://www.catalogueoflife.org/data/taxon/XQV,Lamiales,Plantaginaceae,Antirrhinum L.,<i>Antirrhinum</i> L.
-2372,,Geranium cariolinianum subsp. australe,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+2372,,Geranium cariolinianum subsp. australe,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 2372,,Vaccinium penduliflorum,eats,,,https://www.catalogueoflife.org/data/taxon/7F7K9,Ericales,Ericaceae,Vaccinium dentatum Sm.,<i>Vaccinium dentatum</i> Sm.
 2372,,Vaccinium reticulatum,eats,,,https://www.catalogueoflife.org/data/taxon/7F79J,Ericales,Ericaceae,Vaccinium reticulatum Sm.,<i>Vaccinium reticulatum</i> Sm.
 2226,,Gentiana lutea,eats,,,https://www.catalogueoflife.org/data/taxon/6KC4J,Gentianales,Gentianaceae,Gentianella incurva (Hook.) Fabris,<i>Gentianella incurva</i> (Hook.) Fabris
@@ -244,13 +244,13 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2291,,Saxifraga aquatica,eats,,,https://www.catalogueoflife.org/data/taxon/79QSY,Saxifragales,Saxifragaceae,Saxifraga irrigua M. Bieb.,<i>Saxifraga irrigua</i> M. Bieb.
 2291,,Saxifraga geranioides,eats,,,https://www.catalogueoflife.org/data/taxon/79R9P,Saxifragales,Saxifragaceae,Saxifraga petraea L.,<i>Saxifraga petraea</i> L.
 2291,,Plantago sempervirens,eats,,,https://www.catalogueoflife.org/data/taxon/4JLWG,Lamiales,Plantaginaceae,Plantago sempervirens Crantz,<i>Plantago sempervirens</i> Crantz
-2291,,Globularia,eats,,,https://www.catalogueoflife.org/data/search?q=Globularia,Lamiales,Plantaginaceae,Globularia (Multiple matches in COL),Globularia (Multiple matches in COL)
+2291,,Globularia,eats,,,https://www.catalogueoflife.org/data/search?q=Globularia,,,,
 2291,,Gentiana verna,eats,,,https://www.catalogueoflife.org/data/taxon/3FMZS,Gentianales,Gentianaceae,Gentiana verna L.,<i>Gentiana verna</i> L.
 2291,,Gentiana acaulis,eats,,,https://www.catalogueoflife.org/data/taxon/3FLPD,Gentianales,Gentianaceae,Gentiana acaulis L.,<i>Gentiana acaulis</i> L.
 2270,,Saxifraga continentalis,eats,,,https://www.catalogueoflife.org/data/taxon/6Y34F,Saxifragales,Saxifragaceae,Saxifraga fragosoi Sennen,<i>Saxifraga fragosoi</i> Sennen
 2270,,Saxifraga granulata,eats,,,https://www.catalogueoflife.org/data/taxon/6XQWT,Saxifragales,Saxifragaceae,Saxifraga sibirica L.,<i>Saxifraga sibirica</i> L.
 2270,,Saxifraga hypnoides,eats,,,https://www.catalogueoflife.org/data/taxon/6Y2T6,Saxifragales,Saxifragaceae,Saxifraga hypnoides L.,<i>Saxifraga hypnoides</i> L.
-2233,,Saxifraga caespitosa,eats,,"As Saxifraga caespitosa, an ambiguous synonym for several Saxifraga species",https://www.catalogue.life/data/taxon/86f30539-ff9c-414f-892e-6b6319baac23,Saxifragales,Saxifragaceae,Saxifraga Tourn. ex L.,<i>Saxifraga</i> Tourn. ex L.
+2233,,Saxifraga caespitosa,eats,,"As Saxifraga caespitosa, an ambiguous synonym for several Saxifraga species",,Saxifragales,Saxifragaceae,Saxifraga Tourn. ex L.,<i>Saxifraga</i> Tourn. ex L.
 2233,,Saxifraga adscendens,eats,,,https://www.catalogueoflife.org/data/taxon/6XR3N,Saxifragales,Saxifragaceae,Saxifraga adscendens L.,<i>Saxifraga adscendens</i> L.
 2208,,Gentiana verna,eats,,,https://www.catalogueoflife.org/data/taxon/3FMZS,Gentianales,Gentianaceae,Gentiana verna L.,<i>Gentiana verna</i> L.
 2208,,Gentiana clusii,eats,,,https://www.catalogueoflife.org/data/taxon/6KB4K,Gentianales,Gentianaceae,Gentiana clusii Perr. & Songeon,<i>Gentiana clusii</i> Perr. & Songeon
@@ -275,13 +275,13 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2345,,Erythraea venusta,eats,,,https://www.catalogueoflife.org/data/taxon/5CZXM,Gentianales,Gentianaceae,Zeltnera venusta (A. Gray) G. Mans.,<i>Zeltnera venusta</i> (A. Gray) G. Mans.
 2345,,Sopubia trifida,eats,,,https://www.catalogueoflife.org/data/taxon/4YB4J,Lamiales,Orobanchaceae,Sopubia trifida Buch.-Ham. ex D. Don,<i>Sopubia trifida</i> Buch.-Ham. ex D. Don
 2345,,Blumea balsamifera,eats,,,https://www.catalogueoflife.org/data/taxon/68M4J,Asterales,Asteraceae,Blumea balsamifera (L.) DC.,<i>Blumea balsamifera</i> (L.) DC.
-2171,,Veronicastrum sibricum subsp. japonicum,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+2171,,Veronicastrum sibricum subsp. japonicum,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 2204,,Gentianella quinquefolia,eats,,as Gentiana quinquefolia,https://www.catalogueoflife.org/data/taxon/6KC63,Gentianales,Gentianaceae,Gentianella quinquefolia (L.) Small,<i>Gentianella quinquefolia</i> (L.) Small
 2442,,Bridelia tomentosa,eats,,,https://www.catalogueoflife.org/data/taxon/692T7,Malpighiales,Phyllanthaceae,Bridelia tomentosa Blume,<i>Bridelia tomentosa</i> Blume
 2453,,Dimorphocalyx glabellus,eats,,,https://www.catalogueoflife.org/data/taxon/367H6,Malpighiales,Euphorbiaceae,Dimorphocalyx glabellus Thwaites,<i>Dimorphocalyx glabellus</i> Thwaites
 1824,,Vitis vinifera,eats,,,https://www.catalogueoflife.org/data/taxon/5BM7B,Vitales,Vitaceae,Vitis vinifera L.,<i>Vitis vinifera</i> L.
 1831,,Ampelopsis brevipedunculata,eats,,,https://www.catalogueoflife.org/data/taxon/5M6Z8,Vitales,Vitaceae,Ampelopsis heterophylla var. brevipedunculata (Maxim. ex Trautv.) C. L. Li,<i>Ampelopsis heterophylla</i> var. <i>brevipedunculata</i> (Maxim. ex Trautv.) C. L. Li
-1831,,Cayratia japonica,eats,,,https://www.catalogue.life/data/taxon/feab4ccb-4eb8-4816-b9ae-982332b31ee0,Vitales,Vitaceae,Cayratia japonica (Thunb.) Gagnep.,<i>Cayratia japonica</i> (Thunb.) Gagnep.
+1831,,Cayratia japonica,eats,,,,Vitales,Vitaceae,Cayratia japonica (Thunb.) Gagnep.,<i>Cayratia japonica</i> (Thunb.) Gagnep.
 1831,,Vitis ficifolia,eats,,as Vitis thunbergii,https://www.catalogueoflife.org/data/taxon/5BLQC,Vitales,Vitaceae,Vitis ficifolia Bunge,<i>Vitis ficifolia</i> Bunge
 1831,,Vitis vinifera,eats,,,https://www.catalogueoflife.org/data/taxon/5BM7B,Vitales,Vitaceae,Vitis vinifera L.,<i>Vitis vinifera</i> L.
 1831,,Parthenocissus tricuspidata,eats,,,https://www.catalogueoflife.org/data/taxon/6TSTD,Vitales,Vitaceae,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,<i>Parthenocissus tricuspidata</i> (Siebold & Zucc.) Planch.
@@ -323,7 +323,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1596,,Salvia glutinosa,eats,,,https://www.catalogueoflife.org/data/taxon/6XGY5,Lamiales,Lamiaceae,Salvia glutinosa L.,<i>Salvia glutinosa</i> L.
 1596,,Primula,eats,,,https://www.catalogueoflife.org/data/taxon/6VPB,Ericales,Primulaceae,Primula L.,<i>Primula</i> L.
 1596,,Ononis spinosa,eats,,,https://www.catalogueoflife.org/data/taxon/5JZNZ,Fabales,Fabaceae,Ononis spinosa subsp. spinosa,<i>Ononis spinosa</i> subsp. <i>spinosa</i>
-1596,,Prunella,eats,,,https://www.catalogueoflife.org/data/search?q=Prunella,Lamiales,Lamiaceae,Prunella (Multiple matches in COL),Prunella (Multiple matches in COL)
+1596,,Prunella,eats,,,https://www.catalogueoflife.org/data/search?q=Prunella,,,,
 1596,,Allium fistulosum,eats,,,https://www.catalogueoflife.org/data/taxon/65XC2,Asparagales,Amaryllidaceae,Allium fistulosum L.,<i>Allium fistulosum</i> L.
 1589,,Castilleja lutescens,eats,,,https://www.catalogueoflife.org/data/taxon/5XF39,Lamiales,Orobanchaceae,Castilleja lutescens (Greenm.) Rydb.,<i>Castilleja lutescens</i> (Greenm.) Rydb.
 1589,,Castilleja angustifolia,eats,,,https://www.catalogueoflife.org/data/taxon/RQD2,Lamiales,Orobanchaceae,Castilleja integra A. Gray,<i>Castilleja integra</i> A. Gray
@@ -362,7 +362,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1759,,Baccharis salicifolia,eats,,,https://www.catalogueoflife.org/data/taxon/K7N5,Asterales,Asteraceae,Baccharis salicina Torr. & A. Gray,<i>Baccharis salicina</i> Torr. & A. Gray
 1759,,Baccharis trinervis,eats,,,https://www.catalogueoflife.org/data/taxon/K7S3,Asterales,Asteraceae,Baccharis trinervis (Lam.) Pers.,<i>Baccharis trinervis</i> (Lam.) Pers.
 1759,,Baccharis discolor,eats,,,,,,,
-1759,,Baccharis,eats,,"as Baccharis "vinoso" fem.",https://www.catalogueoflife.org/data/taxon/372Q,Asterales,Asteraceae,Baccharis L.,<i>Baccharis</i> L.
+1759,,Baccharis,eats,,as Baccharis 'vinoso' fem.,https://www.catalogueoflife.org/data/taxon/372Q,Asterales,Asteraceae,Baccharis L.,<i>Baccharis</i> L.
 1759,,Baccharis serrulata,eats,,,https://www.catalogueoflife.org/data/taxon/K7P9,Asterales,Asteraceae,Baccharis serrulata (Lam.) Pers.,<i>Baccharis serrulata</i> (Lam.) Pers.
 1759,,Baccharis serrulata,eats,,,https://www.catalogueoflife.org/data/taxon/K7P9,Asterales,Asteraceae,Baccharis serrulata (Lam.) Pers.,<i>Baccharis serrulata</i> (Lam.) Pers.
 1759,,Baccharis glutinosa,eats,,,,,,,
@@ -381,10 +381,10 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 2134,,Lablab purpureus,eats,,as Dolichos lablab,https://www.catalogueoflife.org/data/taxon/3RJTM,Fabales,Fabaceae,Lablab purpureus (L.) Sweet,<i>Lablab purpureus</i> (L.) Sweet
 2134,,Cajanus cajan,eats,,,https://www.catalogueoflife.org/data/taxon/PBHR,Fabales,Fabaceae,Cajanus cajan (L.) Millsp.,<i>Cajanus cajan</i> (L.) Millsp.
 2134,,Cajanus bicolor,eats,,,https://www.catalogueoflife.org/data/taxon/PBHR,Fabales,Fabaceae,Cajanus cajan (L.) Millsp.,<i>Cajanus cajan</i> (L.) Millsp.
-2134,,Lagenaria leucantha subsp. clavata,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+2134,,Lagenaria leucantha subsp. clavata,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 2134,,Lagenaria siceraria,eats,,,https://www.catalogueoflife.org/data/taxon/3RWFV,Cucurbitales,Cucurbitaceae,Lagenaria siceraria (Molina) Standl.,<i>Lagenaria siceraria</i> (Molina) Standl.
-2134,,Lagenaria leucantha subsp. var.gourda,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
-2134,,Lagenaria vulgaris,eats,,,https://www.catalogue.life/data/taxon/4e2d5b54-cb79-4a22-8bb3-d9f53978a63b,Cucurbitales,Cucurbitaceae,Lagenaria siceraria (Molina) Standl.,<i>Lagenaria siceraria</i> (Molina) Standl.
+2134,,Lagenaria leucantha subsp. var.gourda,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+2134,,Lagenaria vulgaris,eats,,,,Cucurbitales,Cucurbitaceae,Lagenaria siceraria (Molina) Standl.,<i>Lagenaria siceraria</i> (Molina) Standl.
 2134,,Pelargonium,eats,,,https://www.catalogueoflife.org/data/taxon/6K7C,Geraniales,Geraniaceae,Pelargonium L'Hér.,<i>Pelargonium</i> L'Hér.
 2134,,Geranium maculatum,eats,,,https://www.catalogueoflife.org/data/taxon/6KDTP,Geraniales,Geraniaceae,Geranium maculatum L.,<i>Geranium maculatum</i> L.
 2134,,Phaseolus vulgaris,eats,,,https://www.catalogueoflife.org/data/taxon/778SQ,Fabales,Fabaceae,Phaseolus vulgaris L.,<i>Phaseolus vulgaris</i> L.
@@ -408,7 +408,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1655,,Petasites hybridus,eats,,,https://www.catalogueoflife.org/data/taxon/4FCZK,Asterales,Asteraceae,"Petasites hybridus (L.) G. Gaertn., B. Mey. & Scherb.","<i>Petasites hybridus</i> (L.) G. Gaertn., B. Mey. & Scherb."
 1663,,Rosa canina,eats,,,https://www.catalogueoflife.org/data/taxon/4TCZM,Rosales,Rosaceae,Rosa canina L.,<i>Rosa canina</i> L.
 1663,,Rosa spinosissima,eats,,,https://www.catalogueoflife.org/data/taxon/78WGK,Rosales,Rosaceae,Rosa spinosissima L.,<i>Rosa spinosissima</i> L.
-1663,,Rosa rugosa,eats,,,https://www.catalogue.life/data/taxon/bf7ca0be-ad37-4a35-baf5-6b61c8846b18,Rosales,Rosaceae,Rosa rugosa Thunb.,<i>Rosa rugosa</i> Thunb.
+1663,,Rosa rugosa,eats,,,,Rosales,Rosaceae,Rosa rugosa Thunb.,<i>Rosa rugosa</i> Thunb.
 1663,,Rosa,eats,,,https://www.catalogueoflife.org/data/taxon/63S6D,Rosales,Rosaceae,Rosa L.,<i>Rosa</i> L.
 413,,Ononis repens,eats,,,https://www.catalogueoflife.org/data/taxon/5JZNY,Fabales,Fabaceae,Ononis spinosa subsp. procurrens (Wallr.) Briq.,<i>Ononis spinosa</i> subsp. <i>procurrens</i> (Wallr.) Briq.
 413,,Ononis natrix,eats,,,https://www.catalogueoflife.org/data/taxon/49LDR,Fabales,Fabaceae,Ononis natrix L.,<i>Ononis natrix</i> L.
@@ -427,7 +427,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 362,,Oxalis,eats,,,https://www.catalogueoflife.org/data/taxon/6B6T,Oxalidales,Oxalidaceae,Oxalis L.,<i>Oxalis</i> L.
 362,,Desmodium lineatum,eats,,,https://www.catalogueoflife.org/data/taxon/7K243,Fabales,Fabaceae,Dendrolobium triangulare subsp. triangulare,<i>Dendrolobium triangulare</i> subsp. <i>triangulare</i>
 362,,Alysicarpus vaginalis,eats,,,https://www.catalogueoflife.org/data/taxon/CCCG,Fabales,Fabaceae,Alysicarpus vaginalis (L.) DC.,<i>Alysicarpus vaginalis</i> (L.) DC.
-379,,Lespedeza bicolorTurcz subsp. japonica,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+379,,Lespedeza bicolorTurcz subsp. japonica,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 379,,Lespedeza cuneata,eats,,,https://www.catalogueoflife.org/data/taxon/6Q3GG,Fabales,Fabaceae,Lespedeza cuneata,<i>Lespedeza cuneata</i>
 1377,,Geum rivale,eats,,,https://www.catalogueoflife.org/data/taxon/3FYD8,Rosales,Rosaceae,Geum rivale L.,<i>Geum rivale</i> L.
 1377,,Geum urbanum,eats,,,https://www.catalogueoflife.org/data/taxon/6KFWB,Rosales,Rosaceae,Geum urbanum L.,<i>Geum urbanum</i> L.
@@ -471,7 +471,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1443,,Dillenia retusa,eats,,,https://www.catalogueoflife.org/data/taxon/6D5XD,Dilleniales,Dilleniaceae,Dillenia retusa Thunb.,<i>Dillenia retusa</i> Thunb.
 1443,,Dillenia indica,eats,,,https://www.catalogueoflife.org/data/taxon/365GM,Dilleniales,Dilleniaceae,Dillenia indica L.,<i>Dillenia indica</i> L.
 1528,,Dunbaria villosa,eats,,,https://www.catalogueoflife.org/data/taxon/382J7,Fabales,Fabaceae,Dunbaria villosa (Thunb.) Makino,<i>Dunbaria villosa</i> (Thunb.) Makino
-1818,,Cayratia japonica,eats,,,https://www.catalogue.life/data/taxon/feab4ccb-4eb8-4816-b9ae-982332b31ee0,Vitales,Vitaceae,Cayratia japonica (Thunb.) Gagnep.,<i>Cayratia japonica</i> (Thunb.) Gagnep.
+1818,,Cayratia japonica,eats,,,,Vitales,Vitaceae,Cayratia japonica (Thunb.) Gagnep.,<i>Cayratia japonica</i> (Thunb.) Gagnep.
 1450,,Biophytum sensitivum,eats,,,https://www.catalogueoflife.org/data/taxon/68KPN,Oxalidales,Oxalidaceae,Biophytum sensitivum (L.) DC.,<i>Biophytum sensitivum</i> (L.) DC.
 1540,,Caesalpinia sappan,eats,,,https://www.catalogueoflife.org/data/taxon/68SZ2,Fabales,Fabaceae,Caesalpinia sappan L.,<i>Caesalpinia sappan</i> L.
 1540,,Calycopteris floribunda,eats,,,https://www.catalogueoflife.org/data/taxon/3FY7Q,Myrtales,Combretaceae,Getonia floribunda Roxb.,<i>Getonia floribunda</i> Roxb.
@@ -506,7 +506,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1357,,Hieracium fallax,eats,,,https://www.catalogueoflife.org/data/taxon/8RTFN,Asterales,Asteraceae,Pilosella cymosiformis subsp. cymosiformis,<i>Pilosella cymosiformis</i> subsp. <i>cymosiformis</i>
 1357,,Hieracium pilosella,eats,,,https://www.catalogueoflife.org/data/taxon/4HV2W,Asterales,Asteraceae,Pilosella officinarum Vaill.,<i>Pilosella officinarum</i> Vaill.
 1357,,Hieracium amplexicaule,eats,,,https://www.catalogueoflife.org/data/taxon/3LL6V,Asterales,Asteraceae,Hieracium amplexicaule L.,<i>Hieracium amplexicaule</i> L.
-1346,,Hieracium amplexicaula,eats,,,https://www.catalogue.life/data/taxon/4b2804ba-33f4-49b3-a0af-981661ae2c59,Asterales,Asteraceae,Hieracium laschii (C. Hieracium & F. W. Schultz) Zahn,<i>Hieracium laschii</i> (C. Hieracium & F. W. Schultz) Zahn
+1346,,Hieracium amplexicaula,eats,,,,Asterales,Asteraceae,Hieracium laschii (C. Hieracium & F. W. Schultz) Zahn,<i>Hieracium laschii</i> (C. Hieracium & F. W. Schultz) Zahn
 1348,,Andryala integrifolia,eats,,,https://www.catalogueoflife.org/data/taxon/DVQN,Asterales,Asteraceae,Andryala integrifolia L.,<i>Andryala integrifolia</i> L.
 1348,,Hieracium lanatum,eats,,,,,,,
 1522,,Ipomoea batatas,eats,,,https://www.catalogueoflife.org/data/taxon/3PVNN,Solanales,Convolvulaceae,Ipomoea batatas (L.) Lam.,<i>Ipomoea batatas</i> (L.) Lam.
@@ -521,7 +521,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1281,,Drosera capillaris,eats,,,https://www.catalogueoflife.org/data/taxon/37QPG,Caryophyllales,Droseraceae,Drosera capillaris Poir.,<i>Drosera capillaris</i> Poir.
 1281,,Drosera brevifolia,eats,,,https://www.catalogueoflife.org/data/taxon/37QP3,Caryophyllales,Droseraceae,Drosera brevifolia Pursh,<i>Drosera brevifolia</i> Pursh
 1281,,Drosera intermedia,eats,,,https://www.catalogueoflife.org/data/taxon/6DKGF,Caryophyllales,Droseraceae,Drosera intermedia Hayne,<i>Drosera intermedia</i> Hayne
-1281,,Drosera filiformis subsp. tracyi,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+1281,,Drosera filiformis subsp. tracyi,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 1538,,Chrysopsis scabrella,eats,,,https://www.catalogueoflife.org/data/taxon/5Z3R7,Asterales,Asteraceae,Chrysopsis scabrella Torr. & A. Gray,<i>Chrysopsis scabrella</i> Torr. & A. Gray
 1538,,Ceanothus papillosus,eats,,,https://www.catalogueoflife.org/data/taxon/RYSN,Rosales,Rhamnaceae,Ceanothus papillosus Torr. & A. Gray,<i>Ceanothus papillosus</i> Torr. & A. Gray
 1510,,Cistus monspeliensis,eats,,,https://www.catalogueoflife.org/data/taxon/VLNR,Malvales,Cistaceae,Cistus monspeliensis L.,<i>Cistus monspeliensis</i> L.
@@ -532,7 +532,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1510,,Dittrichia graveolens,eats,,,https://www.catalogueoflife.org/data/taxon/36ZJ7,Asterales,Asteraceae,Dittrichia graveolens (L.) Greuter,<i>Dittrichia graveolens</i> (L.) Greuter
 1510,,Helichrysum angustifolium,eats,,,https://www.catalogueoflife.org/data/taxon/3K6CP,Asterales,Asteraceae,Helichrysum angustifolium (Lam.) DC.,<i>Helichrysum angustifolium</i> (Lam.) DC.
 1510,,Ononis natrix,eats,,,https://www.catalogueoflife.org/data/taxon/49LDR,Fabales,Fabaceae,Ononis natrix L.,<i>Ononis natrix</i> L.
-1509,,Siegesbeckia orientalis,eats,,,https://www.catalogue.life/data/taxon/83c2967a-3ee4-43d7-bc48-ba504f695316,Poales,Poaceae,Stipa kamelinii KotukhovS. orientalis × S. lessingiana,<i>Stipa kamelinii</i> KotukhovS. orientalis × S. lessingiana
+1509,,Siegesbeckia orientalis,eats,,,,Poales,Poaceae,Stipa kamelinii KotukhovS. orientalis × S. lessingiana,<i>Stipa kamelinii</i> KotukhovS. orientalis × S. lessingiana
 1513,,Erioglossum,eats,,,https://www.catalogueoflife.org/data/taxon/5CMX,Sapindales,Sapindaceae,Lepisanthes Blume,<i>Lepisanthes</i> Blume
 1513,,Gynandropsis,eats,,,https://www.catalogueoflife.org/data/taxon/4RZD,Brassicales,Cleomaceae,Gynandropsis DC.,<i>Gynandropsis</i> DC.
 1513,,Cajanus cajan,eats,,,https://www.catalogueoflife.org/data/taxon/PBHR,Fabales,Fabaceae,Cajanus cajan (L.) Millsp.,<i>Cajanus cajan</i> (L.) Millsp.
@@ -555,7 +555,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1257,,Phagnalon rupestre,eats,,,https://www.catalogueoflife.org/data/taxon/76VDC,Asterales,Asteraceae,Phagnalon rupestre (L.) DC.,<i>Phagnalon rupestre</i> (L.) DC.
 1257,,Phagnalon saxatile,eats,,,https://www.catalogueoflife.org/data/taxon/4FQ5F,Asterales,Asteraceae,Phagnalon saxatile (L.) Cass.,<i>Phagnalon saxatile</i> (L.) Cass.
 1257,,Phagnalon sordidum,eats,,,https://www.catalogueoflife.org/data/taxon/4FQ5L,Asterales,Asteraceae,Phagnalon sordidum (L.) Rchb.,<i>Phagnalon sordidum</i> (L.) Rchb.
-1257,,Phagnalon telonense,eats,,,https://www.catalogue.life/data/taxon/d915914b-5b10-4e32-9dce-36e0b7d12faa,Asterales,Asteraceae,Phagnalon telonense Jord. & Fourr.,<i>Phagnalon telonense</i> Jord. & Fourr.
+1257,,Phagnalon telonense,eats,,,,Asterales,Asteraceae,Phagnalon telonense Jord. & Fourr.,<i>Phagnalon telonense</i> Jord. & Fourr.
 562,,Helichrysum italicum,eats,,,https://www.catalogueoflife.org/data/taxon/3K6TW,Asterales,Asteraceae,Helichrysum italicum (Roth) G. Don,<i>Helichrysum italicum</i> (Roth) G. Don
 562,,Helichrysum stoechas,eats,,,https://www.catalogueoflife.org/data/taxon/6LHJD,Asterales,Asteraceae,Helichrysum stoechas (L.) Moench,<i>Helichrysum stoechas</i> (L.) Moench
 562,,Helichrysum angustifolium,eats,,,https://www.catalogueoflife.org/data/taxon/3K6CP,Asterales,Asteraceae,Helichrysum angustifolium (Lam.) DC.,<i>Helichrysum angustifolium</i> (Lam.) DC.
@@ -613,7 +613,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 735,,Hieracium boreale,eats,,,,,,,
 735,,Hieracium sylvaticum,eats,,,,,,,
 1094,,Solidago virgaurea,eats,,,https://www.catalogueoflife.org/data/taxon/4Y7L3,Asterales,Asteraceae,Solidago virgaurea L.,<i>Solidago virgaurea</i> L.
-1094,,Aster bellidiastrum,eats,,,https://www.catalogue.life/data/taxon/65f68f6f-54f2-4414-8903-622b1d5ab26a,Asterales,Asteraceae,Bellidiastrum michelii Cass.,<i>Bellidiastrum michelii</i> Cass.
+1094,,Aster bellidiastrum,eats,,,,Asterales,Asteraceae,Bellidiastrum michelii Cass.,<i>Bellidiastrum michelii</i> Cass.
 1094,,Bellis perennis,eats,,,https://www.catalogueoflife.org/data/taxon/5WH44,Asterales,Asteraceae,Bellis perennis L.,<i>Bellis perennis</i> L.
 863,,Artemisia vulgaris,eats,,,https://www.catalogueoflife.org/data/taxon/5W4M9,Asterales,Asteraceae,Artemisia keiskeana Miq.,<i>Artemisia keiskeana</i> Miq.
 863,,Artemisia maritima,eats,,,https://www.catalogueoflife.org/data/taxon/GWLS,Asterales,Asteraceae,Artemisia maritima L.,<i>Artemisia maritima</i> L.
@@ -622,7 +622,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 863,,Leucanthemum vulgare,eats,,,https://www.catalogueoflife.org/data/taxon/723WW,Asterales,Asteraceae,Leucanthemum vulgare Lam.,<i>Leucanthemum vulgare</i> Lam.
 863,,Tanacetum,eats,,,https://www.catalogueoflife.org/data/taxon/7SCM,Asterales,Asteraceae,Tanacetum L.,<i>Tanacetum</i> L.
 863,,Solanum melongena,eats,,,https://www.catalogueoflife.org/data/taxon/4Y2VV,Solanales,Solanaceae,Solanum jacquinii Miq.,<i>Solanum jacquinii</i> Miq.
-844,,Artemisia vulgaris subsp. vulgatissima,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+844,,Artemisia vulgaris subsp. vulgatissima,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 854,,Aster ageratoides,eats,,,https://www.catalogueoflife.org/data/taxon/HPJZ,Asterales,Asteraceae,Aster ageratoides Turcz.,<i>Aster ageratoides</i> Turcz.
 854,,Aster yomena,eats,,,https://www.catalogueoflife.org/data/taxon/5J6W7,Asterales,Asteraceae,Kalimeris yomena subsp. yomena,<i>Kalimeris yomena</i> subsp. <i>yomena</i>
 940,,Aster yomena,eats,,,https://www.catalogueoflife.org/data/taxon/5J6W7,Asterales,Asteraceae,Kalimeris yomena subsp. yomena,<i>Kalimeris yomena</i> subsp. <i>yomena</i>
@@ -673,9 +673,9 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1178,,Inula helenioides,eats,,,https://www.catalogueoflife.org/data/taxon/76NHV,Asterales,Asteraceae,"Pentanema helenioides (DC.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort.","<i>Pentanema helenioides</i> (DC.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort."
 1178,,Pulicaria dysenterica,eats,,,https://www.catalogueoflife.org/data/taxon/4QGCK,Asterales,Asteraceae,Pulicaria dysenterica (L.) Bernh.,<i>Pulicaria dysenterica</i> (L.) Bernh.
 1178,,Buphthalmum salicifolium,eats,,,https://www.catalogueoflife.org/data/taxon/NVJP,Asterales,Asteraceae,Buphthalmum salicifolium L.,<i>Buphthalmum salicifolium</i> L.
-1196,,Erigeron acer subsp. angulosus,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+1196,,Erigeron acer subsp. angulosus,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 1196,,Erigeron alpinus,eats,,,https://www.catalogueoflife.org/data/taxon/6GNH7,Asterales,Asteraceae,Erigeron alpinus L.,<i>Erigeron alpinus</i> L.
-1196,,Erigeron acer subsp. politus,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+1196,,Erigeron acer subsp. politus,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 1196,,Erigeron glabratus,eats,,,https://www.catalogueoflife.org/data/taxon/6GP5M,Asterales,Asteraceae,Erigeron glabratus (Phil.) comb. ined.,<i>Erigeron glabratus</i> (Phil.) comb. ined.
 1196,,Erigeron uniflorus,eats,,,https://www.catalogueoflife.org/data/taxon/6GPX5,Asterales,Asteraceae,Erigeron uniflorus L.,<i>Erigeron uniflorus</i> L.
 1158,,Pentanema montanum,eats,,as Inula montana,https://www.catalogueoflife.org/data/taxon/76NKM,Asterales,Asteraceae,"Pentanema montanum (L.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort.","<i>Pentanema montanum</i> (L.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort."
@@ -690,7 +690,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1201,,Inula britannica,eats,,,https://www.catalogueoflife.org/data/taxon/76NHD,Asterales,Asteraceae,"Pentanema britannicum (L.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort.","<i>Pentanema britannicum</i> (L.) D. Gut. Larr., Santos-Vicente, Anderb., E. Rico & M. M. Mart. Ort."
 1086,,Solanum bonariense,eats,,,https://www.catalogueoflife.org/data/taxon/4XZQZ,Solanales,Solanaceae,Solanum bonariense L.,<i>Solanum bonariense</i> L.
 1194,,Phacelia heterophylla,eats,,,https://www.catalogueoflife.org/data/taxon/4FJVF,Boraginales,Hydrophyllaceae,Phacelia heterophylla Pursh,<i>Phacelia heterophylla</i> Pursh
-1194,,Phacelia ramosissima subsp. austroliferalis,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+1194,,Phacelia ramosissima subsp. austroliferalis,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 1165,,Eupatorium purpurascens,eats,,,https://www.catalogueoflife.org/data/taxon/QGBM,Asterales,Asteraceae,Campuloclinium purpurascens (Sch. Bip. ex Baker) R. King & H. Rob.,<i>Campuloclinium purpurascens</i> (Sch. Bip. ex Baker) R. King & H. Rob.
 1165,,Eupatorium purpureum,eats,,,,,,,
 1165,,Epilobium,eats,,,https://www.catalogueoflife.org/data/taxon/4D6C,Myrtales,Onagraceae,Epilobium L.,<i>Epilobium</i> L.
@@ -759,7 +759,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 443,,Ambrosia cunanensis,eats,,,,,,,
 443,,Xanthium strumarium,eats,,,https://www.catalogueoflife.org/data/taxon/7G6SB,Asterales,Asteraceae,Xanthium strumarium L.,<i>Xanthium strumarium</i> L.
 443,,Neurolaena lobata,eats,,,https://www.catalogueoflife.org/data/taxon/6RYH5,Asterales,Asteraceae,Neurolaena lobata (L.) R. Br.,<i>Neurolaena lobata</i> (L.) R. Br.
-443,,Cynara cardunculus subsp. scolymus,eats,,,https://www.catalogue.life/data/taxon/2a44d546-14f9-49db-b72a-831fa77cba00,Asterales,Asteraceae,Cynara scolymus L.,<i>Cynara scolymus</i> L.
+443,,Cynara cardunculus subsp. scolymus,eats,,,,Asterales,Asteraceae,Cynara scolymus L.,<i>Cynara scolymus</i> L.
 443,,Rudbeckia,eats,,,https://www.catalogueoflife.org/data/taxon/63RK3,Asterales,Asteraceae,Rudbeckia L.,<i>Rudbeckia</i> L.
 476,,Xanthium canadense,eats,,,https://www.catalogueoflife.org/data/taxon/5LSQ7,Asterales,Asteraceae,Xanthium spinosum subsp. spinosum,<i>Xanthium spinosum</i> subsp. <i>spinosum</i>
 476,,Aster novi-belgii,eats,,,https://www.catalogueoflife.org/data/taxon/53Q8L,Asterales,Asteraceae,Symphyotrichum novi-belgii (L.) Nesom,<i>Symphyotrichum novi-belgii</i> (L.) Nesom
@@ -865,7 +865,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1625,,Conandron ramondioides,eats,,,https://www.catalogueoflife.org/data/taxon/XJPX,Lamiales,Gesneriaceae,Conandron ramondioides Siebold & Zucc.,<i>Conandron ramondioides</i> Siebold & Zucc.
 929,,Melanthera prostrata,eats,,,https://www.catalogueoflife.org/data/taxon/3ZC6T,Asterales,Asteraceae,Melanthera prostrata (Hook. & Arn.) W. L. Wagner & H. Rob.,<i>Melanthera prostrata</i> (Hook. & Arn.) W. L. Wagner & H. Rob.
 929,,Melanthera robusta,eats,,,https://www.catalogueoflife.org/data/taxon/3ZC74,Asterales,Asteraceae,Melanthera robusta (Makino) K. Ohashi & H. Ohashi,<i>Melanthera robusta</i> (Makino) K. Ohashi & H. Ohashi
-929,,Melanthera biflora subsp. ryukyuensis,eats,,,https://www.catalogue.life/data/taxon/b8e9f8bc-1614-4151-8561-453b0b47e150,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
+929,,Melanthera biflora subsp. ryukyuensis,eats,,,,Asparagales,Amaryllidaceae,Narcissus concolor (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?,<i>Narcissus concolor</i> (Haw.) LinkN. jonquilla subsp. fernandesii × N. lusitanicus ?
 134,,Frankenia portulacifolia,eats,,,https://www.catalogueoflife.org/data/taxon/6JKZD,Caryophyllales,Frankeniaceae,Frankenia portulacifolia (Roxb.) Spreng.,<i>Frankenia portulacifolia</i> (Roxb.) Spreng.
 1164,,Espeletia grandiflora,eats,,,https://www.catalogueoflife.org/data/taxon/3BJ46,Asterales,Asteraceae,Espeletia grandiflora Humb. & Bonpl.,<i>Espeletia grandiflora</i> Humb. & Bonpl.
 1164,,Espeletia uribei,eats,,,https://www.catalogueoflife.org/data/taxon/3BJ7G,Asterales,Asteraceae,Espeletia uribei Cuatrec.,<i>Espeletia uribei</i> Cuatrec.
@@ -909,7 +909,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1663,,Scambus brevicornis,has parasitoid,1892,,https://www.catalogueoflife.org/data/taxon/6XS6F,Hymenoptera,Ichneumonidae,"Scambus brevicornis (Gravenhorst, 1829)","<i>Scambus brevicornis</i> (Gravenhorst, 1829)"
 1663,,Nilea palesoidea,has parasitoid,1892,as Pseudoperichaeta palesoidea,https://www.catalogueoflife.org/data/taxon/73ZQJ,Diptera,Tachinidae,"Nilea palesoidea Robineau-Desvoidy, 1863","<i>Nilea palesoidea</i> Robineau-Desvoidy, 1863"
 413,,Heterischnus filiformis,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6LQXF,Hymenoptera,Ichneumonidae,"Heterischnus filiformis (Gravenhorst, 1829)","<i>Heterischnus filiformis</i> (Gravenhorst, 1829)"
-408,,Aleiodes,has parasitoid,,"Aleiodes \"pterophorae\" spec. nov. (Col d’Ey) (Det. C van Achterberg)",https://www.catalogueoflife.org/data/taxon/RPJ,Hymenoptera,Braconidae,Aleiodes,<i>Aleiodes</i>
+408,,Aleiodes,has parasitoid,,Aleiodes 'pterophorae' spec. nov. (Col d’Ey) (Det. C van Achterberg),https://www.catalogueoflife.org/data/taxon/RPJ,Hymenoptera,Braconidae,Aleiodes,<i>Aleiodes</i>
 400,,Ageniaspis,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/QNZ,Hymenoptera,Encyrtidae,Ageniaspis,<i>Ageniaspis</i>
 338,,Diadegma trichoptilus,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/357VN,Hymenoptera,Ichneumonidae,"Diadegma trichoptilus (Cameron, 1909)","<i>Diadegma trichoptilus</i> (Cameron, 1909)"
 338,,Cotesia diurnii,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/YX7L,Hymenoptera,Braconidae,"Cotesia diurnii Rao & Nikam, 1984","<i>Cotesia diurnii</i> Rao & Nikam, 1984"
@@ -925,7 +925,7 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 1281,,Cotesia,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/62NG7,Hymenoptera,Braconidae,Cotesia,<i>Cotesia</i>
 1406,,Conura debilis,has parasitoid,,,,Hymenoptera,Chalcididae,"Conura debilis (Say, 1836)","<i>Conura debilis</i> (Say, 1836)"
 677,,Scambus brevicornis,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6XS6F,Hymenoptera,Ichneumonidae,"Scambus brevicornis (Gravenhorst, 1829)","<i>Scambus brevicornis</i> (Gravenhorst, 1829)"
-1094,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+1094,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 863,,Elachertus isadas,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6DZNS,Hymenoptera,Eulophidae,"Elachertus isadas (Walker, 1839)","<i>Elachertus isadas</i> (Walker, 1839)"
 640,,Meteorus laphygmae,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6RFF7,Hymenoptera,Braconidae,"Meteorus laphygmae Viereck, 1913","<i>Meteorus laphygmae</i> Viereck, 1913"
 812,,Compsilura concinnata,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/XHD9,Diptera,Tachinidae,"Compsilura concinnata (Meigen, 1824)","<i>Compsilura concinnata</i> (Meigen, 1824)"
@@ -934,12 +934,12 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 812,,Myiopharus floridensis,has parasitoid,,as Tachinophyto floridensis,https://www.catalogueoflife.org/data/taxon/452Y9,Diptera,Tachinidae,"Myiopharus floridensis (Townsend, 1892)","<i>Myiopharus floridensis</i> (Townsend, 1892)"
 625,,Macrocentrus,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/5J9L,Hymenoptera,Braconidae,Macrocentrus,<i>Macrocentrus</i>
 1178,,Cotesia jucunda,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/YX9X,Hymenoptera,Braconidae,"Cotesia jucunda (Marshall, 1885)","<i>Cotesia jucunda</i> (Marshall, 1885)"
-1178,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+1178,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 1178,,Pales pavida,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/4C49L,Diptera,Tachinidae,"Pales pavida (Meigen, 1824)","<i>Pales pavida</i> (Meigen, 1824)"
 1178,,Phryxe,has parasitoid,,cf. magnicornis,https://www.catalogueoflife.org/data/taxon/6PD8,Diptera,Tachinidae,Phryxe,<i>Phryxe</i>
-1158,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+1158,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 542,,Oxynops anthracinus,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/88TSJ,Diptera,Tachinidae,"Oxynops anthracinus (Bigot, 1889)","<i>Oxynops anthracinus</i> (Bigot, 1889)"
-542,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+542,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 542,,Phaeogenes,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6MGM,Hymenoptera,Ichneumonidae,Phaeogenes,<i>Phaeogenes</i>
 542,,Heterischnus pulex,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/3L7MH,Hymenoptera,Ichneumonidae,"Heterischnus pulex (Muller, 1776)","<i>Heterischnus pulex</i> (Muller, 1776)"
 542,,Heterischnus truncator,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/3L7MZ,Hymenoptera,Ichneumonidae,"Heterischnus truncator (Fabricius, 1798)","<i>Heterischnus truncator</i> (Fabricius, 1798)"
@@ -954,10 +954,10 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 470,,Phytomyptera nigrina,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/4HMJF,Diptera,Tachinidae,"Phytomyptera nigrina (Meigen, 1824)","<i>Phytomyptera nigrina</i> (Meigen, 1824)"
 443,,Apanteles,has parasitoid,,nr. nemoriae,https://www.catalogueoflife.org/data/taxon/62CWH,Hymenoptera,Braconidae,Apanteles,<i>Apanteles</i>
 443,,Hyposoter,has parasitoid,,nr. nigrolineatus,https://www.catalogueoflife.org/data/taxon/52WP,Hymenoptera,Ichneumonidae,Hyposoter,<i>Hyposoter</i>
-2462,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+2462,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 2475,,Heterischnus,has parasitoid,,as Rhexidermus,https://www.catalogueoflife.org/data/taxon/4W8X,Hymenoptera,Ichneumonidae,Heterischnus,<i>Heterischnus</i>
 2475,,Microgaster polita,has parasitoid,,,https://www.catalogueoflife.org/data/taxon/6RGP3,Hymenoptera,Braconidae,"Microgaster polita Marshall, 1885","<i>Microgaster polita</i> Marshall, 1885"
-2475,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,Diptera,Tachinidae,Ligeria angusticornis (Multiple matches in COL),Ligeria angusticornis (Multiple matches in COL)
+2475,,Ligeria angusticornis,has parasitoid,,,https://www.catalogueoflife.org/data/search?q=Ligeria angusticornis,,,,
 2475,,Mesochorus,has hyperparasitoid,,,https://www.catalogueoflife.org/data/taxon/5PP2,Hymenoptera,Ichneumonidae,Mesochorus,<i>Mesochorus</i>
 2601,,Heterischnus truncator,has parasitoid,,as Rhexidermus truncator,https://www.catalogueoflife.org/data/taxon/3L7MZ,Hymenoptera,Ichneumonidae,"Heterischnus truncator (Fabricius, 1798)","<i>Heterischnus truncator</i> (Fabricius, 1798)"
 2847,,Baccharis alnifolia,eats,1908,,https://www.catalogueoflife.org/data/taxon/K6YZ,Asterales,Asteraceae,Baccharis alnifolia Meyen & Walp.,<i>Baccharis alnifolia</i> Meyen & Walp.
