@@ -1715,7 +1715,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1715,1716,Gillmeria rhusiodactyla,"(Fuchs, 1903)",species,,Gillmeria,rhusiodactyla,,,,,ICZN,established,,
 1716,1716,Platyptilia rhusiodactyla,"Fuchs, 1903",species,,Platyptilia,rhusiodactyla,,645,14,1903,ICZN,established,,https://www.biodiversitylibrary.org/page/9009682
 1717,1717,Platyptilia armeniaca,"Zagulajev, 1984",species,,Platyptilia,armeniaca,,1849,46,1984,ICZN,established,,
-1718,1718,Gillmeria uralskinensis,"Gibeaux, 1995",species,,Gillmeria,uralskinensis,,695,91,1995,ICZN,established,,
+1718,1718,Gillmeria uralskiensis,"Gibeaux, 1995",species,,Gillmeria,uralskiensis,,695,91,1995,ICZN,established,,
 1719,1720,Gillmeria scutata,"(Yano, 1961)",species,,Gillmeria,scutata,,,,,ICZN,established,,
 1720,1720,Platyptilia scutata,"Yano, 1961",species,,Platyptilia,scutata,,1831,151,1961,ICZN,established,,
 1721,1722,Gillmeria stenoptiloides,"(Filipjev, 1927)",species,,Gillmeria,stenoptiloides,,,,,ICZN,established,,
@@ -2245,7 +2245,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2245,2245,Stenoptilia chukchi,"Arenberger, 2002",species,,Stenoptilia,chukchi,,135,135,2002,ICZN,established,,
 2246,2246,Stenoptilia kurushensis,"Kovtunovich, 2000",species,,Stenoptilia,kurushensis,,1005,877,2000,ICZN,established,,
 2247,2247,Stenoptilia lasani,"Ustjuzhanin, Rekelj & Kovtunovich, 2017",species,,Stenoptilia,lasani,,1727,322,2017,ICZN,established,,
-2248,2248,Stenoptilia latistriga,"Rebel, 1916",species,,Stenoptilia,latistriga,,1467,188,1916,ICZN,established,,
+2248,2248,Stenoptilia latistriga,"Rebel, 1916",species,,Stenoptilia,latistriga,,1467,188,1916,ICZN,established,,https://www.biodiversitylibrary.org/page/43599477
 2249,2250,Stenoptilia leuconephes,"(Meyrick, 1886)",species,,Stenoptilia,leuconephes,,,,,ICZN,established,,
 2250,2250,Mimeseoptilus leuconephes,"Meyrick, 1886",species,,Mimeseoptilus,leuconephes,,1174,20,1886,ICZN,established,,
 2251,2252,Stenoptilia longalis,"(Walker, 1864)",species,,Stenoptilia,longalis,,,,,ICZN,established,,
@@ -2552,7 +2552,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2553,2553,Pterophorus meristodactylus,"Zeller, 1852",species,,Pterophorus,meristodactylus,,1875,396,1852,ICZN,established,,
 2554,2554,Aciptilia baliodactylus var. meridionalis,"Staudinger, 1880",variety,,Aciptilia,baliodactylus,meridionalis,1608,432,1880,ICZN,established,,
 2555,2555,Alucita indocta,"Meyrick, 1913",species,,Alucita,indocta,,1207,111,1913,ICZN,established,,
-2556,2556,Alucita subtilis,"Caradja, 1920",species,,Alucita,subtilis,,383,81,1920,ICZN,established,,
+2556,2556,Alucita subtilis,"Caradja, 1920",species,,Alucita,subtilis,,383,81,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720930
 2557,2557,Alucita parca,"Meyrick, 1921",species,,Alucita,parca,,1189,421,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9808843
 2558,2558,Alucita subcretosa,"Meyrick, 1922",species,,Alucita,subcretosa,,1219,549,1922,ICZN,established,,
 2559,2559,Alucita phaeoschista,"Meyrick, 1923",species,,Alucita,phaeoschista,,1223,277,1923,ICZN,established,,
@@ -2894,3 +2894,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2897,2897,Hellinsia gielisi,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,gielisi,,1921,91,2021,ICZN,established,,
 2898,2898,Hellinsia wojtusiaki,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,wojtusiaki,,1921,92,2021,ICZN,established,,
 2899,2899,Pterophorus elbursi,"Arenberger, 1981",species,,Pterophorus,elbursi,,71,105,1981,ICZN,established,,
+2900,2059,Gillmeria ussuriensis,"(Caradja, 1920)",species,,Gillmeria,ussuriensis,,1924,,1920,ICZN,established,Synonymy presented in Sinev et al. 2019,
