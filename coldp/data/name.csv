@@ -74,7 +74,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 73,73,Agdistis facetus,"Bigot, 1969",species,,Agdistis,facetus,,226,168,1969,ICZN,established,,
 74,74,Agdistis falkovitshi,"Zagulajev, 1986",species,,Agdistis,falkovitshi,,1855,77,1986,ICZN,established,,
 75,76,Agdistis flavissima,"Caradja, 1920",species,,Agdistis,flavissima,,,,,ICZN,established,,
-76,76,Agdistis ingens var. flavissima,"Caradja, 1920",variety,,Agdistis,ingens,flavissima,383,87,1920,ICZN,established,,
+76,76,Agdistis ingens var. flavissima,"Caradja, 1920",variety,,Agdistis,ingens,flavissima,383,87,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720936
 77,78,Agdistis frankeniae,"(Zeller, 1847)",species,,Agdistis,frankeniae,,,,,ICZN,established,,
 78,78,Adactyla frankeniae,"Zeller, 1847",species,,Adactyla,frankeniae,,1872,900,1847,ICZN,established,,
 79,79,Agdistis lerinsis,"Millière, 1875",species,,Agdistis,lerinsis,,1270,168,1875,ICZN,established,,https://www.biodiversitylibrary.org/page/8234056
@@ -106,8 +106,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 105,105,Agdistis ingens,"Christoph, 1885",species,,Agdistis,ingens,,415,124,1885,ICZN,established,,
 106,106,Agdistis insidiatrix,"Meyrick, 1933",species,,Agdistis,insidiatrix,,1246,426,1933,ICZN,established,,
 107,107,Agdistis insolitus,"Kovtunovich & Ustjuzhanin, 2010",species,,Agdistis,insolitus,,1016,298,2010,ICZN,established,,
-108,109,Agdistis intermedia,"Caradja, 1920",species,,Agdistis,intermedia,,,,,ICZN,established,,
-109,109,Agdistis benneti var. intermedia,"Caradja, 1920",variety,,Agdistis,benneti,intermedia,383,88,1920,ICZN,established,,
+108,109,Agdistis intermedia,"Caradja, 1920",species,,Agdistis,intermedia,,,,1920,ICZN,established,,
+109,109,Agdistis benneti var. intermedia,"Caradja, 1920",variety,,Agdistis,benneti,intermedia,383,88,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720937
 110,110,Agdistis hungarica,"Amsel, 1955",species,,Agdistis,hungarica,,40,53,1955,ICZN,established,,http://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences/31-1955/irscnb_p4087_00df58p_31_bulletin-83-red.pdf
 111,111,Agdistis iranica,"Alipanah & Ustjuzhanin, 2007",species,,Agdistis,iranica,,21,179,2007,ICZN,established,,
 112,112,Agdistis iversoni,"Kovtunovich & Ustjuzhanin, 2015",species,,Agdistis,iversoni,,1018,138,2015,ICZN,established,,
@@ -962,8 +962,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 962,962,Alucita microdactyla,"auct. [nec Hübner, 1813]",species,,Alucita,microdactyla,,1888,1013,1840,ICZN,established,,https://www.biodiversitylibrary.org/page/8317244
 963,963,Leioptilus trimmatodactylus,"Christoph, 1872",species,,Leioptilus,trimmatodactylus,,413,36,1872,ICZN,established,,
 964,964,Leioptilus cinerariae,"Millière, 1869",species,,Leioptilus,cinerariae,,1268,418,1869,ICZN,established,,
-965,965,Pterophorus korbi,"Caradja, 1920",species,,Pterophorus,korbi,,383,86,1920,ICZN,established,,
-966,966,Pterophorus turbidellus,"Caradja, 1920",species,,Pterophorus,turbidellus,,383,86,1920,ICZN,established,,
+965,965,Pterophorus korbi,"Caradja, 1920",species,,Pterophorus,korbi,,383,86,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720935
+966,966,Pterophorus turbidellus,"Caradja, 1920",species,,Pterophorus,turbidellus,,383,86,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720935
 967,967,Pterophorus sophronistes,"Meyrick, 1938",species,,Pterophorus,sophronistes,,1256,170,1938,ICZN,established,,
 968,969,Hellinsia oxyntes,"(Meyrick, 1908)",species,,Hellinsia,oxyntes,,,,,ICZN,established,,
 969,969,Pterophorus oxyntes,"Meyrick, 1908",species,,Pterophorus,oxyntes,,1189,498,1908 (dated 1907),ICZN,established,,
@@ -1470,7 +1470,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1470,1470,Oxyptilus wallecei,"Fletcher, 1911",species,,Oxyptilus,wallecei,,605,346,1911,ICZN,established,,
 1471,1471,Paracapperia,"Bigot & Picard, 1986",genus,Paracapperia,,,,260,[17],1986,ICZN,established,,
 1472,1473,Paracapperia anatolicus,"(Caradja, 1920)",species,,Paracapperia,anatolicus,,,,,ICZN,established,,
-1473,1473,Oxyptilus anatolicus,"Caradja, 1920",species,,Oxyptilus,anatolicus,,383,79,1920,ICZN,established,,
+1473,1473,Oxyptilus anatolicus,"Caradja, 1920",species,,Oxyptilus,anatolicus,,383,79,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720928
 1474,1474,Capperia tamsi,"Adamczewski, 1951",species,,Capperia,tamsi,,9,368,1951,ICZN,established,,
 1475,1476,Paracapperia esuriens,"(Meyrick, 1932)",species,,Paracapperia,esuriens,,,,,ICZN,established,,
 1476,1476,Oxyptilus esuriens,"Meyrick, 1932",species,,Oxyptilus,esuriens,,1244,108,1932,ICZN,established,,
@@ -1946,7 +1946,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1946,1946,Platyptilia censoria,"Meyrick, 1910",species,,Platyptilia,censoria,,1194,367,1910,ICZN,established,,
 1947,1948,Platyptilia charadrias,"(Meyrick, 1884)",species,,Platyptilia,charadrias,,,,,ICZN,established,,
 1948,1948,Mimaeseoptilus charadrias,"Meyrick, 1884",species,,Mimaeseoptilus,charadrias,,1171,126,1884,ICZN,established,,
-1949,1949,Platyptilia chondrodactyla,"Caradja, 1920",species,,Platyptilia,chondrodactyla,,383,80,1920,ICZN,established,,
+1949,1949,Platyptilia chondrodactyla,"Caradja, 1920",species,,Platyptilia,chondrodactyla,,383,80,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720929
 1950,1950,Platyptilia chosokeiella,"Strand, 1922",species,,Platyptilia,chosokeiella,,1624,15,1922,ICZN,established,,
 1951,1951,Platyptilia citropleura,"Meyrick, 1908",species,,Platyptilia,citropleura,,1189,482,1908 (dated 1907),ICZN,established,,
 1952,1952,Platyptilia comorensis,"Gibeaux, 1994",species,,Platyptilia,comorensis,,693,32,1994,ICZN,established,,
@@ -1980,7 +1980,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1980,1980,Alucita diptera,"Sulzer, 1776",species,,Alucita,diptera,,1626,163,1776,ICZN,established,Terra typica unknown,
 1981,1981,Alucita trigonodactyla,"Haworth, 1811",species,,Alucita,trigonodactyla,,862,478,1811,ICZN,established,,
 1982,1982,Platyptilia farfara,"Gregson, 1885",species,,Platyptilia,farfara,,809,151,1885,ICZN,established,,
-1983,1983,Platyptilia gonodactyla var. albidior,"Caradja, 1920",variety,,Platyptilia,gonodactyla,albidior,383,80,1920,ICZN,established,,
+1983,1983,Platyptilia gonodactyla var. albidior,"Caradja, 1920",variety,,Platyptilia,gonodactyla,albidior,383,80,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720929
 1984,1984,Platyptilia gravior,"Meyrick, 1932",species,,Platyptilia,gravior,,1245,250,1932,ICZN,established,,
 1985,1985,Platyptilia juanvinas,"Gielis, 1999",species,,Platyptilia,juanvinas,,739,306,1999,ICZN,established,,
 1986,1986,Platyptilia grisea,"Gibeaux, 1994",species,,Platyptilia,grisea,,693,25,1994,ICZN,established,,
@@ -2510,7 +2510,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2511,2511,Imbophorus pallidus,"Arenberger, 1991",species,,Imbophorus,pallidus,,101,108,1991,ICZN,established,,
 2512,2512,Merrifieldia,"Tutt, 1905",genus,Merrifieldia,,,,1674,37,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/9019828
 2513,2514,Merrifieldia alaica,"(Caradja, 1920)",species,,Merrifieldia,alaica,,,,,ICZN,established,,
-2514,2514,Alucita alaica,"Caradja, 1920",species,,Alucita,alaica,,383,81,1920,ICZN,established,,
+2514,2514,Alucita alaica,"Caradja, 1920",species,,Alucita,alaica,,383,81,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720930
 2515,2515,Merrifieldia aurea,"Ustjuzhanin & Kovtunovich, 2015",species,,Merrifieldia,aurea,,1706,140,2015,ICZN,established,,
 2516,2518,Merrifieldia baliodactylus,"(Zeller, 1841)",species,,Merrifieldia,baliodactylus,,,,,ICZN,established,,
 2517,2517,Alucita tridactylus,"Stephens, 1834",species,,Alucita,tridactylus,,1619,373,1834,ICZN,unacceptable,Homonym,https://www.biodiversitylibrary.org/page/8185742
@@ -2578,7 +2578,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2579,2579,Phalaena tridactyla,"Linnaeus, 1758",species,,Phalaena,tridactyla,,1091,542,1758,ICZN,established,Phalaena Alucita tridactyla,https://www.biodiversitylibrary.org/page/727453
 2580,2580,Pterophorus fuscolimbatus,"Duponchel, 1844",species,,Pterophorus,fuscolimbatus,,500,498,1844,ICZN,established,,https://www.biodiversitylibrary.org/page/10355710
 2581,2581,Pterophorus icterodactylus,"Mann, 1855",species,,Pterophorus,icterodactylus,,1110,571,1855,ICZN,established,,
-2582,2582,Alucita icterodactyla ab. noctis,"Caradja, 1920",aberration,,Alucita,icterodactyla,noctis,383,83,1920,ICZN,established,,
+2582,2582,Alucita icterodactyla ab. noctis,"Caradja, 1920",aberration,,Alucita,icterodactyla,noctis,383,83,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720932
 2583,2583,Alucita spicidactyla flavella,"Chrétien, 1923",subspecies,,Alucita,spicidactyla,flavella,420,232,1923,ICZN,established,,
 2584,2584,Alucita baliodactyla menthae,"Chrétien, 1925",subspecies,,Alucita,baliodactyla,menthae,421,243,1925,ICZN,established,,
 2585,2585,Alucita icterodactyla phillipsi,"Huggins, 1955",subspecies,,Alucita,icterodactyla,phillipsi,928,124,1955,ICZN,established,,
@@ -2745,7 +2745,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2747,2747,Alucita sesamitis,"Meyrick, 1905",species,,Alucita,sesamitis,,1182,582,1905,ICZN,established,,
 2748,2748,Tabulaephorus thomasi,"Arenberger, 1993",species,,Tabulaephorus,thomasi,,107,314,1993,ICZN,established,,
 2749,2750,Tabulaephorus ussuriensis,"(Caradja, 1920)",species,,Tabulaephorus,ussuriensis,,,,,ICZN,established,,
-2750,2750,Alucita ussuriensis,"Caradja, 1920",species,,Alucita,ussuriensis,,383,81,1920,ICZN,established,,
+2750,2750,Alucita ussuriensis,"Caradja, 1920",species,,Alucita,ussuriensis,,383,81,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720930
 2751,2751,Wheeleria,"Tutt, 1905",genus,Wheeleria,,,,1674,37,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/9019828
 2752,2899,Wheeleria elbursi,"(Arenberger, 1981)",species,,Wheeleria,elbursi,,71,105,1981,ICZN,established,,
 2753,2754,Wheeleria ivae,"(Kasy, 1960)",species,,Wheeleria,ivae,,,,,ICZN,established,,
@@ -2895,3 +2895,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2898,2898,Hellinsia wojtusiaki,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,wojtusiaki,,1921,92,2021,ICZN,established,,
 2899,2899,Pterophorus elbursi,"Arenberger, 1981",species,,Pterophorus,elbursi,,71,105,1981,ICZN,established,,
 2900,2059,Gillmeria ussuriensis,"(Caradja, 1920)",species,,Gillmeria,ussuriensis,,1924,,1920,ICZN,established,Synonymy presented in Sinev et al. 2019,
+2901,2901,Pterophorus rogenhoferi var. sibiricus,"Caradja, 1920",variety,,Pterophorus,rogenhoferi,sibiricus,383,86,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720935

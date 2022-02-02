@@ -323,25 +323,25 @@ nameID,referenceID,page,link,remarks
 1411,373,408,,Original description
 2373,374,44,,Original description
 2309,377,472,,Original description
-1473,383,79,,Original description
-1983,383,80,,Original description
-1949,383,80,,Original description
+1473,383,79,https://www.biodiversitylibrary.org/page/12720928,Original description
+1983,383,80,https://www.biodiversitylibrary.org/page/12720929,Original description
+1949,383,80,https://www.biodiversitylibrary.org/page/12720929,Original description
 1878,383,80,,Original description
 381,383,80,,Original description
 2059,383,81,,Original description
-2750,383,81,,Original description
+2750,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
 2556,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
-2514,383,81,,Original description
-2582,383,83,,Original description
+2514,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
+2582,383,83,https://www.biodiversitylibrary.org/page/12720932,Original description
 403,383,84,https://www.biodiversitylibrary.org/page/12720933,Original description
 428,383,84,https://www.biodiversitylibrary.org/page/12720933,Original description
 1260,383,85,https://www.biodiversitylibrary.org/page/12720934,Original description
-965,383,86,,Original description
-966,383,86,,Original description
+965,383,86,https://www.biodiversitylibrary.org/page/12720935,Original description
+966,383,86,https://www.biodiversitylibrary.org/page/12720935,Original description
 744,383,86,,Original description
 871,383,86,https://www.biodiversitylibrary.org/page/12720935,Original description
-76,383,87,,Original description
-109,383,88,,Original description
+76,383,87,https://www.biodiversitylibrary.org/page/12720936,Original description
+109,383,88,https://www.biodiversitylibrary.org/page/12720937,Original description
 2468,386,30,,Original description
 2467,386,4,,Original description
 384,389,10,,Original description
@@ -2393,3 +2393,4 @@ nameID,referenceID,page,link,remarks
 2521,71,107,,
 1718,1690,25,https://www.biodiversitylibrary.org/page/41370363,Synonymy of Gillmeria uralskiensis with Gillmeria armeniaca
 2900,1924,,,Synonymy presented in Sinev et al. 2019
+2901,383,86,https://www.biodiversitylibrary.org/page/12720935,
