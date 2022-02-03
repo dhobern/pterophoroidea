@@ -328,7 +328,7 @@ nameID,referenceID,page,link,remarks
 1949,383,80,https://www.biodiversitylibrary.org/page/12720929,Original description
 1878,383,80,,Refers without description to earlier (manuscript?) name from Christoph: P. inanis Chr. (1332 bis)
 381,383,80,,Original description
-2059,383,81,,Original description
+2059,383,81,,"Based on error in Gielis 2003 - reference to Caradja, 1920 is for Alucita ussuriensis."
 2750,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
 2556,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
 2514,383,81,https://www.biodiversitylibrary.org/page/12720930,Original description
@@ -2392,7 +2392,7 @@ nameID,referenceID,page,link,remarks
 2778,71,103,,
 2521,71,107,,
 1718,1690,25,https://www.biodiversitylibrary.org/page/41370363,Synonymy of Gillmeria uralskiensis with Gillmeria armeniaca
-2900,1924,,,Synonymy presented in Sinev et al. 2019
+2900,1924,,,"Presented with synonymy in Sinev et al. 2019, but name based on mistake in Gielis, 2003"
 2901,383,86,https://www.biodiversitylibrary.org/page/12720935,
 1878,625,137-139,,Detailed redescription
 2902,1927,245,,"Original description, imago, male and female genitalia"

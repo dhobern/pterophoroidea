@@ -2055,7 +2055,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2056,2056,Platyptilia thiosoma,"Meyrick, 1920",species,,Platyptilia,thiosoma,,1215,39,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/56561444
 2057,2057,Platyptilia thyellopa,"Meyrick, 1926",species,,Platyptilia,thyellopa,,1228,298,1926,ICZN,established,,
 2058,2058,Platyptilia triphracta,"Meyrick, 1932",species,,Platyptilia,triphracta,,1218,334,1932,ICZN,established,,
-2059,2059,Platyptilia ussuriensis,"Caradja, 1920",species,,Platyptilia,ussuriensis,,383,81,1920,ICZN,established,,
+2059,2059,Platyptilia ussuriensis,"Caradja, 1920",species,,Platyptilia,ussuriensis,,383,81,1920,ICZN,not established,"Based on error in Gielis 2003 - reference to Caradja, 1920 is for Alucita ussuriensis.",
 2060,2060,Platyptilia manchurica,"Buszko, 1977",species,,Platyptilia,manchurica,,362,334,1977,ICZN,established,,
 2061,2061,Platyptilia euridactyla,"Zagulajev & Filippova, 1976",species,,Platyptilia,euridactyla,,1868,39,1976,ICZN,established,,
 2062,2062,Platyptilia vilema,"Landry, 1993",species,,Platyptilia,vilema,,1052,475,1993,ICZN,established,,
@@ -2893,11 +2893,11 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2897,2897,Hellinsia gielisi,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,gielisi,,1921,91,2021,ICZN,established,,
 2898,2898,Hellinsia wojtusiaki,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,wojtusiaki,,1921,92,2021,ICZN,established,,
 2899,2899,Pterophorus elbursi,"Arenberger, 1981",species,,Pterophorus,elbursi,,71,105,1981,ICZN,established,,
-2900,2059,Gillmeria ussuriensis,"(Caradja, 1920)",species,,Gillmeria,ussuriensis,,1924,,1920,ICZN,established,Synonymy presented in Sinev et al. 2019,
+2900,2059,Gillmeria ussuriensis,"(Caradja, 1920)",species,,Gillmeria,ussuriensis,,1924,,1920,ICZN,not established,"Presented with synonymy in Sinev et al. 2019, but name based on mistake in Gielis, 2003",
 2901,2901,Pterophorus rogenhoferi var. sibiricus,"Caradja, 1920",variety,,Pterophorus,rogenhoferi,sibiricus,383,86,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720935
 2902,2902,Agdistis paki,"Ustjuzhanin & Kovtunovich, 2020",species,,Agdistis,paki,,1927,245,2020,ICZN,established,,
 2903,2903,Hellinsia swammerdami,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,swammerdami,,1930,675,2021,ICZN,established,,
 2904,2904,Hellinsia sergeii,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,sergeii,,1930,675,2021,ICZN,established,,
 2905,2905,Hellinsia aymara,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,aymara,,1930,676,2021,ICZN,established,,
-2906,2906,Merrifieldia arenbergeri,Ustjuzhanin & Kovtunovich 2022,species,,Merrifieldia,arenbergeri,,1931,49,2022,ICZN,established,,
-2907,2907,Hellinsia kaweri,Kovtunovich & Ustjuzhanin 2022,species,,Hellinsia,kaweri,,1932,53,2022,ICZN,established,,
+2906,2906,Merrifieldia arenbergeri,"Ustjuzhanin & Kovtunovich, 2022",species,,Merrifieldia,arenbergeri,,1931,49,2022,ICZN,established,,
+2907,2907,Hellinsia kaweri,"Kovtunovich & Ustjuzhanin, 2022",species,,Hellinsia,kaweri,,1932,53,2022,ICZN,established,,
