@@ -622,8 +622,8 @@ ID,author,title,issued,containerTitle,volume,issue,page,link
 621,"Fletcher, T.B.",Names of Microlepidoptera,1938,Entomologist's Rec. J. Var.,50,,77-78,
 622,"Fletcher, T.B.",A new California Plume-moth,1940,Bull. South Californ. Acad. Science,39,,99-102,
 623,"Fletcher, T.B.",A new Indian plume-moth,1940,Indian Journ. Ent.,2,,11-12,
-624,"Fletcher, T.B.","A new South American Plume Moth (Lep., Aluc.)",1940,Proc. Roy. ent. Soc. London,(B) 9,,83-84,
-625,"Fletcher, T.B.",On some microlepidoptera recorded by Prince Aristide Caradja,1940,Proc. Roy. ent. Soc. London,(B) 9,,137-141,
+624,"Fletcher, T.B.","A new South American Plume Moth (Lep., Aluc.)",1940,Proc. Roy. ent. Soc. London,(B) 9,,83-84,https://doi.org/10.1111/j.1365-3113.1940.tb00350.x
+625,"Fletcher, T.B.",On some microlepidoptera recorded by Prince Aristide Caradja,1940,Proc. Roy. ent. Soc. London,(B) 9,,137-141,https://doi.org/10.1111/j.1365-3113.1940.tb00364.x
 626,"Fletcher, T.B.",Some species of Cosmoclostis (Lep.: Alucitidae),1947,Royal Ent. Soc. London,(B) 16,,42-52,
 627,"Fletcher, T.B. & Pierce, F.N.","A new Irish plume-moth, with a note on its genitalia",1940,Entomologist's Rec. J. Var.,52,,25-29,
 628,"Fontes, E.M.G., Habeck, D.H. & Slansky, F.","Phytophagous insects associated with goldenrods ( Solidago sp.) in Gainesville, Florida",1994,Florida Ent.,77,,209-221,
@@ -1725,7 +1725,7 @@ ID,author,title,issued,containerTitle,volume,issue,page,link
 1724,"Ustjuzhanin, P., Kovtunovich, V., Gorbunov, O. G. & Kemal, A.",On the fauna of the plume moths of Ethiopia,2011,Amurian Zoological Journal,3,,354-357,https://www.researchgate.net/publication/307607978
 1725,"Ustjuzhanin, P., Kovtunovich, V., Pljushtch, I., Skrylnik, J. & Pak, O.",Plume moths of Afghanistan,2016,Biological Bulletin of Bogdan Chmelnitskiy Melitopol State Pedagogical University,1,,183-192,
 1726,"Ustjuzhanin, P., Kovtunovich, V., Saldaitis, A. & Ustjuzhanina, A.",New data on plume moths (Lepidoptera: Pterophoridae) of Oman,2019,Zoology in the Middle East,,,"65:1, 75-78",https://doi.org/10.1080/09397140.2018.1540159
-1727,"Ustjuzhanin, P., Rekelj, J, Jovtunovich, V & Ustjuzhanina, A.",Pterophoridae (Lepidoptera) fauna of the Republic of Tuva,2017,Zootaxa,4319(2),,317-328,
+1727,"Ustjuzhanin, P., Rekelj, J, Kovtunovich, V & Ustjuzhanina, A.",Pterophoridae (Lepidoptera) fauna of the Republic of Tuva,2017,Zootaxa,4319(2),,317-328,https://doi.org/10.11646/Zootaxa.4319.2.3
 1728,"Ustjuzhanin, P., Titov, S., Kovtunovich, V. & Akhmetov, K.",The Pterophoridae fauna of Pavlodar region.,2016,Biological Bulletin of Bogdan Chmelnitskiy Melitopol State Pedagogical University,6,,73-79,
 1729,"Valle, K.J.",Die Lepidopterenfauna des Petsamogebietes,1933,Ann. Zool. Soc. zool.-bot. Fennica,1,,"1-24, 2 figs.",
 1730,"Valletta, A.",The moths of the Maltese Islands,1973,,,,"1-118 pp., 16 plates.",
@@ -1925,3 +1925,9 @@ ID,author,title,issued,containerTitle,volume,issue,page,link
 1924,"Sinev, S. Yu, Ustjuzhanin, P. & Kovtunovich, V.","Pterophoridae. - In: Sinev, S. Yu (ed.), Catalogue of the Lepidoptera of Russia, Edition 2.",2019,,,,1-448,https://www.researchgate.net/publication/338865579
 1925,"Alipanah, H.",First record of three pterophorid species (Lep.: Pterophoridae: Pterophorinae) from Iran,2014,Journal of Entomological Society of Iran,34,2,57-59,https://jesi.areeo.ac.ir/article_105571.html?lang=en
 1926,"Alipanah, H. & Ustjuzhanin, P.","New findings of the tribe Oxyptilini Arenberger, 1995 in Iran (Lepidoptera: Pterophoridae, Pterophorinae)",2013,SHILAP Revista de lepidopterología,41,164,559-563,
+1927,"Ustjuzhanin, P., Kovtunovich, V. & Streltzov, A.","A new species of Agdistis Hübner, 1825 (Lepidoptera: Pterophoridae) from Tajikistan",2020,Ecological Montenegrina,38,,245-248,http://dx.doi.org/10.37828/em.2020.38.33
+1928,"Ustjuzhanin, P., Kovtunovich, V., Sinyaev, V. & Streltzov, A.",Fauna of Pterophoridae (Lepidoptera) of Sierra Leone (Western Africa),2020,Ecologica Montenegrina,35,,26-30,http://dx.doi.org/10.37828/em.2020.35.3
+1929,"Ustjuzhanin, P., Kovtunovich, V., Streltzon, A. & Ustjuzhanina, A.",New data on Pterophoridae of Oman. Part 2 (Lepidoptera: Pterophoridae),2021,SHILAP Revista de lepidopterología,49,196,641-646,
+1930,"Ustjuzhanin, P., Kovtunovich, V & Streltzov, A.",To the fauna of Pterophoridae of Bolivia with a description of three new species (Lepidoptera: Pterophoridae),2021,SHILAP Revista de lepidopterología,49,196,673-678,
+1931,"Ustjuzhanin, P., Kovtunovich, V. & Streltzov, A.",Merrifieldia arenbergeri - new species of plume moths (Lepidoptera: Pterophoridae) from the Republic of South Africa,2022,Ecologica Montenegrina,50,,47-51,https://dx.doi.org/10.37828/em.2022.50.8
+1932,"Kovtunovich, V., Ustjuzhanin, P., Streltzov, A. & Ustjuzhanina, A.",New data on the Pterophoridae fauna (Lepidoptera) of Uganda with description of a new species,2022,Ecologica Montenegrina,50,,52-55,https://dx.doi.org/10.37828/em.2022.50.9

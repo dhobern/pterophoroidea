@@ -887,7 +887,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 887,888,Hellinsia luteolus,"(Barnes & Lindsey, 1921)",species,,Hellinsia,luteolus,,,,,ICZN,established,,
 888,888,Oidaematophorus luteolus,"Barnes & Lindsey, 1921",species,,Oidaematophorus,luteolus,,176,426,1921,ICZN,established,,
 889,889,Hellinsia macritudinis,"Gielis, 2014",species,,Hellinsia,macritudinis,,767,76,2014,ICZN,established,,
-890,891,Hellinsia madecassea,"Gibeaux, 1994",species,,Hellinsia,madecassea,,,,,ICZN,established,,
 891,891,Buckleria madecassea,"Gibeaux, 1994",species,,Buckleria,madecassea,,693,88,1994,ICZN,established,,
 892,893,Hellinsia madecasseus,"(Bigot, 1964)",species,,Hellinsia,madecasseus,,,,,ICZN,established,,
 893,893,Pterophorus madecasseus,"Bigot, 1964",species,,Pterophorus,madecasseus,,219,34,1964,ICZN,established,,
@@ -2896,3 +2895,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2899,2899,Pterophorus elbursi,"Arenberger, 1981",species,,Pterophorus,elbursi,,71,105,1981,ICZN,established,,
 2900,2059,Gillmeria ussuriensis,"(Caradja, 1920)",species,,Gillmeria,ussuriensis,,1924,,1920,ICZN,established,Synonymy presented in Sinev et al. 2019,
 2901,2901,Pterophorus rogenhoferi var. sibiricus,"Caradja, 1920",variety,,Pterophorus,rogenhoferi,sibiricus,383,86,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720935
+2902,2902,Agdistis paki,"Ustjuzhanin & Kovtunovich, 2020",species,,Agdistis,paki,,1927,245,2020,ICZN,established,,
+2903,2903,Hellinsia swammerdami,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,swammerdami,,1930,675,2021,ICZN,established,,
+2904,2904,Hellinsia sergeii,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,sergeii,,1930,675,2021,ICZN,established,,
+2905,2905,Hellinsia aymara,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,aymara,,1930,676,2021,ICZN,established,,
+2906,2906,Merrifieldia arenbergeri,Ustjuzhanin & Kovtunovich 2022,species,,Merrifieldia,arenbergeri,,1931,49,2022,ICZN,established,,
+2907,2907,Hellinsia kaweri,Kovtunovich & Ustjuzhanin 2022,species,,Hellinsia,kaweri,,1932,53,2022,ICZN,established,,
