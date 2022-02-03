@@ -1244,7 +1244,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1245,1245,Pselnophorus laudatus,"Bigot, 1964",species,,Pselnophorus,laudatus,,219,32,1964,ICZN,established,,
 1246,1246,Pselnophorus ducis,"Gibeaux, 1994",species,,Pselnophorus,ducis,,693,104,1994,ICZN,established,,
 1247,1248,Pselnophorus poggei,"(Mann, 1862)",species,,Pselnophorus,poggei,,,,,ICZN,established,,
-1248,1248,Oxyptilus poggei,"Mann, 1862",species,,Oxyptilus,poggei,,1111,409,1862,ICZN,established,,
+1248,1248,Oxyptilus brachydactylus var. poggei,"Mann, 1862",variety,,Oxyptilus,brachydactylus,poggei,1111,409,1862,ICZN,established,,https://www.biodiversitylibrary.org/page/42209657
 1249,1249,Leioptilus minutus,"Alphéraky, 1876",species,,Leioptilus,minutus,,25,32,1876,ICZN,established,,https://www.biodiversitylibrary.org/page/47933062
 1250,1250,Pselnophorus borzhomi,"Zagulajev, 1987",species,,Pselnophorus,borzhomi,,1856,363,1987,ICZN,established,,
 1251,1251,Pselnophorus tanzanicus,"Ustjuzhanin & Kovtunovich, 2015",species,,Pselnophorus,tanzanicus,,1706,139,2015,ICZN,established,,
