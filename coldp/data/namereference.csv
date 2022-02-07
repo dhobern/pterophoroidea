@@ -1703,7 +1703,7 @@ nameID,referenceID,page,link,remarks
 2649,1654,223,,Original description
 1703,1654,225,,Original description
 2227,1654,233,,Original description
-1234,1654,238,,Original description
+1234,1654,238,https://www.biodiversitylibrary.org/page/34444256,Original description
 1179,1654,245,,Original description
 1180,1654,246,,Original description
 738,1654,247,,Original description
@@ -2015,7 +2015,7 @@ nameID,referenceID,page,link,remarks
 2518,1871,861,,Original description
 2347,1873,38,,Original description
 326,1873,755,,Original description
-16,1873,755,https://www.biodiversitylibrary.org/page/13238931,Original description
+16,1873,755,https://www.biodiversitylibrary.org/page/13238931,As Pterophoridae Zell.
 137,1872,898,,Original description
 209,1872,899,,Original description
 166,1872,899,,Original description
@@ -2402,3 +2402,4 @@ nameID,referenceID,page,link,remarks
 2905,1930,676,,"Original description, imago and male genitalia"
 2906,1931,49,,"Original description, imago, male and female genitalia"
 2907,1932,53,,"Original description, imago and male genitalia"
+16,1933,418,https://www.biodiversitylibrary.org/page/24885293,As Ptérophoriens; pterophorii

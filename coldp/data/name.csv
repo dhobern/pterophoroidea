@@ -14,7 +14,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 13,13,Agdistis sinhala,"Fletcher, 1909",species,,Agdistis,sinhala,,601,8,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/59021973
 14,14,Agdistopis petrochroa,"Hampson, 1917",species,,Agdistopis,petrochroa,,829,44,1917,ICZN,established,,
 15,15,Macropiratis heteromantis,"Meyrick, 1932",species,,Macropiratis,heteromantis,,1245,249,1932,ICZN,established,,
-16,16,Pterophoridae,"Zeller, 1841",family,Pterophoridae,,,,1873,755,1841,ICZN,established,,https://www.biodiversitylibrary.org/page/13238931
+16,16,Pterophoridae,"Latreille, 1802",family,Pterophoridae,,,,1933,418,1802,ICZN,established,As Ptérophoriens; pterophorii,https://www.biodiversitylibrary.org/page/24885293
 17,17,Agdistinae,"Tutt, 1906",subfamily,Agdistinae,,,,1676,127,1906,ICZN,established,As family Agdistidae,https://www.biodiversitylibrary.org/page/39246190
 18,18,Agdistis,"Hübner, [1825]",genus,Agdistis,,,,945,429,1825,ICZN,established,,https://www.biodiversitylibrary.org/page/33045468
 19,19,Adactylus,"Curtis, 1833",genus,Adactylus,,,,459,471,1833,ICZN,established,,https://www.biodiversitylibrary.org/page/8222657
@@ -1230,7 +1230,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1231,1232,Pselnophorus heterodactyla,"(Müller, 1764)",species,,Pselnophorus,heterodactyla,,,,,ICZN,established,,
 1232,1232,Phalaena heterodactyla,"Müller, 1764",species,,Phalaena,heterodactyla,,1308,59,1764,ICZN,established,,
 1233,1233,Alucita brachydactyla,"Kollar, 1832",species,,Alucita,brachydactyla,,1002,100,1832,ICZN,established,,
-1234,1234,Alucita brachydactyla,"Treitschke, 1833",species,,Alucita,brachydactyla,,1654,238,1833,ICZN,established,,
+1234,1234,Alucita brachydactyla,"Treitschke, 1833",species,,Alucita,brachydactyla,,1654,238,1833,ICZN,established,,https://www.biodiversitylibrary.org/page/34444256
 1235,1235,Pterophorus aetodactylus,"Duponchel, 1840",species,,Pterophorus,aetodactylus,,499,659,1840,ICZN,established,,https://www.biodiversitylibrary.org/page/9938032
 1236,1236,Pselnophorus hodgesi,"Matthews, Gielis & Watkins, 2014",species,,Pselnophorus,hodgesi,,1145,10,2014,ICZN,established,,
 1237,1237,Pselnophorus huntii,"Ustjuzhanin & Kovtunovich, 2015",species,,Pselnophorus,huntii,,1706,139,2015,ICZN,established,,
