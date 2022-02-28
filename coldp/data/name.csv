@@ -825,7 +825,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 825,826,Hellinsia innocens,"(Snellen, 1884)",species,,Hellinsia,innocens,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/27935191
 826,826,Pterophorus innocens,"Snellen, 1884",species,,Pterophorus,innocens,,1575,195,1884,ICZN,established,,https://www.biodiversitylibrary.org/page/27935191
 827,828,Hellinsia inquinatus,"(Zeller, 1873)",species,,Hellinsia,inquinatus,,,,,ICZN,established,,
-828,828,Oedematophorus inquinatus,"Zeller, 1873",species,,Oedematophorus,inquinatus,,1882,325,1873,ICZN,established,,
+828,828,Oedematophorus inquinatus,"Zeller, 1873",species,,Oedematophorus,inquinatus,,1881,325,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411992
 829,830,Hellinsia integratus,"(Meyrick, 1913)",species,,Hellinsia,integratus,,,,,ICZN,established,,
 830,830,Pterophorus integratus,"Meyrick, 1913",species,,Pterophorus,integratus,,1207,113,1913,ICZN,established,,
 831,832,Hellinsia inulae,"(Zeller, 1852)",species,,Hellinsia,inulae,,,,,ICZN,established,,
@@ -972,7 +972,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 973,973,Pterophorus ambitiosus,"Meyrick, 1911",species,,Pterophorus,ambitiosus,,1199,220,1911,ICZN,established,,
 974,974,Pterophorus purus,"Meyrick, 1913",species,,Pterophorus,purus,,1205,268,1913,ICZN,established,,
 975,976,Hellinsia paleaceus,"(Zeller, 1873)",species,,Hellinsia,paleaceus,,,,,ICZN,established,,
-976,976,Leioptilus paleaceus,"Zeller, 1873",species,,Leioptilus,paleaceus,,1882,326,1873,ICZN,established,,
+976,976,Leioptilus paleaceus,"Zeller, 1873",species,,Leioptilus,paleaceus,,1881,326,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411993
 977,977,Leioptilus sericidactylus,"Murtfeldt, 1880",species,,Leioptilus,sericidactylus,,1297,235,1880,ICZN,established,,
 978,978,Hellinsia pallens,"Gielis, 2011",species,,Hellinsia,pallens,,764,621,2011,ICZN,established,,
 979,980,Hellinsia palmatus,"(Meyrick, 1908)",species,,Hellinsia,palmatus,,,,,ICZN,established,,
@@ -1382,7 +1382,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1383,1383,Geina sheppardi,"Landry, 1989",species,,Geina,sheppardi,,1049,764,1989,ICZN,established,,
 1384,1385,Geina tenuidactylus,"(Fitch, 1854)",species,,Geina,tenuidactylus,,,,,ICZN,established,,
 1385,1385,Pterophorus tenuidactylus,"Fitch, 1854",species,,Pterophorus,tenuidactylus,,592,848,1854,ICZN,established,,
-1386,1386,Oxyptilus nigrociliatus,"Zeller, 1873",species,,Oxyptilus,nigrociliatus,,1882,332,1873,ICZN,established,,
+1386,1386,Oxyptilus nigrociliatus,"Zeller, 1873",species,,Oxyptilus,nigrociliatus,,1881,322,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411989
 1387,1387,Pterophorus cygnus,"Barnes & Lindsey, 1921",species,,Pterophorus,cygnus,,176,304,1921,ICZN,established,,
 1388,1388,Intercapperia,"Arenberger, 1988",genus,Intercapperia,,,,86,26,1988,ICZN,established,,
 1389,1389,Intercapperia scindia,"Arenberger, 1988",species,,Intercapperia,scindia,,86,27,1988,ICZN,established,,
@@ -1444,7 +1444,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1445,1445,Alucita chrysodactyla,"Denis & Schiffermüller, 1775",species,,Alucita,chrysodactyla,,472,320,1775,ICZN,established,,
 1446,1446,Pterophorus hieracii,"Zeller, 1841",species,,Pterophorus,hieracii,,1871,827,1841,ICZN,established,,
 1447,1447,Oxyptilus perunovi,"Ustjuzhanin, 1996",species,,Oxyptilus,perunovi,,1684,385,1996,ICZN,established,,
-1448,1448,Oxyptilus delawaricus,"Zeller, 1873",species,,Oxyptilus,delawaricus,,1882,320,1873,ICZN,established,,
+1448,1448,Oxyptilus delawaricus,"Zeller, 1873",species,,Oxyptilus,delawaricus,,1881,320,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411987
 1449,1449,Oxyptilus bernardinus f. finitimus,"Grinnell, 1908",form,,Oxyptilus,bernardinus,finitimus,813,315,1908,ICZN,established,,
 1450,1450,Oxyptilus epidectis,"Meyrick, 1908",species,,Oxyptilus,epidectis,,1189,476,1908 (dated 1907),ICZN,established,,
 1451,1451,Oxyptilus erebites,"Meyrick, 1937",species,,Oxyptilus,erebites,,1230,118,1937,ICZN,established,,
@@ -1937,7 +1937,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1938,1938,Platyptilia campsiptera,"Meyrick, 1907",species,,Platyptilia,campsiptera,,1187,113,1907,ICZN,established,,https://www.biodiversitylibrary.org/page/9975197
 1939,1940,Platyptilia carduidactylus,"(Riley, 1869)",species,,Platyptilia,carduidactylus,,,,,ICZN,established,,
 1940,1940,Pterophorus carduidactylus,"Riley, 1869",species,,Pterophorus,carduidactylus,,1485,180,1869,ICZN,established,,
-1941,1941,Platyptilia cardui,"Zeller, 1873",species,,Platyptilia,cardui,,1882,318,1873,ICZN,established,,
+1941,1941,Platyptilia cardui,"Zeller, 1873",species,,Platyptilia,cardui,,1882,318,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411985
 1942,1942,Platyptilia hesperis,"Grinnell, 1908",species,,Platyptilia,hesperis,,813,316,1908,ICZN,established,,
 1943,1944,Platyptilia celidotus,"(Meyrick, 1884)",species,,Platyptilia,celidotus,,,,,ICZN,established,,
 1944,1944,Lioptilus celidotus,"Meyrick, 1884",species,,Lioptilus,celidotus,,1171,125,1884,ICZN,established,,
@@ -2011,7 +2011,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2012,2012,Platyptilia naminga,"Ustjuzhanin, 1996",species,,Platyptilia,naminga,,1684,355,1996,ICZN,established,,
 2013,2013,Platyptilia nemoralis,"Zeller, 1841",species,,Platyptilia,nemoralis,,1871,778,1841,ICZN,established,,
 2014,2014,Platyptilia nemoralis var. saracenica,"Wocke, 1871",variety,,Platyptilia,nemoralis,saracenica,1613,342 (No. 3127a),1871,ICZN,established,,https://www.biodiversitylibrary.org/page/10018591
-2015,2015,Platyptilia grafii,"Zeller, 1873",species,,Platyptilia,grafii,,1882,139,1873,ICZN,established,,
+2015,2015,Platyptilia grafii,"Zeller, 1873",species,,Platyptilia,grafii,,1882,139,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/8987329
 2016,2016,Platyptilia sinuosa,"Yano, 1960",species,,Platyptilia,sinuosa,,1829,137,1960,ICZN,established,,
 2017,2017,Platyptilia nussi,"Gielis, 2003",species,,Platyptilia,nussi,,750,413,2003,ICZN,established,,
 2018,2018,Platyptilia nyungwea,"Gielis, 2011",species,,Platyptilia,nyungwea,,763,44,2011,ICZN,established,,
