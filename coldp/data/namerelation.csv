@@ -358,7 +358,7 @@ nameID,relatedNameID,type,referenceID,remarks
 436,437,basionym,1191,
 396,397,basionym,1772,
 338,339,basionym,,
-359,360,basionym,1199,
+359,360,basionym,1200,
 369,370,basionym,1245,
 354,355,basionym,1781,
 366,367,basionym,505,
@@ -767,3 +767,4 @@ nameID,relatedNameID,type,referenceID,remarks
 390,2851,type,,
 1095,2865,type,979,original designation
 2865,2821,replacement name,979,
+561,2908,basionym,,

@@ -234,7 +234,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 233,233,Deuterocopus,"Zeller, 1852",genus,Deuterocopus,,,,1875,402,1852,ICZN,established,,
 234,234,Deuteroscopus,"Hofmann, 1898",genus,Deuteroscopus,,,,906,329,1898,ICZN,not established,Misspelling,
 235,235,Deuterocopus albipunctatus,"Fletcher, 1910",species,,Deuterocopus,albipunctatus,,603,122,1910,ICZN,established,,https://www.biodiversitylibrary.org/page/14720344
-236,236,Deuterocopus alopecodes,"Meyrick, 1911",species,,Deuterocopus,alopecodes,,1199,105,1911,ICZN,established,,
+236,236,Deuterocopus alopecodes,"Meyrick, 1911",species,,Deuterocopus,alopecodes,,1200,105,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/30150776
 237,237,Deuterocopus atrapex,"Fletcher, 1909",species,,Deuterocopus,atrapex,,601,19,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/59021984
 238,238,Deuterocopus fervens,"Meyrick, 1913",species,,Deuterocopus,fervens,,1207,108,1913,ICZN,established,,
 239,239,Deuterocopus bathychasma,"Fletcher, 1910",species,,Deuterocopus,bathychasma,,603,130,1910,ICZN,established,,https://www.biodiversitylibrary.org/page/14720352
@@ -253,7 +253,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 252,252,Deuterocopus socotranus,"Rebel, 1907",species,,Deuterocopus,socotranus,,1460,115,1907,ICZN,established,,
 253,253,Deuterocopus jacksoni,Walsingham,species,,Deuterocopus,jacksoni,,,,,ICZN,not established,Nomen nudum,
 254,254,Deuterocopus mathewi,Walsingham,species,,Deuterocopus,mathewi,,,,,ICZN,not established,Nomen nudum,
-255,255,Deuterocopus viticola,"Meyrick, 1911",species,,Deuterocopus,viticola,,1199,104,1911,ICZN,established,,
+255,255,Deuterocopus viticola,"Meyrick, 1911",species,,Deuterocopus,viticola,,1200,104,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/30150775
 256,256,Deuterocopus triannulatus,"Meyrick, 1913",species,,Deuterocopus,triannulatus,,1207,107,1913,ICZN,established,,
 257,257,Deuterocopus deltoptilus,"Meyrick, 1930",species,,Deuterocopus,deltoptilus,,1237,565,1930,ICZN,established,,
 258,258,Deuterocopus henrioti,"Bigot & Boireau, 2006",species,,Deuterocopus,henrioti,,245,16,2006,ICZN,established,,
@@ -358,7 +358,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 357,358,Exelastis pavidus,"(Meyrick, 1908)",species,,Exelastis,pavidus,,,,,ICZN,established,,
 358,358,Pterophorus pavidus,"Meyrick, 1908",species,,Pterophorus,pavidus,,1189,493,1908 (dated 1907),ICZN,established,,
 359,360,Exelastis phlyctaenias,"(Meyrick, 1911)",species,,Exelastis,phlyctaenias,,,,,ICZN,established,,
-360,360,Marasmarcha phlyctaenias,"Meyrick, 1911",species,,Marasmarcha,phlyctaenias,,1199,106,1911,ICZN,established,,
+360,360,Marasmarcha phlyctaenias,"Meyrick, 1911",species,,Marasmarcha,phlyctaenias,,1200,106,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/30150777
 361,361,Exelastis pilum,"Gielis, 2009",species,,Exelastis,pilum,,759,237,2009,ICZN,established,,
 362,363,Exelastis pumilio,"(Zeller, 1873)",species,,Exelastis,pumilio,,,,,ICZN,established,,
 363,363,Mimeseoptilus pumilio,"Zeller, 1873",species,,Mimeseoptilus,pumilio,,1881,324,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411991
@@ -459,7 +459,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 458,458,Adaina everdinae,"Gielis, 1991",species,,Adaina,everdinae,,719,75,1991,ICZN,established,,
 459,459,Adaina excreta,"Meyrick, 1930",species,,Adaina,excreta,,1237,568,1930,ICZN,established,,
 460,460,Adaina fuscahodias,"Gielis, 1992",species,,Adaina,fuscahodias,,725,379,1992,ICZN,established,,
-461,461,Adaina gentilis,"Meyrick, 1911",species,,Adaina,gentilis,,1199,219,1911,ICZN,established,,
+461,461,Adaina gentilis,"Meyrick, 1911",species,,Adaina,gentilis,,1199,219,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
 462,463,Adaina hodias,"(Meyrick, 1908)",species,,Adaina,hodias,,,,,ICZN,established,,
 463,463,Marasmarcha hodias,"Meyrick, 1908",species,,Marasmarcha,hodias,,1189,492,1908 (dated 1907),ICZN,established,,
 464,465,Adaina invida,"(Meyrick, 1908)",species,,Adaina,invida,,,,,ICZN,established,,
@@ -559,7 +559,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 558,558,Sibiretta,"Ustjuzhanin, 1996",genus,Sibiretta,,,,1684,405,1996,ICZN,established,,
 559,560,Gypsochares astragalotes,"(Meyrick, 1909)",species,,Gypsochares,astragalotes,,,,,ICZN,established,,
 560,560,Pselnophorus astragalotes,"Meyrick, 1909",species,,Pselnophorus,astragalotes,,1193,366,1909,ICZN,established,,
-561,561,Gypsochares aulotes,"Meyrick, 1911",species,,Gypsochares,aulotes,,1199,219,1911,ICZN,established,,
+561,2908,Gypsochares aulotes,"(Meyrick, 1911)",species,,Gypsochares,aulotes,,,,,ICZN,established,,
 562,563,Gypsochares baptodactylus,"(Zeller, 1850)",species,,Gypsochares,baptodactylus,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/34518236
 563,563,Pterophorus baptodactylus,"Zeller, 1850",species,,Pterophorus,baptodactylus,,1874,211,1850,ICZN,established,,https://www.biodiversitylibrary.org/page/34518236
 564,564,Gypsochares dactilographa,"Turati, 1927",species,,Gypsochares,dactilographa,,1659,335,1927,ICZN,established,,
@@ -772,7 +772,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 772,773,Hellinsia fumiventris,"(Zeller, 1877)",species,,Hellinsia,fumiventris,,,,,ICZN,established,,
 773,773,Mimeseoptilus fumiventris,"Zeller, 1877",species,,Mimeseoptilus,fumiventris,,1884,472,1877,ICZN,established,,
 774,775,Hellinsia furfurosus,"(Meyrick, 1911)",species,,Hellinsia,furfurosus,,,,,ICZN,established,,
-775,775,Pterophorus furfurosus,"Meyrick, 1911",species,,Pterophorus,furfurosus,,1199,220,1911,ICZN,established,,
+775,775,Pterophorus furfurosus,"Meyrick, 1911",species,,Pterophorus,furfurosus,,1199,220,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
 776,777,Hellinsia fusciciliatus,"(Zeller, 1877)",species,,Hellinsia,fusciciliatus,,,,,ICZN,established,,
 777,777,Mimeseoptilus fusciciliatus,"Zeller, 1877",species,,Mimeseoptilus,fusciciliatus,,1884,475,1877,ICZN,established,,
 778,778,Hellinsia fuscomarginata,"Arenberger, 1991",species,,Hellinsia,fuscomarginata,,103,14,1991,ICZN,established,,
@@ -836,7 +836,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 836,836,Leioptilus inulaevorus,"Gibeaux, 1989",species,,Leioptilus,inulaevorus,,673,73,1989,ICZN,established,,
 837,837,Hellinsia investis,"Gielis, 1999",species,,Hellinsia,investis,,739,311,1999,ICZN,established,,
 838,839,Hellinsia invidiosus,"(Meyrick, 1911)",species,,Hellinsia,invidiosus,,,,,ICZN,established,,
-839,839,Pterophorus invidiosus,"Meyrick, 1911",species,,Pterophorus,invidiosus,,1199,220,1911,ICZN,established,,
+839,839,Pterophorus invidiosus,"Meyrick, 1911",species,,Pterophorus,invidiosus,,1199,220,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
 840,841,Hellinsia iobates,"(Barnes & Lindsey, 1921)",species,,Hellinsia,iobates,,,,,ICZN,established,,
 841,841,Oidaematophorus iobates,"Barnes & Lindsey, 1921",species,,Oidaematophorus,iobates,,176,412,1921,ICZN,established,,
 842,843,Hellinsia iraneaus,"(Diakonoff, 1952)",species,,Hellinsia,iraneaus,,,,,ICZN,established,,
@@ -968,8 +968,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 969,969,Pterophorus oxyntes,"Meyrick, 1908",species,,Pterophorus,oxyntes,,1189,498,1908 (dated 1907),ICZN,established,,
 970,970,Hellinsia paccha,"Gielis, 2011",species,,Hellinsia,paccha,,764,606,2011,ICZN,established,,
 971,972,Hellinsia pacifica,"(Meyrick, 1911)",species,,Hellinsia,pacifica,,,,,ICZN,established,,
-972,972,Marasmarcha pacifica,"Meyrick, 1911",species,,Marasmarcha,pacifica,,1199,220,1911,ICZN,established,,
-973,973,Pterophorus ambitiosus,"Meyrick, 1911",species,,Pterophorus,ambitiosus,,1199,220,1911,ICZN,established,,
+972,972,Marasmarcha pacifica,"Meyrick, 1911",species,,Marasmarcha,pacifica,,1199,220,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
+973,973,Pterophorus ambitiosus,"Meyrick, 1911",species,,Pterophorus,ambitiosus,,1199,220,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
 974,974,Pterophorus purus,"Meyrick, 1913",species,,Pterophorus,purus,,1205,268,1913,ICZN,established,,
 975,976,Hellinsia paleaceus,"(Zeller, 1873)",species,,Hellinsia,paleaceus,,,,,ICZN,established,,
 976,976,Leioptilus paleaceus,"Zeller, 1873",species,,Leioptilus,paleaceus,,1881,326,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411993
@@ -1501,7 +1501,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1502,1502,Oxyptilus pelecyntes,"Meyrick, 1908",species,,Oxyptilus,pelecyntes,,1189,477,1908 (dated 1907),ICZN,established,,
 1503,1503,Pseudoxyptilus,"Alipanah, Sari, Sarafrat, Gielis & Manzari, 2010",genus,Pseudoxyptilus,,,,24,29,2010,ICZN,established,,
 1504,1505,Pseudoxyptilus secutor,"(Meyrick, 1911)",species,,Pseudoxyptilus,secutor,,,,,ICZN,established,,
-1505,1505,Oxyptilus secutor,"Meyrick, 1911",species,,Oxyptilus,secutor,,1199,218,1911,ICZN,established,,
+1505,1505,Oxyptilus secutor,"Meyrick, 1911",species,,Oxyptilus,secutor,,1199,218,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495141
 1506,1506,Oxyptilus variegatus,"Meyrick, 1920",species,,Oxyptilus,variegatus,,1214,274,1920,ICZN,established,,
 1507,1507,Stangeia,"Tutt, 1906",genus,Stangeia,,,,1676,492,1906,ICZN,established,,
 1508,1508,Stangeia distantia,"Clarke, 1986",species,,Stangeia,distantia,,427,16,1986,ICZN,established,,
@@ -2901,3 +2901,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2905,2905,Hellinsia aymara,"Ustjuzhanin & Kovtunovich, 2021",species,,Hellinsia,aymara,,1930,676,2021,ICZN,established,,
 2906,2906,Merrifieldia arenbergeri,"Ustjuzhanin & Kovtunovich, 2022",species,,Merrifieldia,arenbergeri,,1931,49,2022,ICZN,established,,
 2907,2907,Hellinsia kaweri,"Kovtunovich & Ustjuzhanin, 2022",species,,Hellinsia,kaweri,,1932,53,2022,ICZN,established,,
+2908,2908,Pselnophorus aulotes,"Meyrick, 1911",species,,Pselnophorus,aulotes,,1199,219,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
