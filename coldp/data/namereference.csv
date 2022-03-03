@@ -483,7 +483,7 @@ nameID,referenceID,page,link,remarks
 2128,605,347,,Original description
 1337,617,13,,Original description
 1929,617,23,,Original description
-2124,618,607,,Original description
+2124,618,607,https://www.bugz.org.nz/WebForms/ResultDetails.aspx?CurrentDoc=6001345E-9F25-4A0D-B848-D3DE8546778D&CurrentPage=10,Original description
 2499,620,1,,Original description
 617,624,83,,Original description
 1690,625,139,,Original description
@@ -1799,7 +1799,7 @@ nameID,referenceID,page,link,remarks
 1290,1748,535,,Original description
 176,1763,927,,Original description
 262,1763,929,,Original description
-2123,1763,930,,Original description
+2123,1763,930,https://www.biodiversitylibrary.org/page/38948522,Original description
 1569,1763,931,,Original description
 1606,1763,931,,Original description
 1748,1763,933,,Original description
@@ -2403,3 +2403,4 @@ nameID,referenceID,page,link,remarks
 16,1933,418,https://www.biodiversitylibrary.org/page/24885293,As Ptérophoriens; pterophorii
 363,1881,324,https://www.biodiversitylibrary.org/page/16411991,
 2908,1199,219,https://www.biodiversitylibrary.org/page/50495142,Original description
+2123,618,601,https://www.bugz.org.nz/WebForms/ResultDetails.aspx?CurrentDoc=6001345E-9F25-4A0D-B848-D3DE8546778D&CurrentPage=4,Redescription and discussion of types

@@ -2119,8 +2119,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2120,2120,Quadriptilia rectangulodactyla,"Gielis, 1994",species,,Quadriptilia,rectangulodactyla,,727,185,1994,ICZN,established,,
 2121,2121,Sinpunctiptilia,"Arenberger, 2006",genus,Sinpunctiptilia,,,,138,116,2006,ICZN,established,,
 2122,2123,Sinpunctiptilia emissalis,"(Walker, 1864)",species,,Sinpunctiptilia,emissalis,,138,116,2006,ICZN,established,,
-2123,2123,Platyptilus emissalis,"Walker, 1864",species,,Platyptilus,emissalis,,1763,930,1864,ICZN,established,,
-2124,2124,Platyptilia omissalis,"Fletcher, 1926",species,,Platyptilia,omissalis,,618,607,1926,ICZN,established,,
+2123,2123,Platyptilus emissalis,"Walker, 1864",species,,Platyptilus,emissalis,,1763,930,1864,ICZN,established,,https://www.biodiversitylibrary.org/page/38948522
+2124,2124,Platyptilia omissalis,"Fletcher, 1926",species,,Platyptilia,omissalis,,618,607,1926,ICZN,established,,https://www.bugz.org.nz/WebForms/ResultDetails.aspx?CurrentDoc=6001345E-9F25-4A0D-B848-D3DE8546778D&CurrentPage=10
 2125,2124,Paraplatyptilia omissalis,"(Fletcher, 1926)",species,,Paraplatyptilia,omissalis,,1139,246,2005,ICZN,established,,
 2126,2126,Sinpunctiptilia tasmaniae,"Arenberger, 2006",species,,Sinpunctiptilia,tasmaniae,,138,118,2006,ICZN,established,,
 2127,2127,Sochchora,"Walker, 1864",genus,Sochchora,,,,1763,952,1864,ICZN,established,,
