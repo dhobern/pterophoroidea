@@ -697,8 +697,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 696,696,Oidaematophorus bowesi,"Whalley, 1960",species,,Oidaematophorus,bowesi,,1801,29,1960,ICZN,established,,
 697,697,Leioptilus gozmanyi,"Bigot, 1969",species,,Leioptilus,gozmanyi,,226,285,1969,ICZN,established,,
 698,698,Hellinsia chuncheonensis,"Kim, Byun, Park & Lee, 2010",species,,Hellinsia,chuncheonensis,,989,1385,2010,ICZN,established,,
-699,700,Hellinsia cinerarius,"(Philippi, 1864)",species,,Hellinsia,cinerarius,,,,,ICZN,established,,
-700,700,Pterophorus cinerarius,"Philippi, 1864",species,,Pterophorus,cinerarius,,1407,296,1864,ICZN,established,,
+699,700,Hellinsia cinerarius,"(Philippi, 1860)",species,,Hellinsia,cinerarius,,,,1860,ICZN,established,,
+700,700,Pterophorus cinerarius,"Philippi, 1860",species,,Pterophorus,cinerarius,,1407,296,1860,ICZN,established,,https://www.biodiversitylibrary.org/page/44713070
 701,702,Hellinsia citrites,"(Meyrick, 1908)",species,,Hellinsia,citrites,,,,,ICZN,established,,
 702,702,Pterophorus citrites,"Meyrick, 1908",species,,Pterophorus,citrites,,1189,502,1908 (dated 1907),ICZN,established,,
 703,704,Hellinsia cochise,"(Barnes & Lindsey, 1921)",species,,Hellinsia,cochise,,,,,ICZN,established,,
@@ -1535,7 +1535,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 1536,1536,Trichoptilus inclitus,"T.P. Lucas, 1892",species,,Trichoptilus,inclitus,,1099,94,1892,ICZN,established,Generic placement marked as uncertain,https://www.biodiversitylibrary.org/page/13928132
 1537,1537,Trichoptilus pelias,"Meyrick, 1908",species,,Trichoptilus,pelias,,1189,472,1908 (dated 1907),ICZN,established,,
 1538,1538,Trichoptilus pygmaeus,"Walsingham, 1880",species,,Trichoptilus,pygmaeus,,1771,64,1880,ICZN,established,,
-1539,1539,Trichoptilus potentellus,"Lange, 1940",species,,Trichoptilus,potentellus,,1063,164,1940,ICZN,established,,
+1539,1539,Trichoptilus potentellus,"Lange, 1940",species,,Trichoptilus,potentellus,,1063,164,1940,ICZN,established,,https://www.biodiversitylibrary.org/page/34210149
 1540,1541,Trichoptilus regalis,"(Fletcher, 1909)",species,,Trichoptilus,regalis,,,,,ICZN,established,,
 1541,1541,Oxyptilus regalis,"Fletcher, 1909",species,,Oxyptilus,regalis,,601,25,1909,ICZN,established,,
 1542,1542,Oxyptilus chordites,"Meyrick, 1913",species,,Oxyptilus,chordites,,1207,106,1913,ICZN,established,,
@@ -2098,8 +2098,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2099,2099,Platyptilia paraglyptis,"Meyrick, 1908",species,,Platyptilia,paraglyptis,,1189,484,1908 (dated 1907),ICZN,established,,
 2100,2100,Postplatyptilia parana,"Gielis, 1996",species,,Postplatyptilia,parana,,729,92,1996,ICZN,established,,
 2101,2101,Postplatyptilia pluvia,"Gielis, 2006",species,,Postplatyptilia,pluvia,,752,103,2006,ICZN,established,,
-2102,2103,Postplatyptilia pusillus,"(Philippi, 1864)",species,,Postplatyptilia,pusillus,,,,,ICZN,established,,
-2103,2103,Pterophorus pusillus,"Philippi, 1864",species,,Pterophorus,pusillus,,1407,296,1864,ICZN,established,,
+2102,2103,Postplatyptilia pusillus,"(Philippi, 1860)",species,,Postplatyptilia,pusillus,,,,1860,ICZN,established,,
+2103,2103,Pterophorus pusillus,"Philippi, 1860",species,,Pterophorus,pusillus,,1407,296,1860,ICZN,established,,https://www.biodiversitylibrary.org/page/44713070
 2104,2104,Postplatyptilia saeva,"(Meyrick, 1930)",species,,Postplatyptilia,saeva,,1237,566,1930,ICZN,established,,
 2105,2105,Postplatyptilia sandraella,"Gielis, 1996",species,,Postplatyptilia,sandraella,,729,95,1996,ICZN,established,,
 2106,2106,Postplatyptilia sangayae,"Gielis, 2014",species,,Postplatyptilia,sangayae,,767,70,2014,ICZN,established,,
@@ -2349,7 +2349,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2350,2350,Stenoptilodes,"Zimmerman, 1958",genus,Stenoptilodes,,,,1889,407,1958,ICZN,established,,
 2351,2351,Stenoptilodes agricultura,"Gielis, 2006",species,,Stenoptilodes,agricultura,,752,62,2006,ICZN,established,,
 2352,2353,Stenoptilodes antirrhina,"(Lange, 1940)",species,,Stenoptilodes,antirrhina,,,,,ICZN,established,,
-2353,2353,Platyptilia antirrhina,"Lange, 1940",species,,Platyptilia,antirrhina,,1063,157,1940,ICZN,established,,
+2353,2353,Platyptilia antirrhina,"Lange, 1940",species,,Platyptilia,antirrhina,,1063,157,1940,ICZN,established,,https://www.biodiversitylibrary.org/page/34210142
 2354,2355,Stenoptilodes brevipennis,"(Zeller, 1874)",species,,Stenoptilodes,brevipennis,,,,,ICZN,established,,
 2355,2355,Platyptilia brevipennis,"Zeller, 1874",species,,Platyptilia,brevipennis,,1883,442,1874,ICZN,established,,
 2356,2356,Platyptilia crenulata,"Barnes & McDunnough, 1913",species,,Platyptilia,crenulata,,177,185,1913,ICZN,established,,
@@ -2878,7 +2878,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2882,656,Oidaematophorus borbonicus,"(Gibeaux, 1991)",species,,Oidaematophorus,borbonicus,,,,1991,ICZN,established,,
 2883,1352,Crombrugghia lantoscana,"(Millière, 1882)",species,,Crombrugghia,lantoscana,,,,,ICZN,established,,
 2884,363,Marasmarcha pumilio,"(Zeller, 1873)",species,,Marasmarcha,pumilio,,,,,ICZN,established,,
-2885,2885,Lioptilodes karinupponeni,"Ustjuzhanin. Kovtunovich & Pototski, 2021",species,,Lioptilodes,karinupponeni,,1917,17,2021,ICZN,established,Original description,
+2885,2885,Lioptilodes karinupponeni,"Ustjuzhanin, Kovtunovich & Pototski, 2021",species,,Lioptilodes,karinupponeni,,1917,17,2021,ICZN,established,Original description,
 2886,2886,Hellinsia haverineni,"Ustjuzhanin, Kovtunovich  Pototski, 2021",species,,Hellinsia,haverineni,,1917,19,2021,ICZN,established,Original description,
 2887,2887,Platyptilia butvila,"Ustjuzhanin, Kovtunovich & Salidaitis, 2021",species,,Platyptilia,butvila,,1918,323,2021,ICZN,established,Original description,
 2888,2888,Platyptilia duda,"Ustjuzhanin, Kovtunovich & Saldaitis, 2021",species,,Platyptilia,duda,,1918,324,2021,ICZN,established,Original description,
@@ -2902,3 +2902,10 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,specificEpithet,inf
 2906,2906,Merrifieldia arenbergeri,"Ustjuzhanin & Kovtunovich, 2022",species,,Merrifieldia,arenbergeri,,1931,49,2022,ICZN,established,,
 2907,2907,Hellinsia kaweri,"Kovtunovich & Ustjuzhanin, 2022",species,,Hellinsia,kaweri,,1932,53,2022,ICZN,established,,
 2908,2908,Pselnophorus aulotes,"Meyrick, 1911",species,,Pselnophorus,aulotes,,1199,219,1911,ICZN,established,,https://www.biodiversitylibrary.org/page/50495142
+2909,2909,Singularia zolotuhini,"Kovtunovich & Ustjuzhanin, 2022",species,,Singularia,zolotuhini,,1934,62,2022,ICZN,established,,
+2910,2910,Singularia kofani,"Kovtunovich & Ustjuzhanin, 2022",species,,Singularia,kofani,,1934,63,2022,ICZN,established,,
+2911,2911,Hellinsia karinupponeni,"Kovtunovich, Ustjuzhanin & Pototski, 2022",species,,Hellinsia,karinupponeni,,1935,2,2022,ICZN,established,,
+2912,2912,Hellinsia ristoi,"Kovtunovich, Ustjuzhanin & Pototski, 2022",species,,Hellinsia,ristoi,,1935,4,2022,ICZN,established,,
+2913,2913,Platyptilia anjuta,"Ustjuzhanin & Kovtunovich, 2022",species,,Platyptilia,anjuta,,1936,47,2022,ICZN,established,,
+2914,2914,Platyptilia roberti,"Ustjuzhanin & Kovtunovich, 2022",species,,Platyptilia,roberti,,1936,49,2022,ICZN,established,,
+2915,2915,Stenoptilia monikae,"Ustjuzhanin & Kovtunovich, 2022",species,,Stenoptilia,monikae,,1936,51,2022,ICZN,established,,

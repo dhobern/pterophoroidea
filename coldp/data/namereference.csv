@@ -1163,8 +1163,8 @@ nameID,referenceID,page,link,remarks
 493,1057,294,,Original description
 1953,1059,27,,Original description
 1999,1061,84,,Original description
-2353,1063,157,,Original description
-1539,1063,164,,Original description
+2353,1063,157,https://www.biodiversitylibrary.org/page/34210142,Original description
+1539,1063,164,https://www.biodiversitylibrary.org/page/34210149,Original description
 1593,1066,611,,Original description
 1594,1066,612,,Original description
 1595,1066,613,,Original description
@@ -1606,8 +1606,8 @@ nameID,referenceID,page,link,remarks
 250,1382,241,,Original description
 2088,1399,253,,Original description
 2258,1406,515,https://www.biodiversitylibrary.org/page/12392498,Original description
-2103,1407,296,,Original description
-700,1407,296,,Original description
+2103,1407,296,https://www.biodiversitylibrary.org/page/44713070,Original description
+700,1407,296,https://www.biodiversitylibrary.org/page/44713070,Original description
 2030,1408,149,,Original description
 2819,1408,150,https://www.biodiversitylibrary.org/page/33596231,Original description
 1571,1409,485,,Original description
@@ -2404,3 +2404,10 @@ nameID,referenceID,page,link,remarks
 363,1881,324,https://www.biodiversitylibrary.org/page/16411991,
 2908,1199,219,https://www.biodiversitylibrary.org/page/50495142,Original description
 2123,618,601,https://www.bugz.org.nz/WebForms/ResultDetails.aspx?CurrentDoc=6001345E-9F25-4A0D-B848-D3DE8546778D&CurrentPage=4,Redescription and discussion of types
+2909,1934,62,,Original description
+2910,1934,63,,Original description
+2911,1935,2,,Original description
+2912,1935,4,,Original description
+2913,1936,47,,Original description
+2914,1936,49,,Original description
+2915,1936,51,,Original description
