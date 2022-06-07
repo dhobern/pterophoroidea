@@ -12,23 +12,46 @@ version: 1.1.22.146 (26 May 2022)
 contact:
   - given: Donald
     family: Hobern
-    email: dhobern@gmail.com
-    orcid: 0000-0001-6492-4016
+    city: Aranda
+    state: ACT
+    country: Australia
+    orcid: https://orcid.org/0000-0001-6492-4016
+    email: donald.hobern@sp2000.org
+    organisation: Species 2000
+    rorid: https://ror.org/04m098c22 
+    url: https://sp2000.org/
 
 creator:
   - given: Donald
     family: Hobern
-    email: dhobern@gmail.com
-    orcid: 0000-0001-6492-4016
+    city: Aranda
+    state: ACT
+    country: Australia
+    orcid: https://orcid.org/0000-0001-6492-4016
+    email: donald.hobern@sp2000.org
+    organisation: Species 2000
+    rorid: https://ror.org/04m098c22 
+    url: https://sp2000.org/
   - given: Cees
     family: Gielis
+    city: Leiden
+    country: Netherlands
     orcid: 0000-0003-0857-1679
+    organisation: Naturalis Biodiversity Center
+    rorid: https://ror.org/0566bfb96
+    url: https://www.naturalis.nl/
 
 editor:
   - given: Donald
     family: Hobern
-    email: dhobern@gmail.com
-    orcid: 0000-0001-6492-4016
+    city: Aranda
+    state: ACT
+    country: Australia
+    orcid: https://orcid.org/0000-0001-6492-4016
+    email: donald.hobern@sp2000.org
+    organisation: Species 2000
+    rorid: https://ror.org/04m098c22 
+    url: https://sp2000.org/
 
 geographicScope: global
 
