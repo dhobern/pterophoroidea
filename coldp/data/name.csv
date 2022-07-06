@@ -279,7 +279,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 278,279,Leptodeuterocopus hipparchus,"(Meyrick, 1921)",species,,Leptodeuterocopus,,hipparchus,,,,,ICZN,established,,
 279,279,Deuterocopus hipparchus,"Meyrick, 1921",species,,Deuterocopus,,hipparchus,,1189,420,1921,ICZN,established,,
 280,281,Leptodeuterocopus neales,"(Walsingham, 1915)",species,,Leptodeuterocopus,,neales,,,,,ICZN,established,,
-281,281,Oxyptilus neales,"Walsingham, 1915",species,,Oxyptilus,,neales,,1790,435,1915,ICZN,established,,
+281,281,Oxyptilus neales,"Walsingham, 1915",species,,Oxyptilus,,neales,,1790,435,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593617
 282,282,Leptodeuterocopus panamaensis,"Gielis, 2006",species,,Leptodeuterocopus,,panamaensis,,752,19,2006,ICZN,established,,
 283,283,Leptodeuterocopus sochchoroides,"Fletcher, 1910",species,,Leptodeuterocopus,,sochchoroides,,603,140,1910,ICZN,established,,https://www.biodiversitylibrary.org/page/14720362
 284,284,Leptodeuterocopus sorongensis,"Gielis & De Vos, 2007",species,,Leptodeuterocopus,,sorongensis,,772,187,2007,ICZN,established,,
@@ -397,7 +397,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 396,397,Marasmarcha bonaespei,"(Walsingham, 1881)",species,,Marasmarcha,,bonaespei,,,,,ICZN,established,,
 397,397,Lioptilus bonaespei,"Walsingham, 1881",species,,Lioptilus,,bonaespei,,1772,281,1881,ICZN,established,,
 398,399,Marasmarcha brevirostris,"(Walsingham, 1915)",species,,Marasmarcha,,brevirostris,,,,,ICZN,established,,
-399,399,Platyptilia brevirostris,"Walsingham, 1915",species,,Platyptilia,,brevirostris,,1790,438,1915,ICZN,established,,
+399,399,Platyptilia brevirostris,"Walsingham, 1915",species,,Platyptilia,,brevirostris,,1790,438,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593620
 400,401,Marasmarcha cinnamomeus,"(Staudinger, 1870)",species,,Marasmarcha,,cinnamomeus,,,,,ICZN,established,,
 401,401,Pterophorus cinnamomeus,"Staudinger, 1870",species,,Pterophorus,,cinnamomeus,,1607,326,1870,ICZN,established,,https://www.biodiversitylibrary.org/page/8340952
 402,402,Marasmarcha glycyrrhizae,"Zagulajev, 1969",species,,Marasmarcha,,glycyrrhizae,,1847,212,1969,ICZN,established,,
@@ -516,7 +516,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 515,515,Pterophorus serpens,"Meyrick, 1909",species,,Pterophorus,,serpens,,1193,366,1909,ICZN,established,,
 516,516,Emmelina,"Tutt, 1905",genus,Emmelina,,,,,1674,37,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/9019828
 517,518,Emmelina aethes,"(Walsingham, 1915)",species,,Emmelina,,aethes,,,,,ICZN,established,,
-518,518,Pterophorus aethes,"Walsingham, 1915",species,,Pterophorus,,aethes,,1790,447,1915,ICZN,established,,
+518,518,Pterophorus aethes,"Walsingham, 1915",species,,Pterophorus,,aethes,,1790,447,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593629
 519,520,Emmelina amseli,"(Bigot, 1969)",species,,Emmelina,,amseli,,,,,ICZN,established,,
 520,520,Leioptilus amseli,"Bigot, 1969",species,,Leioptilus,,amseli,,226,198,1969,ICZN,established,,
 521,522,Emmelina argoteles,"(Meyrick, 1922)",species,,Emmelina,,argoteles,,,,,ICZN,established,,
@@ -749,9 +749,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 749,749,Alucita elliottii,"Fernald, 1893",species,,Alucita,,elliottii,,585,95,1893,ICZN,established,,https://www.biodiversitylibrary.org/page/27874986
 750,750,Hellinsia emmelinoida,"Gielis, 2008",species,,Hellinsia,,emmelinoida,,755,51,2008,ICZN,established,,
 751,752,Hellinsia emmorus,"(Walsingham, 1915)",species,,Hellinsia,,emmorus,,,,,ICZN,established,,
-752,752,Pterophorus emmorus,"Walsingham, 1915",species,,Pterophorus,,emmorus,,1790,441,1915,ICZN,established,,
+752,752,Pterophorus emmorus,"Walsingham, 1915",species,,Pterophorus,,emmorus,,1790,441,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593623
 753,754,Hellinsia epileucus,"(Walsingham, 1915)",species,,Hellinsia,,epileucus,,,,,ICZN,established,,
-754,754,Pterophorus epileucus,"Walsingham, 1915",species,,Pterophorus,,epileucus,,1790,440,1915,ICZN,established,,
+754,754,Pterophorus epileucus,"Walsingham, 1915",species,,Pterophorus,,epileucus,,1790,440,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593622
 755,756,Hellinsia eros,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,eros,,,,,ICZN,established,,
 756,756,Oidaematophorus eros,"Barnes & Lindsey, 1921",species,,Oidaematophorus,,eros,,176,404,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9947441
 757,757,Hellinsia espejoi,"Gielis, 2014",species,,Hellinsia,,espejoi,,767,73,2014,ICZN,established,,
@@ -813,7 +813,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 813,813,Pterophorus homodactylus,"Walker, 1864",species,,Pterophorus,,homodactylus,,1763,941,1864,ICZN,established,,
 814,814,Hellinsia huayna,"Gielis, 2011",species,,Hellinsia,,huayna,,764,657,2011,ICZN,established,,
 815,816,Hellinsia ignifugax,"(Walsingham, 1915)",species,,Hellinsia,,ignifugax,,,,,ICZN,established,,
-816,816,Pterophorus ignifugax,"Walsingham, 1915",species,,Pterophorus,,ignifugax,,1790,444,1915,ICZN,established,,
+816,816,Pterophorus ignifugax,"Walsingham, 1915",species,,Pterophorus,,ignifugax,,1790,444,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593626
 817,818,Hellinsia illutus,"(Meyrick, 1917)",species,,Hellinsia,,illutus,,,,,ICZN,established,,
 818,818,Pterophorus illutus,"Meyrick, 1917",species,,Pterophorus,,illutus,,1212,2,1917,ICZN,established,,
 819,819,Hellinsia impigritas,"Gielis, 2016",species,,Hellinsia,,impigritas,,768,37,2016,ICZN,established,,
@@ -880,7 +880,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 880,880,Hellinsia loja,"Gielis, 2012",species,,Hellinsia,,loja,,765,110,2012,ICZN,established,,
 881,881,Hellinsia longeanellus,"Gielis, 2012",species,,Hellinsia,,longeanellus,,765,112,2012,ICZN,established,,
 882,883,Hellinsia longifrons,"(Walsingham, 1915)",species,,Hellinsia,,longifrons,,,,,ICZN,established,,
-883,883,Pterophorus longifrons,"Walsingham, 1915",species,,Pterophorus,,longifrons,,1790,448,1915,ICZN,established,,
+883,883,Pterophorus longifrons,"Walsingham, 1915",species,,Pterophorus,,longifrons,,1790,448,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593630
 884,884,Stenoptilia philocremna,"Meyrick, 1930",species,,Stenoptilia,,philocremna,,1237,570,1930,ICZN,established,,
 885,885,Hellinsia lucayana,"Matthews, 2019",species,,Hellinsia,,lucayana,,1148,16,2019,ICZN,established,,
 886,886,Hellinsia lumbaquia,"Gielis, 2011",species,,Hellinsia,,lumbaquia,,764,684,2011,ICZN,established,,
@@ -917,7 +917,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 918,918,Oidaematophorus mizar,"Barnes & Lindsey, 1921",species,,Oidaematophorus,,mizar,,176,396,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9947433
 919,919,Hellinsia molinerii,"Gielis, 2013",species,,Hellinsia,,molinerii,,766,99,2013,ICZN,established,,
 920,921,Hellinsia mollis,"(Walsingham, 1915)",species,,Hellinsia,,mollis,,,,,ICZN,established,,
-921,921,Pterophorus mollis,"Walsingham, 1915",species,,Pterophorus,,mollis,,1790,441,1915,ICZN,established,,
+921,921,Pterophorus mollis,"Walsingham, 1915",species,,Pterophorus,,mollis,,1790,441,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593623
 922,923,Hellinsia mongolicus,"(Zagulajev & Pentschukowskaja, 1972)",species,,Hellinsia,,mongolicus,,,,,ICZN,established,,
 923,923,Pterophorus mongolicus,"Zagulajev & Pentschukowskaja, 1972",species,,Pterophorus,,mongolicus,,1869,691,1972,ICZN,established,,
 924,924,Hellinsia monserrate,"Arenberger & Bond, 1995",species,,Hellinsia,,monserrate,,153,466,1995,ICZN,established,,
@@ -996,10 +996,10 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 997,998,Hellinsia perditus,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,perditus,,,,,ICZN,established,,
 998,998,Oidaematophorus perditus,"Barnes & Lindsey, 1921",species,,Oidaematophorus,,perditus,,176,438,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9947475
 999,1000,Hellinsia phlegmaticus,"(Walsingham, 1915)",species,,Hellinsia,,phlegmaticus,,,,,ICZN,established,,
-1000,1000,Pterophorus phlegmaticus,"Walsingham, 1915",species,,Pterophorus,,phlegmaticus,,1790,445,1915,ICZN,established,,
-1001,1001,Pterophorus correptus,"Walsingham, 1915",species,,Pterophorus,,correptus,,1790,445,1915,ICZN,established,,
+1000,1000,Pterophorus phlegmaticus,"Walsingham, 1915",species,,Pterophorus,,phlegmaticus,,1790,445,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593627
+1001,1001,Pterophorus correptus,"Walsingham, 1915",species,,Pterophorus,,correptus,,1790,445,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593627
 1002,1003,Hellinsia phloeochroa,"(Walsingham, 1915)",species,,Hellinsia,,phloeochroa,,,,,ICZN,established,,
-1003,1003,Pterophorus phloeochroa,"Walsingham, 1915",species,,Pterophorus,,phloeochroa,,1790,447,1915,ICZN,established,,
+1003,1003,Pterophorus phloeochroa,"Walsingham, 1915",species,,Pterophorus,,phloeochroa,,1790,447,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593629
 1004,1005,Hellinsia phoebus,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,phoebus,,,,,ICZN,established,,
 1005,1005,Oidaematophorus phoebus,"Barnes & Lindsey, 1921",species,,Oidaematophorus,,phoebus,,176,406,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9947443
 1006,1006,Hellinsia pichincha,"Gielis, 2011",species,,Hellinsia,,pichincha,,764,689,2011,ICZN,established,,
@@ -1016,7 +1016,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1017,1018,Hellinsia powelli,"(Gielis, 1996)",species,,Hellinsia,,powelli,,,,,ICZN,established,,
 1018,1018,Oidaematophorus powelli,"Gielis, 1996",species,,Oidaematophorus,,powelli,,729,96,1996,ICZN,established,,
 1019,1020,Hellinsia praealtus,"(Walsingham, 1915)",species,,Hellinsia,,praealtus,,,,,ICZN,established,,
-1020,1020,Pterophorus praealtus,"Walsingham, 1915",species,,Pterophorus,,praealtus,,1790,445,1915,ICZN,established,,
+1020,1020,Pterophorus praealtus,"Walsingham, 1915",species,,Pterophorus,,praealtus,,1790,445,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593627
 1021,1022,Hellinsia praenigratus,"(Meyrick, 1921)",species,,Hellinsia,,praenigratus,,,,,ICZN,established,,
 1022,1022,Pterophorus praenigratus,"Meyrick, 1921",species,,Pterophorus,,praenigratus,,1189,421,1921,ICZN,established,,
 1023,1024,Hellinsia probatus,"(Meyrick, 1938)",species,,Hellinsia,,probatus,,,,,ICZN,established,,
@@ -1072,7 +1072,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1073,1074,Hellinsia stadias,"(Meyrick, 1908)",species,,Hellinsia,,stadias,,,,,ICZN,established,,
 1074,1074,Pterophorus stadias,"Meyrick, 1908",species,,Pterophorus,,stadias,,1189,498,1908 (dated 1907),ICZN,established,,
 1075,1076,Hellinsia sublatus,"(Walsingham, 1915)",species,,Hellinsia,,sublatus,,,,,ICZN,established,,
-1076,1076,Pterophorus sublatus,"Walsingham, 1915",species,,Pterophorus,,sublatus,,1790,441,1915,ICZN,established,,
+1076,1076,Pterophorus sublatus,"Walsingham, 1915",species,,Pterophorus,,sublatus,,1790,441,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593623
 1077,1078,Hellinsia subnotatus,"(Walker, 1875)",species,,Hellinsia,,subnotatus,,,,,ICZN,established,,
 1078,1078,Pterophorus subnotatus,"Walker, 1875",species,,Pterophorus,,subnotatus,,1764,193,1875,ICZN,established,,
 1079,1080,Hellinsia subochraceus,"(Walsingham, 1880)",species,,Hellinsia,,subochraceus,,,,,ICZN,established,,
@@ -1097,7 +1097,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1098,1099,Hellinsia tepidus,"(Meyrick, 1926)",species,,Hellinsia,,tepidus,,,,,ICZN,established,,
 1099,1099,Pterophorus tepidus,"Meyrick, 1926",species,,Pterophorus,,tepidus,,1228,299,1922,ICZN,established,,
 1100,1101,Hellinsia tetraonipennis,"(Walsingham, 1915)",species,,Hellinsia,,tetraonipennis,,,,,ICZN,established,,
-1101,1101,Pterophorus tetraonipennis,"Walsingham, 1915",species,,Pterophorus,,tetraonipennis,,1790,442,1915,ICZN,established,,
+1101,1101,Pterophorus tetraonipennis,"Walsingham, 1915",species,,Pterophorus,,tetraonipennis,,1790,442,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593624
 1102,1103,Hellinsia thor,"(McDunnough, 1939)",species,,Hellinsia,,thor,,,,,ICZN,established,,
 1103,1103,Oidaematophorus thor,"McDunnough, 1939",species,,Oidaematophorus,,thor,,1165,110,1939,ICZN,established,,
 1104,1105,Hellinsia thoracicus,"(McDunnough, 1939)",species,,Hellinsia,,thoracicus,,,,,ICZN,established,,
@@ -1105,7 +1105,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1106,1107,Hellinsia timidus,"(Meyrick, 1908)",species,,Hellinsia,,timidus,,,,,ICZN,established,,
 1107,1107,Pterophorus timidus,"Meyrick, 1908",species,,Pterophorus,,timidus,,1189,494,1908 (dated 1907),ICZN,established,,
 1108,1109,Hellinsia tinctus,"(Walsingham, 1915)",species,,Hellinsia,,tinctus,,,,,ICZN,established,,
-1109,1109,Pterophorus tinctus,"Walsingham, 1915",species,,Pterophorus,,tinctus,,1790,443,1915,ICZN,established,,
+1109,1109,Pterophorus tinctus,"Walsingham, 1915",species,,Pterophorus,,tinctus,,1790,443,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593625
 1110,1111,Hellinsia trachyphloeus,"(Meyrick, 1926)",species,,Hellinsia,,trachyphloeus,,,,,ICZN,established,,
 1111,1111,Pterophorus trachyphloeus,"Meyrick, 1926",species,,Pterophorus,,trachyphloeus,,1228,300,1926,ICZN,established,,
 1112,1113,Hellinsia triadias,"(Meyrick, 1908)",species,,Hellinsia,,triadias,,,,,ICZN,established,,
@@ -1118,7 +1118,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1119,1120,Hellinsia unicolor,"(Barnes & McDunnough, 1913)",species,,Hellinsia,,unicolor,,,,,ICZN,established,,
 1120,1120,Oidaematophorus unicolor,"Barnes & McDunnough, 1913",species,,Oidaematophorus,,unicolor,,177,185,1913,ICZN,established,,https://www.biodiversitylibrary.org/page/11414291
 1121,1122,Hellinsia urbanus,"(Walsingham, 1915)",species,,Hellinsia,,urbanus,,,,,ICZN,established,,
-1122,1122,Pterophorus urbanus,"Walsingham, 1915",species,,Pterophorus,,urbanus,,1790,444,1915,ICZN,established,,
+1122,1122,Pterophorus urbanus,"Walsingham, 1915",species,,Pterophorus,,urbanus,,1790,444,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593626
 1123,1124,Hellinsia varioides,"(McDunnough, 1939)",species,,Hellinsia,,varioides,,,,,ICZN,established,,
 1124,1124,Oidaematophorus varioides,"McDunnough, 1939",species,,Oidaematophorus,,varioides,,1165,111,1939,ICZN,established,,
 1125,1126,Hellinsia varius,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,varius,,,,,ICZN,established,,
@@ -1394,7 +1394,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1395,1395,Michaelophorus bahiaensis,"Gielis, 2006",species,,Michaelophorus,,bahiaensis,,752,186,2006,ICZN,established,,
 1396,1396,Megalorhipida dubiosa,"Gielis, 2006",species,,Megalorhipida,,dubiosa,,752,206,2006,ICZN,established,,
 1397,1398,Megalorhipida dulcis,"(Walsingham, 1915)",species,,Megalorhipida,,dulcis,,,,,ICZN,established,,
-1398,1398,Trichoptilus dulcis,"Walsingham, 1915",species,,Trichoptilus,,dulcis,,1790,435,1915,ICZN,established,,
+1398,1398,Trichoptilus dulcis,"Walsingham, 1915",species,,Trichoptilus,,dulcis,,1790,435,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593617
 1399,1400,Megalorhipida festus,"(Meyrick, 1920)",species,,Megalorhipida,,festus,,,,,ICZN,established,,
 1400,1400,Trichoptilus festus,"Meyrick, 1920",species,,Trichoptilus,,festus,,1214,273,1920,ICZN,established,,
 1401,1401,Trichoptilus animosus,"Meyrick, 1921",species,,Trichoptilus,,animosus,,1216,49,1921,ICZN,established,,
@@ -2126,7 +2126,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2127,2127,Sochchora,"Walker, 1864",genus,Sochchora,,,,,1763,952,1864,ICZN,established,,
 2128,2128,Sochchora albipunctella,"(Fletcher, 1911)",species,,Sochchora,,albipunctella,,605,347,1911,ICZN,established,,
 2129,2129,Sochchora donatella,"Walker, 1864",species,,Sochchora,,donatella,,1763,952,1864,ICZN,established,,
-2130,2130,Sochchora dotina,"Walsingham, 1915",species,,Sochchora,,dotina,,1790,436,1915,ICZN,established,,
+2130,2130,Sochchora dotina,"Walsingham, 1915",species,,Sochchora,,dotina,,1790,436,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593618
 2131,2131,Sochchora mulinus,"Gielis, 2006",species,,Sochchora,,mulinus,,752,29,2006,ICZN,established,,
 2132,2132,Sphenarches,"Meyrick, 1886",genus,Sphenarches,,,,,1174,8,1886,ICZN,established,,
 2133,2133,Sphenarctes,"Carus, 1887",genus,Sphenarctes,,,,,396,113,1887,ICZN,not established,Misspelling,https://www.biodiversitylibrary.org/page/9460587
@@ -2706,7 +2706,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2709,2709,Singularia guajiro,"Kovtunovich & Ustjuzhanin, 2016",species,,Singularia,,guajiro,,1022,5,2016,ICZN,established,,
 2710,2711,Singularia leptochorda,"(Meyrick, 1913)",species,,Singularia,,leptochorda,,,,,ICZN,established,,
 2711,2711,Alucita leptochorda,"Meyrick, 1913",species,,Alucita,,leptochorda,,1207,111,1913,ICZN,established,,
-2712,2712,Alucita trichogramma,"Walsingham, 1915",species,,Alucita,,trichogramma,,1790,439,1915,ICZN,established,,
+2712,2712,Alucita trichogramma,"Walsingham, 1915",species,,Alucita,,trichogramma,,1790,439,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593621
 2713,2713,Singularia lesya,"Kovtunovich & Ustjuzhanin, 2016",species,,Singularia,,lesya,,1022,8,2016,ICZN,established,,
 2714,2715,Singularia mayaensis,"(Gielis, 2011)",species,,Singularia,,mayaensis,,,,,ICZN,established,,
 2715,2715,Chocophorus mayaensis,"Gielis, 2011",species,,Chocophorus,,mayaensis,,764,727,2011,ICZN,established,,
