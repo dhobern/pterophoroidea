@@ -2921,3 +2921,5 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2925,706,Crassuncus colubratus,"(Meyrick, 1909)",species,,Crassuncus,,colubratus,,1021,481,2014,ICZN,established,comb. nov.,
 2926,2926,Platyptilia niphadarcha,"Meyrick, 1930",species,,Platyptilia,,niphadarcha,,1237,566,1930,ICZN,established,,https://www.biodiversitylibrary.org/page/60297926
 2927,2927,Platyptilia saeva,"Meyrick, 1930",species,,Postplatyptilia,,saeva,,1237,566,1930,ICZN,established,,https://www.biodiversitylibrary.org/page/60297926
+2928,2928,Trichoptilus archeodes,"Meyrick, 1913",species,,Trichoptilus,,archeodes,,751,68,2003,ICZN,not established,Misspelling of Trichoptilus archaeodes in Gielis 2003,
+2929,2929,Trichoptilus archeaodes,"Meyrick, 1913",species,,Trichoptilus,,archeaodes,,751,68,2003,ICZN,not established,Misspelling of Trichoptilus archaeodes in Gielis 2003,
