@@ -54,8 +54,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 53,53,Agdistis cathae,"Arenberger, 1999",species,,Agdistis,,cathae,,123,247,1999,ICZN,established,,
 54,54,Agdistis chardzhouna,"Arenberger, 1997",species,,Agdistis,,chardzhouna,,116,81,1997,ICZN,established,,
 55,55,Agdistis clara,"Arenberger, 1986",species,,Agdistis,,clara,,79,189,1986,ICZN,established,,
-56,56,Agdistis cretifera,"Meyrick, 1909",species,,Agdistis,,cretifera,,1193,367,1909,ICZN,established,,
-57,57,Agdistis criocephala,"Meyrick, 1909",species,,Agdistis,,criocephala,,1193,349,1909,ICZN,established,,
+56,56,Agdistis cretifera,"Meyrick, 1909",species,,Agdistis,,cretifera,,1193,367,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/6604960
+57,57,Agdistis criocephala,"Meyrick, 1909",species,,Agdistis,,criocephala,,1193,349,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/6604942
 58,58,Agdistis augrabiesi,"Kovtunovich & Ustjuzhanin, 2010",species,,Agdistis,,augrabiesi,,1014,250,2010,ICZN,established,,
 59,59,Agdistis cypriota,"Arenberger, 1983",species,,Agdistis,,cypriota,,73,51,1983,ICZN,established,,
 60,60,Agdistis dahurica,"Zagulajev, 1994",species,,Agdistis,,dahurica,,1861,37,1994,ICZN,established,,
@@ -76,7 +76,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 75,76,Agdistis flavissima,"Caradja, 1920",species,,Agdistis,,flavissima,,,,,ICZN,established,,
 76,76,Agdistis ingens var. flavissima,"Caradja, 1920",variety,,Agdistis,,ingens,flavissima,383,87,1920,ICZN,established,,https://www.biodiversitylibrary.org/page/12720936
 77,78,Agdistis frankeniae,"(Zeller, 1847)",species,,Agdistis,,frankeniae,,,,,ICZN,established,,
-78,78,Adactyla frankeniae,"Zeller, 1847",species,,Adactyla,,frankeniae,,1872,900,1847,ICZN,established,,
+78,78,Adactyla frankeniae,"Zeller, 1847",species,,Adactyla,,frankeniae,,1872,900,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234112
 79,79,Agdistis lerinsis,"Millière, 1875",species,,Agdistis,,lerinsis,,1270,168,1875,ICZN,established,,https://www.biodiversitylibrary.org/page/8234056
 80,80,Agdistis bahrlutia,"Amsel, 1955",species,,Agdistis,,bahrlutia,,40,51,1955,ICZN,established,,http://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences/31-1955/irscnb_p4087_00df58p_31_bulletin-83-red.pdf
 81,81,Agdistis tondeuri,"Bigot, 1963",species,,Agdistis,,tondeuri,,214,9,1963,ICZN,established,,
@@ -135,7 +135,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 134,134,Agdistis marionae,"Arenberger, Beard, Hasenfuss & Karisch, 2012",species,,Agdistis,,marionae,,162,448,2012,ICZN,established,,
 135,135,Agdistis melitensis,"Amsel, 1954",species,,Agdistis,,melitensis,,36,52,1954,ICZN,established,,
 136,137,Agdistis meridionalis,"(Zeller, 1847)",species,,Agdistis,,meridionalis,,,,,ICZN,established,,
-137,137,Adactyla meridionalis,"Zeller, 1847",species,,Adactyla,,meridionalis,,1872,898,1847,ICZN,established,,
+137,137,Adactyla meridionalis,"Zeller, 1847",species,,Adactyla,,meridionalis,,1872,898,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234111
 138,138,Agdistis staticis,"Millière, 1875",species,,Agdistis,,staticis,,1270,167,1875,ICZN,established,,https://www.biodiversitylibrary.org/page/8234055
 139,139,Agdistis portlandica,"Tutt, 1906",species,,Agdistis,,portlandica,,1676,137,1906,ICZN,established,,
 140,140,Agdistis staticis var. delicatulella,"Chrétien, 1917",variety,,Agdistis,,staticis,delicatulella,418,462,1917,ICZN,established,,
@@ -164,7 +164,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 163,163,Agdistis omani,"Arenberger, 2008",species,,Agdistis,,omani,,144,82,2008,ICZN,established,,
 164,164,Agdistis pala,"Arenberger, 1986",species,,Agdistis,,pala,,79,192,1986,ICZN,established,,
 165,166,Agdistis paralia,"(Zeller, 1847)",species,,Agdistis,,paralia,,,,,ICZN,established,,
-166,166,Adactyla paralia,"Zeller, 1847",species,,Adactyla,,paralia,,1872,899,1847,ICZN,established,,
+166,166,Adactyla paralia,"Zeller, 1847",species,,Adactyla,,paralia,,1872,899,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234112
 167,167,Agdistis parvella,"Amsel, 1958",species,,Agdistis,,parvella,,43,75,1958,ICZN,established,,
 168,168,Agdistis picardi,"Bigot, 1964",species,,Agdistis,,picardi,,219,26,1964,ICZN,established,,
 169,169,Agdistis piccolo,"Gielis, 1990",species,,Agdistis,,piccolo,,717,116,1990,ICZN,established,,
@@ -207,7 +207,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 206,206,Agdistis symmetrica,"Amsel, 1955",species,,Agdistis,,symmetrica,,40,23,1955,ICZN,established,,http://biblio.naturalsciences.be/rbins-publications/bulletin-of-the-royal-belgian-institute-of-natural-sciences/31-1955/irscnb_p4087_00df58p_31_bulletin-83-red.pdf
 207,207,Agdistis takamukui,"Nohira, 1919",species,,Agdistis,,takamukui,,1366,25,1919,ICZN,established,,
 208,209,Agdistis tamaricis,"(Zeller, 1847)",species,,Agdistis,,tamaricis,,,,,ICZN,established,,
-209,209,Adactyla tamaricis,"Zeller, 1847",species,,Adactyla,,tamaricis,,1872,899,1847,ICZN,established,,
+209,209,Adactyla tamaricis,"Zeller, 1847",species,,Adactyla,,tamaricis,,1872,899,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234112
 210,210,Agdistis bagdadiensis,"Amsel, 1949",species,,Agdistis,,bagdadiensis,,32,310,1949,ICZN,established,,
 211,211,Agdistis xinjiangsis,"Qin & Zheng, 1997",species,,Agdistis,,xinjiangsis,,1448,30,1997,ICZN,established,,
 212,212,Agdistis tenera,"Arenberger, 1976",species,,Agdistis,,tenera,,67,65,1976,ICZN,established,,
@@ -513,7 +513,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 512,513,Crassuncus tripunctatus,"(Walsingham, 1881)",species,,Crassuncus,,tripunctatus,,,,,ICZN,established,,
 513,513,Aciptilus tripunctatus,"Walsingham, 1881",species,,Aciptilus,,tripunctatus,,1772,283,1881,ICZN,established,,
 514,514,Pterophorus laqueatus,"Meyrick, 1913",species,,Pterophorus,,laqueatus,,1205,268,1913,ICZN,established,,
-515,515,Pterophorus serpens,"Meyrick, 1909",species,,Pterophorus,,serpens,,1193,366,1909,ICZN,established,,
+515,515,Pterophorus serpens,"Meyrick, 1909",species,,Pterophorus,,serpens,,1193,366,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/6604959
 516,516,Emmelina,"Tutt, 1905",genus,Emmelina,,,,,1674,37,1905,ICZN,established,,https://www.biodiversitylibrary.org/page/9019828
 517,518,Emmelina aethes,"(Walsingham, 1915)",species,,Emmelina,,aethes,,,,,ICZN,established,,
 518,518,Pterophorus aethes,"Walsingham, 1915",species,,Pterophorus,,aethes,,1790,447,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593629
@@ -558,7 +558,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 557,557,Gypsochares,"Meyrick, 1890",genus,Gypsochares,,,,,1178,488,1890,ICZN,established,,
 558,558,Sibiretta,"Ustjuzhanin, 1996",genus,Sibiretta,,,,,1684,405,1996,ICZN,established,,
 559,560,Gypsochares astragalotes,"(Meyrick, 1909)",species,,Gypsochares,,astragalotes,,,,,ICZN,established,,
-560,560,Pselnophorus astragalotes,"Meyrick, 1909",species,,Pselnophorus,,astragalotes,,1193,366,1909,ICZN,established,,
+560,560,Pselnophorus astragalotes,"Meyrick, 1909",species,,Pselnophorus,,astragalotes,,1193,366,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/6604959
 561,2908,Gypsochares aulotes,"(Meyrick, 1911)",species,,Gypsochares,,aulotes,,,,,ICZN,established,,
 562,563,Gypsochares baptodactylus,"(Zeller, 1850)",species,,Gypsochares,,baptodactylus,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/34518236
 563,563,Pterophorus baptodactylus,"Zeller, 1850",species,,Pterophorus,,baptodactylus,,1874,211,1850,ICZN,established,,https://www.biodiversitylibrary.org/page/34518236
@@ -1309,7 +1309,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1310,1310,Capperia sequanensis,"Gibeaux, 1990",species,,Capperia,,sequanensis,,681,73,1990,ICZN,established,,
 1311,1311,Capperia maratonica,"Adamczewski, 1951",species,,Capperia,,maratonica,,9,377,1951,ICZN,established,,
 1312,1313,Capperia marginellus,"(Zeller, 1847)",species,,Capperia,,marginellus,,,,,ICZN,established,,
-1313,1313,Pterophorus marginellus,"Zeller, 1847",species,,Pterophorus,,marginellus,,1872,903,1847,ICZN,established,,
+1313,1313,Pterophorus marginellus,"Zeller, 1847",species,,Pterophorus,,marginellus,,1872,903,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234114
 1314,1314,Capperia meyi,"Gielis, 2003",species,,Capperia,,meyi,,750,410,2003,ICZN,established,,
 1315,1315,Capperia morogoroa,"Gielis, 2011",species,,Capperia,,morogoroa,,763,48,2011,ICZN,established,,
 1316,1317,Capperia ningoris,"(Walsingham, 1880)",species,,Capperia,,ningoris,,,,,ICZN,established,,
@@ -1331,7 +1331,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1332,1332,Crombrugghia,"Tutt, 1906",genus,Crombrugghia,,,,,1676,449,1906,ICZN,established,,
 1333,1333,Combrugghia,"Neave, 1939",genus,Combrugghia,,,,,1317,808,1939,ICZN,not established,Incorrect spelling,
 1334,1335,Crombrugghia distans,"(Zeller, 1847)",species,,Crombrugghia,,distans,,,,,ICZN,established,,
-1335,1335,Pterophorus distans,"Zeller, 1847",species,,Pterophorus,,distans,,1872,902,1847,ICZN,established,,
+1335,1335,Pterophorus distans,"Zeller, 1847",species,,Pterophorus,,distans,,1872,902,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234113
 1336,1336,Oxyptilus geodactyla,"Fuchs, 1903",species,,Oxyptilus,,geodactyla,,645,15,1903,ICZN,established,,
 1337,1337,Oxyptilus lactucae,"Fletcher, 1920",species,,Oxyptilus,,lactucae,,617,13,1921 (1920),ICZN,established,,
 1338,1338,Oxyptilus clarisignis,"Meyrick, 1924",species,,Oxyptilus,,clarisignis,,1224,93,1924,ICZN,established,,https://www.biodiversitylibrary.org/page/60297453
@@ -1345,7 +1345,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1346,1347,Crombrugghia kollari,"(Stainton, 1851)",species,,Crombrugghia,,kollari,,,,,ICZN,established,,
 1347,1347,Pterophorus kollari,"Stainton, 1851",species,,Pterophorus,,kollari,,1595,28,1851,ICZN,established,,
 1348,1349,Crombrugghia laetus,"(Zeller, 1847)",species,,Crombrugghia,,laetus,,,,,ICZN,established,,
-1349,1349,Pterophorus laetus,"Zeller, 1847",species,,Pterophorus,,laetus,,1872,903,1847,ICZN,established,,
+1349,1349,Pterophorus laetus,"Zeller, 1847",species,,Pterophorus,,laetus,,1872,903,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234114
 1350,1350,Pterophorus laetidactylus,"Bruand d'Uzelle, 1859",species,,Pterophorus,,loetidactylus,,316,700,1858,ICZN,established,,https://www.biodiversitylibrary.org/page/8375621
 1351,1351,Oxyptilus andryalae,"Millière, 1863",species,,Oxyptilus,,andryalae,,1267,333,1863,ICZN,established,Suggested as more appropriate name than laetus,https://www.biodiversitylibrary.org/page/52217960
 1352,1352,Oxyptilus lantoscanus,"Millière, 1883",species,,Oxyptilus,,lantoscanus,,1272,176,1883,ICZN,established,,
@@ -1507,7 +1507,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1508,1508,Stangeia distantia,"Clarke, 1986",species,,Stangeia,,distantia,,427,16,1986,ICZN,established,,
 1509,1509,Stangeia rapae,"Clarke, 1971",species,,Stangeia,,rapae,,426,97,1971,ICZN,established,,
 1510,1511,Stangeia siceliota,"(Zeller, 1847)",species,,Stangeia,,siceliota,,,,,ICZN,established,,
-1511,1511,Pterophorus siceliota,"Zeller, 1847",species,,Pterophorus,,siceliota,,1872,907,1847,ICZN,established,,
+1511,1511,Pterophorus siceliota,"Zeller, 1847",species,,Pterophorus,,siceliota,,1872,907,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234116
 1512,1512,Pterophorus ononidis,"Zeller, 1852",species,,Pterophorus,,ononidis,,1875,401,1852,ICZN,established,,
 1513,1514,Stangeia xerodes,"(Meyrick, 1886)",species,,Stangeia,,xerodes,,,,,ICZN,established,,
 1514,1514,Trichoptilus xerodes,"Meyrick, 1886",species,,Trichoptilus,,xerodes,,1174,14,1886,ICZN,established,,
@@ -1918,7 +1918,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1919,1919,Platyptilia albicans,"Fish, 1881",species,,Platyptilia,,albicans,,591,71,1881,ICZN,established,,
 1920,1920,Platyptilia albifimbriata,"Arenberger, 2002",species,,Platyptilia,,albifimbriata,,129,59,2002,ICZN,established,,
 1921,1921,Platyptilia albilobata,"Gielis, 2011",species,,Platyptilia,,albilobata,,763,42,2011,ICZN,established,,
-1922,1922,Platyptilia amphiloga,"Meyrick, 1909",species,,Platyptilia,,amphiloga,,1193,365,1909,ICZN,established,,
+1922,1922,Platyptilia amphiloga,"Meyrick, 1909",species,,Platyptilia,,amphiloga,,1193,365,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/6604958
 1923,1923,Platyptilia anniei,"Gielis, 1997",species,,Platyptilia,,anniei,,731,40,1997,ICZN,established,,
 1924,1924,Platyptilia archimedon,"Meyrick, 1938",species,,Platyptilia,,archimedon,,1258,503,1938,ICZN,established,,
 1925,1925,Platyptilia ardua,"McDunnough, 1927",species,,Platyptilia,,ardua,,1157,177,1927,ICZN,established,,
@@ -2173,7 +2173,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2174,2174,Stenoptilia annadactyla,"Sutter, 1988",species,,Stenoptilia,,annadactyla,,1628,181,1988,ICZN,established,,
 2175,2175,Stenoptilia annickana,"Gibeaux, 1989",species,,Stenoptilia,,annickana,,672,222,1989,ICZN,established,,
 2176,2177,Stenoptilia aridus,"(Zeller, 1847)",species,,Stenoptilia,,aridus,,,,,ICZN,established,,
-2177,2177,Pterophorus aridus,"Zeller, 1847",species,,Pterophorus,,aridus,,1872,904,1847,ICZN,established,,
+2177,2177,Pterophorus aridus,"Zeller, 1847",species,,Pterophorus,,aridus,,1872,904,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234114
 2178,2178,Stenoptilia oxyactis,"Meyrick, 1922",species,,Stenoptilia,,oxyactis,,1219,550,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/9808986
 2179,2179,Stenoptilia stigmatodactyla var. grisescens,"Schawerda, 1933",variety,,Stenoptilia,,stigmatodactyla,grisescens,1525,74,1933,ICZN,established,,
 2180,2180,Stenoptilia csanadyi,"Gozmány, 1959",species,,Stenoptilia,,csanadyi,,795,367,1959,ICZN,established,,
@@ -2343,7 +2343,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2344,2344,Stenoptilia wieringai,"Gielis, 2011",species,,Stenoptilia,,wieringai,,763,47,2011,ICZN,established,,
 2345,2346,Stenoptilia zophodactylus,"(Duponchel, 1840)",species,,Stenoptilia,,zophodactylus,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/9938041
 2346,2346,Pterophorus zophodactylus,"Duponchel, 1840",species,,Pterophorus,,zophodactylus,,499,668,1840,ICZN,established,,https://www.biodiversitylibrary.org/page/9938041
-2347,2347,Pterophorus loewii,"Zeller, 1847",species,,Pterophorus,,loewii,,1873,38,1847,ICZN,established,,
+2347,2347,Pterophorus loewii,"Zeller, 1847",species,,Pterophorus,,loewii,,1873,38,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13233636
 2348,2348,Pterophorus canalis,"Walker, 1864",species,,Pterophorus,,canalis,,1763,944,1864,ICZN,established,,
 2349,2349,Mimeseoptilus semicostatus,"Zeller, 1873",species,,Mimeseoptilus,,semicostatus,,1881,323,1873,ICZN,established,,https://www.biodiversitylibrary.org/page/16411990
 2350,2350,Stenoptilodes,"Zimmerman, 1958",genus,Stenoptilodes,,,,,1889,407,1958,ICZN,established,,
@@ -2547,7 +2547,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2549,2549,Alucita dryogramma,"Meyrick, 1930",species,,Alucita,,dryogramma,,1237,567,1930,ICZN,established,,https://www.biodiversitylibrary.org/page/60297927
 2550,2550,Merrifieldia lonnvei,"Gielis, 2011",species,,Merrifieldia,,lonnvei,,763,53,2011,ICZN,established,,
 2551,2552,Merrifieldia malacodactylus,"(Zeller, 1847)",species,,Merrifieldia,,malacodactylus,,,,,ICZN,established,,
-2552,2552,Pterophorus malacodactylus,"Zeller, 1847",species,,Pterophorus,,malacodactylus,,1872,905,1847,ICZN,established,,
+2552,2552,Pterophorus malacodactylus,"Zeller, 1847",species,,Pterophorus,,malacodactylus,,1872,905,1847,ICZN,established,,https://www.biodiversitylibrary.org/page/13234115
 2553,2553,Pterophorus meristodactylus,"Zeller, 1852",species,,Pterophorus,,meristodactylus,,1875,396,1852,ICZN,established,,
 2554,2554,Aciptilia baliodactylus var. meridionalis,"Staudinger, 1880",variety,,Aciptilia,,baliodactylus,meridionalis,1608,432,1880,ICZN,established,,
 2555,2555,Alucita indocta,"Meyrick, 1913",species,,Alucita,,indocta,,1207,111,1913,ICZN,established,,https://www.biodiversitylibrary.org/page/10439975
