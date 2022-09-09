@@ -1197,7 +1197,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2695,2652,,synonym,1914,
 347,1147,,synonym,1915,
 334,1146,,synonym,1915,
-2854,1694,,synonym,,
+2854,2856,,synonym,,
 1550,2858,,synonym,,Misspelling
 2854,2857,,synonym,,
 2854,2859,,synonym,,
@@ -1217,7 +1217,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 677,2872,,synonym,979,
 831,2873,,synonym,,
 831,2874,,synonym,979,
-2854,2875,,synonym,,
 1522,2876,,synonym,,
 863,2877,,synonym,,
 1334,2878,,synonym,,

@@ -1272,7 +1272,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1273,1273,Trichoptilus negotiosus,"Meyrick, 1926",species,,Trichoptilus,,negotiosus,,1230,325,1926,ICZN,established,,
 1274,1274,Buckleria vanderwolfi,"Gielis, 2008",species,,Buckleria,,vanderwolfi,,755,49,2008,ICZN,established,,
 1275,1276,Buckleria paludum,"(Zeller, 1839)",species,,Buckleria,,paludum,,,,,ICZN,established,,
-1276,1276,Pterophorus paludum,"Zeller, 1839",species,,Pterophorus,,paludum,,1870,277,1839,ICZN,established,,
+1276,1276,Pterophorus paludum,"Zeller, 1839",species,,Pterophorus,,paludum,,1870,277,1839,ICZN,established,,https://www.biodiversitylibrary.org/page/13244177
 1277,1277,Pterophorus amaurodactylus,"Zeller, 1839",species,,Pterophorus,,amaurodactylus,,1870,277,1839,ICZN,not established,Nomen nudum,
 1278,1278,Pterophorus paludidactyla,"Bruand & dUzelle, 1858",species,,Pterophorus,,paludidactyla,,317,893,1858,ICZN,not established,Emendation,
 1279,1279,Trichoptilus paludicola,"Fletcher, 1907",species,,Trichoptilus,,paludicola,,599,20,1907,ICZN,established,,https://www.biodiversitylibrary.org/page/11165984
@@ -2849,7 +2849,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2853,2853,Crassuncus kenzo,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,,kenzo,,1916,577,2017,ICZN,established,,
 2854,2854,Crassuncus ermakovae,"Kovtunovich & Ustjuzhanin, 2017",species,,Crassuncus,,ermakovae,,1916,579,2017,ICZN,established,,
 2855,2855,Hellinsia birichevskayae,"Kovtunvich & Ustjuzhanin, 2017",species,,Hellinsia,,birichevskayae,,1916,579,2017,ICZN,established,,
-2856,1695,Gillmeria tetradactyla,"(Linnaeus, 1761)",species,,Gillmeria,,tetradactyla,,1674,37,1905,ICZN,established,"Tutt established Gillmeria ochrodactyla as the type species of Gillmeria in 1905, but ochrodactyla is preceded by tetradactyla",
+2856,1695,Gillmeria tetradactyla,"(Linnaeus, 1761)",species,,Gillmeria,,tetradactyla,,1674,37,1905,ICZN,established,,
 2857,1696,Platyptilia ochrodactyla,"(Denis & Schiffermüller, 1775)",species,,Platyptilia,,ochrodactyla,,,,1775,ICZN,established,,
 2858,2858,Amblyptilia acanthodactyla,"(Hübner, 1813)",species,,Amblyptilia,,acanthodactyla,,,,,ICZN,not established,Misspelling,
 2859,1695,Platyptilia tetradactyla,"(Linnaeus, 1761)",species,,Platyptilia,,tetradactyla,,,,1761,ICZN,established,,
@@ -2868,7 +2868,6 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2872,679,Euleioptilus buphthalmi,"(Hofmann, 1898)",species,,Euleioptilus,,buphthalmi,,979,165,1996,ICZN,established,,
 2873,833,Hellinsia coniodactylus,"(Staudinger, 1859)",species,,Hellinsia,,coniodactylus,,979,,,ICZN,established,,
 2874,833,Euleioptilus coniodactylus,"(Staudinger, 1859)",species,,Euleioptilus,,coniodactylus,,979,165,1996,ICZN,established,,
-2875,1695,Platyptilia tetradactyla,"(Linnaeus, 1761)",species,,Platyptilia,,tetradactyla,,,,1761,ICZN,established,,
 2876,1523,Crombrugghia wahlbergi,"(Zeller, 1852)",species,,Crombrugghia,,wahlbergi,,,,1852,ICZN,established,,
 2877,864,Leioptilus lienigianus,"(Zeller, 1852)",species,,Leioptilus,,lienigianus,,1937,150,1869,ICZN,established,,
 2878,1335,Oxyptilus distans,"(Zeller, 1847)",species,,Oxyptilus,,distans,,,,1847,ICZN,established,,
