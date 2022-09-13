@@ -1544,8 +1544,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1545,1545,Amblyptilia,"Hübner, [1825]",genus,Amblyptilia,,,,,945,430,1825,ICZN,established,,https://www.biodiversitylibrary.org/page/33045469
 1546,1546,Amplyptilia,"Hübner, [1825]",genus,Amplyptilia,,,,,945,430,1825,ICZN,not established,Misspelling,https://www.biodiversitylibrary.org/page/33045469
 1547,1547,Amblyptilus,"Wallengren, 1862",genus,Amblyptilus,,,,,1767,13,1862 (dated 1859),ICZN,not established,Emendation,https://www.biodiversitylibrary.org/page/2566921
-1548,1548,Amblyptilia  clavata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,clavata,,841,,2005,ICZN,established,,
-1549,1549,Amblyptilia  hebeata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,hebeata,,841,,2005,ICZN,established,,
+1548,1548,Amblyptilia clavata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,clavata,,841,,2005,ICZN,established,,
+1549,1549,Amblyptilia hebeata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,hebeata,,841,,2005,ICZN,established,,
 1550,1551,Amblyptilia acanthadactyla,"(Hübner, [1813])",species,,Amblyptilia,,acanthadactyla,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/28025039
 1551,1551,Alucita acanthadactyla,"Hübner, [1813]",species,,Alucita,,acanthadactyla,,943,"9: 5, figures 23,24",1813,ICZN,established,,https://www.biodiversitylibrary.org/page/28025039
 1552,1552,Amblyptilia calaminthae,"Frey, 1886",species,,Amblyptilia,,calaminthae,,637,16,1886,ICZN,established,,
@@ -2922,3 +2922,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2927,2927,Platyptilia saeva,"Meyrick, 1930",species,,Postplatyptilia,,saeva,,1237,566,1930,ICZN,established,,https://www.biodiversitylibrary.org/page/60297926
 2928,2928,Trichoptilus archeodes,"Meyrick, 1913",species,,Trichoptilus,,archeodes,,751,68,2003,ICZN,not established,Misspelling of Trichoptilus archaeodes in Gielis 2003,
 2929,2929,Trichoptilus archeaodes,"Meyrick, 1913",species,,Trichoptilus,,archeaodes,,751,68,2003,ICZN,not established,Misspelling of Trichoptilus archaeodes in Gielis 2003,
+2930,2930,Platyptilia yakovlevi,"Kovtunovich & Ustjuzhanin, 2022",species,,Platyptilia,,yakovlevi,,1941,173,2022,ICZN,established,Original description,
+2931,2931,Amblyptilia natali,"Kovtunovich & Ustjuzhanin, 2022",species,,Amblyptilia,,natali,,1941,174,2022,ICZN,established,,
+2932,2932,Lioptilodes arcabuco,"Kovtunovich & Ustjuzhanin, 2022",species,,Lioptilodes,,arcabuco,,1941,175,2022,ICZN,established,,
+2933,2933,Hellinsia staskalnoii,"Kovtunovich & Ustjuzhanin, 2022",species,,Hellinsia,,staskalnoii,,1941,176,2022,ICZN,established,,
+2934,2934,Hellinsia ochricostatus,"Kovtunovich & Ustjuzhanin, 2022",species,,Hellinsia,,ochricostatus,,1941,177,2022,ICZN,established,,
+2935,2935,Procapperia processidactyla,"Nupponen, 2022",species,,Procapperia,,processidactyla,,1942,58,2022,ICZN,established,,
