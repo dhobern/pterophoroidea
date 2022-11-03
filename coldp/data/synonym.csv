@@ -1,5 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-18,22,,synonym,,
 18,23,,synonym,,
 208,209,,synonym,,
 208,210,,synonym,,
@@ -277,7 +276,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2208,2209,,synonym,,
 2208,2210,,synonym,,
 2208,2211,,synonym,,
-2214,2215,,synonym,,
+2214,2215,,synonym,285,
 2214,2216,,misapplied,,
 2256,2257,,synonym,,
 2256,2258,,synonym,,
@@ -1220,7 +1219,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1522,2876,,synonym,,
 863,2877,,synonym,,
 1334,2878,,synonym,,
-2190,2879,,synonym,,
 2551,2880,,synonym,,
 2176,2881,,synonym,,
 655,2882,,synonym,,
@@ -1243,3 +1241,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2104,2927,,synonym,,
 1479,2928,,synonym,751,Misspelling of Trichoptilus archaeodes in Gielis 2003
 1479,2929,,synonym,751,Misspelling of Trichoptilus archaeodes in Gielis 2003
+2899,2195,,synonym,,
