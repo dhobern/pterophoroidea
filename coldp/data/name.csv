@@ -2675,7 +2675,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2679,2679,Aciptilia denticulata,"Yano, 1963",species,,Aciptilia,,denticulata,,1834,864,1963,ICZN,established,,
 2680,2681,Pterophorus niveodactyla,"(Pagenstecher, 1900)",species,,Pterophorus,,niveodactyla,,,,,ICZN,established,,
 2681,2681,Aciptilia niveodactyla,"Pagenstecher, 1900",species,,Aciptilia,,niveodactyla,,1382,240,1900,ICZN,established,,
-2682,848,Pterophorus oligocenicus,"Bigot, Nel & Nel, 1986",species,,Pterophorus,,oligocenicus,,278,283,1986,ICZN,established,,
+2682,2682,Pterophorus oligocenicus,"Bigot, Nel & Nel, 1986",species,,Pterophorus,,oligocenicus,,278,283,1986,ICZN,established,,
 2683,2684,Pterophorus pentadactyla,"(Linnaeus, 1758)",species,,Pterophorus,,pentadactyla,,,,,ICZN,established,,
 2684,2684,Phalaena pentadactyla,"Linnaeus, 1758",species,,Phalaena,,pentadactyla,,1091,542,1758,ICZN,established,Phalaena Alucita pentadactyla,https://www.biodiversitylibrary.org/page/727453
 2685,2685,Phalaena tridactyla,"Scopoli, 1763",species,,Phalaena,,tridactyla,,1549,257,1763,ICZN,established,,
