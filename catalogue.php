@@ -30,7 +30,7 @@
         </header>
         
         <div class="Overview">
-            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.23.5 (05 Jan 2023)</h2>
+            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.23.136 (16 May 2023)</h2>
             <p><a href="index.php">See the <strong>background to this catalogue</strong> (including search and browse function)</a></p>
         </div>
         
