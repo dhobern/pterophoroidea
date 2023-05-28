@@ -969,4 +969,5 @@ taxonID,relatedTaxonID,relatedTaxonScientificName,type,referenceID,remarks,relat
 640,,Ageratina adenophora,eats,1913,Hawai'i,https://www.catalogueoflife.org/data/taxon/65RW9,Asterales,Asteraceae,Ageratina adenophora (Spreng.) R. King & H. Rob.,<i>Ageratina adenophora</i> (Spreng.) R. King & H. Rob.
 1195,,Ambrosia cumanensis Kunth,eats,1922,,,,,,
 2896,,Stevia philippiana,eats,1943,,https://www.catalogueoflife.org/data/taxon/52GZY,Asterales,Asteraceae,Stevia philippiana Hieron.,<i>Stevia philippiana</i> Hieron.
-2847,,Stevia philippiana,eats,1943,,https://www.catalogueoflife.org/data/taxon/52GZY,,,,
+2847,,Stevia philippiana,eats,1943,,https://www.catalogueoflife.org/data/taxon/52GZY,Asterales,Asteraceae,Stevia philippiana Hieron.,<i>Stevia philippiana</i> Hieron.
+2963,,Uncaria rhynchophylla,eats,,,https://www.catalogueoflife.org/data/taxon/8X8ZR,Gentiales,Rubiaceae,Uncaria rhynchophylla (Miq.) Miq.,<i>Uncaria rhynchophylla</i> (Miq.) Miq.
