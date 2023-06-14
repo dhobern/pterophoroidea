@@ -101,8 +101,8 @@ nameID,referenceID,page,link,remarks
 1389,86,27,,Original description
 2702,84,87,,Original description
 324,89,276,,Original description
-299,89,276,,Original description
-312,89,276,,Original description
+299,156,276,https://www.biodiversitylibrary.org/page/28239806,Original description
+312,156,276,https://www.biodiversitylibrary.org/page/28239806,Original description
 2228,92,327,,Original description
 2676,90,84,,Original description
 2640,90,86,,Original description
@@ -613,10 +613,10 @@ nameID,referenceID,page,link,remarks
 834,702,123,,Original description
 37,707,49,,Original description
 322,710,285,,Original description
-314,711,279,,Original description
-309,711,279,,Original description
-296,711,279,,Original description
-1426,715,107,,Original description
+314,156,279,https://www.biodiversitylibrary.org/page/28239809,Original description
+309,156,279,https://www.biodiversitylibrary.org/page/28239809,Original description
+296,156,279,https://www.biodiversitylibrary.org/page/28239809,Original description
+1426,713,110,https://www.biodiversitylibrary.org/page/50925984,Original description
 124,717,114,,Original description
 169,717,116,,Original description
 1731,717,118,,Original description
@@ -2463,3 +2463,4 @@ nameID,referenceID,page,link,remarks
 2980,1957,396,,sp. nov.
 2981,1957,398,,sp. nov.
 2982,1957,398,,sp. nov.
+2983,713,108,https://www.biodiversitylibrary.org/page/50925982,Redescription

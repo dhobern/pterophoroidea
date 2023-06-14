@@ -294,7 +294,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 294,294,Ochyrotica bjoernstadti,"Gielis, 2008",species,,Ochyrotica,,bjoernstadti,,755,45,2008,ICZN,established,,
 295,295,Ochyrotica bonitae,"Gielis, 2016",species,,Ochyrotica,,bonitae,,768,33,2016,ICZN,established,,
 296,296,Ochyrotica borneoica,"Gielis, 1988",species,,Ochyrotica,,borneoica,,156,279,1988,ICZN,established,,https://www.biodiversitylibrary.org/page/28239809
-297,297,Ochyrotica breviapex,"Gielis, 1990",species,,Ochyrotica,,breviapex,,720,297,1990,ICZN,established,,
+297,297,Ochyrotica breviapex,"Gielis, 1989",species,,Ochyrotica,,breviapex,,726,69,1989,ICZN,established,,
 298,298,Ochyrotica buergersi,"Gaede, 1916",species,,Ochyrotica,,buergersi,,648,81,1916,ICZN,established,,
 299,299,Ochyrotica celebica,"Arenberger, 1988",species,,Ochyrotica,,celebica,,156,276,1988,ICZN,established,,https://www.biodiversitylibrary.org/page/28239806
 300,301,Ochyrotica concursa,"(Walsingham, 1891)",species,,Ochyrotica,,concursa,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/9013658
@@ -1421,7 +1421,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1423,1424,Megalorhipida prolai,"(Gibeaux, 1994)",species,,Megalorhipida,,prolai,,,,,ICZN,established,,
 1424,1424,Megalorrhipida prolai,"Gibeaux, 1994",species,,Megalorrhipida,,prolai,,693,93,1994,ICZN,established,,
 1425,1426,Megalorhipida pseudodefectalis,"(Gielis, 1989)",species,,Megalorhipida,,pseudodefectalis,,,,,ICZN,established,,
-1426,1426,Megalorrhipida pseudodefectalis,"Gielis, 1989",species,,Megalorrhipida,,pseudodefectalis,,715,107,1989,ICZN,established,,
+1426,1426,Megalorrhipida pseudodefectalis,"Gielis, 1989",species,,Megalorrhipida,,pseudodefectalis,,713,110,1989,ICZN,established,,https://www.biodiversitylibrary.org/page/50925984
 1427,1428,Megalorhipida subtilis,"(Rebel, 1907)",species,,Megalorhipida,,subtilis,,,,,ICZN,established,,
 1428,1428,Trichoptilus subtilis,"Rebel, 1907",species,,Trichoptilus,,subtilis,,1460,114,1907,ICZN,established,,
 1429,1429,Trichoptilus maceratus,"Meyrick, 1909",species,,Trichoptilus,,maceratus,,1191,2,1909,ICZN,established,,
@@ -2974,3 +2974,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2980,2980,Crassuncus agassizi,"Ustjuzhanin & Kovtunovich, 2016",species,,Crassuncus,,agassizi,,1957,396,2016,ICZN,established,,
 2981,2981,Hellinsia anikini,"Ustjuzhanin & Kovtunovich, 2016",species,,Hellinsia,,anikini,,1957,398,2016,ICZN,established,,
 2982,2982,Hellinsia nawrothi,"Ustjuzhanin & Kovtunovich, 2016",species,,Hellinsia,,nawrothi,,1957,398,2016,ICZN,established,,
+2983,1408,Megalorrhipida defectalis,"(Walker, 1864)",species,,Megalorrhipida,,defectalis,,713,108,1989,ICZN,established,,https://www.biodiversitylibrary.org/page/50925982
