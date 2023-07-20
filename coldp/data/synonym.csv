@@ -554,7 +554,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1818,1819,,synonym,,
 1818,1820,,synonym,138,
 1818,1821,,synonym,138,
-1818,1821,,synonym,138,
 1818,1822,,synonym,,
 1540,1541,,synonym,,
 1540,1542,,synonym,,
@@ -1278,3 +1277,10 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2291,2972,,synonym,,
 2190,2973,,synonym,,
 2190,2974,,synonym,,
+1589,2984,,synonym,,
+1632,2985,,synonym,,
+1645,2986,,synonym,1087,
+1883,2987,,synonym,1087,
+1818,2988,,synonym,1087,
+2663,2989,,synonym,1087,misspelling
+2442,2990,,synonym,1087,
