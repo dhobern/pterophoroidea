@@ -1033,7 +1033,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1035,1035,Oidaematophorus rigidus,"McDunnough, 1938",species,,Oidaematophorus,,rigidus,,1163,131,1938,ICZN,established,,
 1036,1037,Hellinsia rileyi,"(Fernald, 1898)",species,,Hellinsia,,rileyi,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/18485663
 1037,1037,Pterophorus rileyi,"Fernald, 1898",species,,Pterophorus,,rileyi,,586,50,1898,ICZN,established,,https://www.biodiversitylibrary.org/page/18485663
-1038,1038,Hellinsia rubifusca,"Li, 2002",species,,Hellinsia,,rubifusca,,1086,374,2002,ICZN,established,,
+1038,1038,Hellinsia rubifusca,"Li, 2002",species,,Hellinsia,,rubifusca,,1086,373,2002,ICZN,established,,
 1039,1039,Hellinsia ruminahuii,"Gielis, 2011",species,,Hellinsia,,ruminahuii,,764,638,2011,ICZN,established,,
 1040,1040,Hellinsia saldaitisi,"Ustjuzhanin & Kovtunovich, 2008",species,,Hellinsia,,saldaitisi,,1697,42,2008,ICZN,established,,
 1041,1042,Hellinsia salticola,"(Meyrick, 1913)",species,,Hellinsia,,salticola,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/14687335
@@ -1543,8 +1543,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1545,1545,Amblyptilia,"Hübner, [1825]",genus,Amblyptilia,,,,,945,430,1825,ICZN,established,,https://www.biodiversitylibrary.org/page/33045469
 1546,1546,Amplyptilia,"Hübner, [1825]",genus,Amplyptilia,,,,,945,430,1825,ICZN,not established,Misspelling,https://www.biodiversitylibrary.org/page/33045469
 1547,1547,Amblyptilus,"Wallengren, 1862",genus,Amblyptilus,,,,,1767,13,1862 (dated 1859),ICZN,not established,Emendation,https://www.biodiversitylibrary.org/page/2566921
-1548,1548,Amblyptilia clavata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,clavata,,841,,2005,ICZN,established,,
-1549,1549,Amblyptilia hebeata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,hebeata,,841,,2005,ICZN,established,,
+1548,1548,Amblyptilia clavata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,clavata,,841,224,2005,ICZN,established,,
+1549,1549,Amblyptilia hebeata,"Hao, Li & Wu, 2005",species,,Amblyptilia,,hebeata,,841,225,2005,ICZN,established,,
 1550,1551,Amblyptilia acanthadactyla,"(Hübner, [1813])",species,,Amblyptilia,,acanthadactyla,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/28025039
 1551,1551,Alucita acanthadactyla,"Hübner, [1813]",species,,Alucita,,acanthadactyla,,943,"9: 5, figures 23,24",1813,ICZN,established,,https://www.biodiversitylibrary.org/page/28025039
 1552,1552,Amblyptilia calaminthae,"Frey, 1886",species,,Amblyptilia,,calaminthae,,637,16,1886,ICZN,established,,
