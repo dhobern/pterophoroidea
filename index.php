@@ -34,12 +34,12 @@
         </header>
         
         <div class="Overview">
-            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.23.233 (21 Aug 2023)</h2>
+            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.22.272 (29 Sep 2022)</h2>
             
             <ul>
             <li><a href="catalogue.php"><strong>Browse the catalogue</strong></a></li>
             <li><a href="Pterophoroidea.zip"><strong>Download the catalogue as a ZIP file</strong></a> (<a href="https://github.com/CatalogueOfLife/coldp">COLDP format)</a></li>
-            <li><a href="https://www.checklistbank.org/dataset/1199/classification" target="_blank"><strong>View the catalogue in Catalogue of Life ChecklistBank</strong></a></li>
+            <li><a href="https://data.catalogue.life/dataset/1199/classification" target="_blank"><strong>View the catalogue in Catalogue of Life ChecklistBank</strong></a></li>
             </ul>
 
             <p>
@@ -51,7 +51,7 @@
             <a href="http://www.catalogueoflife.org/" target="_blank">
             <strong>Catalogue of Life</strong></a> and updated by Donald Hobern.</p> 
             
-            <p>Version 1.1.23.233 has been updated to correct a number of errors in 
+            <p>Version 1.1.22.272 has been updated to correct a number of errors in 
             processing of Cees Gielis' original dataset and to reflect recent 
             additions to the group. Additional page references have also been 
             added.</p>
