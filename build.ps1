@@ -2,10 +2,10 @@ $versionid=get-date -UFormat "1.1.%y.%j (%d %b %Y)"
 $releasedate=get-date -UFormat "%Y-%m-%d"
 $versionshort=get-date -UFormat "1.1.%y.%j"
 sed -i -e "s/^version: .*$/version: $versionid\r/" -e "s/^issued: .*$/issued: $releasedate\r/" -e "s/Version .* includes updates/Version $versionshort includes updates/" coldp/metadata.yaml
-sed -e "s/Version .* has been updated/Version $versionshort has been updated/" -e "s/<h2>Catalogue of the Pterophoroidea of the World, .*</<h2>Catalogue of the Pterophoroidea of the World, version $versionid</" index.php > index.tmp
+sed -e "s/Version .* has been updated/Version $versionshort has been updated/" -e "s/<h2>Catalogue of the Pterophoroidea of the World, .*</<h2>Catalogue of the Pterophoroidea of the World, version $versionid</" index.php | Out-File -Encoding default index.tmp
 copy index.tmp index.php
 erase index.tmp
-sed -e "s/<h2>Catalogue of the Pterophoroidea of the World, .*</<h2>Catalogue of the Pterophoroidea of the World, version $versionid</" catalogue.php > catalogue.tmp
+sed -e "s/<h2>Catalogue of the Pterophoroidea of the World, .*</<h2>Catalogue of the Pterophoroidea of the World, version $versionid</" catalogue.php | Out-File -Encoding default catalogue.tmp
 copy catalogue.tmp catalogue.php
 erase catalogue.tmp
 
