@@ -1,9 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-40,41,,synonym,,
-136,137,,synonym,,
-136,138,,synonym,,
-136,139,,synonym,,
-136,140,,synonym,,
 136,141,,synonym,,
 136,142,,synonym,,
 136,143,,synonym,,
@@ -1281,3 +1276,8 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2969,628,,synonym,1962,
 598,1132,,synonym,1962,"NOTE: The taxa wrangeliensis and albilobata have similar genitalia and DNA barcodes, including the sequenced holotype of wrangeliensis; wrangeliensis is hereby synonymized (n. syn.; contributed by JFL)."
 598,1133,,synonym,1962,
+955,955,,synonym,1966,
+995,995,,synonym,1966,
+555,555,,synonym,1966,
+1086,1086,,synonym,1966,
+1021,1021,,synonym,1966,
