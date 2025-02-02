@@ -241,12 +241,6 @@ taxonId,area,gazetteer,status,referenceID,remarks
 111,IR,iso,native,,
 112,ZA,iso,native,,
 113,ZA,iso,native,,
-114,AZ,iso,native,,
-114,TM,iso,native,,
-114,AZ,iso,native,As Agdistis karabachica,1942
-114,TR,iso,native,As Agdistis karabachica,1942
-114,TM,iso,native,As Agdistis karabachica,1942
-114,GE,iso,native,As Agdistic karabachica,1942
 116,ZA,iso,native,,
 117,ZA,iso,native,,
 118,KE,iso,native,1955,
@@ -6192,6 +6186,11 @@ taxonId,area,gazetteer,status,referenceID,remarks
 2462,RU-KK,iso,native,1968,
 2735,RU-KK,iso,native,1968,
 2981,ZA-WC,iso,native,1969,
+51,AZ,iso,native,,
+51,TM,iso,native,,
+51,AZ,iso,native,1942,As Agdistis karabachica
+51,TR,iso,native,1942,As Agdistis karabachica
+51,TM,iso,native,1942,As Agdistis karabachica
 25,GE,iso,native,1970,
 51,GE,iso,native,1970,
 77,GE,iso,native,1970,
