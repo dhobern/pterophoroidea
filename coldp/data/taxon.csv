@@ -78,7 +78,6 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 111,18,111,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis iranica,
 112,18,112,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis iversoni,
 113,18,113,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis jansei,
-114,18,114,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis karabachica,
 115,18,115,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis karakalensis,
 116,18,116,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis karischi,
 117,18,117,C. Gielis & D. Hobern,2020-07-16,false,,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis kaunda,
@@ -1702,3 +1701,5 @@ ID,parentID,nameID,scrutinizer,scrutinizerDate,provisional,referenceID,extinct,t
 2978,578,3006,D. Hobern,2024-08-02,false,1966,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,Hellinsia,,Hellinsia nina,
 2979,2804,3012,D. Hobern,2024-11-09,false,1967,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Tetraschalini,Walsinghamiella,,Walsinghamiella selinda,
 2980,1914,3013,D. Hobern,2024-11-09,false,1967,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Platyptiliini,Platyptilia,,Platyptilia swynnertoni,
+2981,18,3014,D. Hobern,2025-02-02,false,1969,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Agdistinae,,Agdistis,,Agdistis zagulajevi,
+2982,516,3015,D. Hobern,2025-02-02,false,1970,false,Holocene,terrestrial,Animalia,Arthropoda,Insecta,Lepidoptera,Pterophoroidea,Pterophoridae,Pterophorinae,Oidaematophorini,Emmelina,,Emmelina pseudojezonica,
