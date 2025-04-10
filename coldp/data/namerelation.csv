@@ -747,14 +747,12 @@ nameID,relatedNameID,type,referenceID,remarks
 2360,2361,basionym,752,
 1394,1395,basionym,752,
 347,348,basionym,1460,
-1015,1016,basionym,270,
 2591,2592,basionym,,
 394,395,basionym,759,
 1668,1669,basionym,763,
 1355,1356,basionym,,
 1192,1193,basionym,764,
 47,48,basionym,1455,
-2424,2425,basionym,774,
 500,501,basionym,766,
 1199,1200,basionym,766,
 177,178,replacement name,40,
@@ -771,3 +769,4 @@ nameID,relatedNameID,type,referenceID,remarks
 2928,1480,superfluous,,misspelling
 2929,1480,superfluous,,misspelling
 1696,1695,conserved,1940,"conserved by designation of neotype for Phalaena tetradactyla Linnaeus, 1758"
+2993,1016,replacement name,1963,

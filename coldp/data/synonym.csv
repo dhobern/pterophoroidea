@@ -1,6 +1,4 @@
 taxonID,nameID,accordingToID,status,referenceID,remarks
-136,143,,synonym,,
-189,190,,synonym,,
 25,26,,synonym,,
 25,27,,synonym,,
 25,28,,synonym,,
@@ -1141,7 +1139,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2360,2361,,synonym,,
 1394,1395,,synonym,,
 347,348,,synonym,,
-1015,1016,,synonym,,
 2591,2592,,synonym,,
 2591,2593,,synonym,,
 394,395,,synonym,,
@@ -1151,7 +1148,6 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1192,1193,,synonym,,
 1483,1484,,synonym,,
 47,48,,synonym,,
-2424,2425,,synonym,,
 500,501,,synonym,,
 1199,1200,,synonym,,
 1237,1238,,synonym,,
@@ -1263,7 +1259,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 2663,2989,,synonym,1087,misspelling
 2442,2990,,synonym,1087,
 1015,2993,,synonym,1963,"NOTE: The name poulini (Bigot & Picard, 2005) is not available because the type repository was not indicated in the original publication. Bigot (2021) republished the description with the type repository included. The available name thus bears a different year and only one author."
-1015,1015,,synonym,1962,
+1015,1016,,synonym,1962,
 2967,992,,synonym,1962,
 2966,765,,synonym,1962,
 2968,993,,synonym,1962,
@@ -1279,3 +1275,4 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 396,358,,synonym,1967,syn. nov.
 51,114,,synonym,1970,
 1430,1430,,synonym,763,
+2534,3021,,synonym,,

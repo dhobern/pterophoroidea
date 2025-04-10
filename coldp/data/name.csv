@@ -339,7 +339,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 339,339,Aciptilia atomosa,"Walsingham, 1885",species,,Aciptilia,,atomosa,,1775,885,1885,ICZN,established,,
 340,340,Exelastis boireaui,"Bigot, 1992",species,,Exelastis,,boireaui,,239,54,1992,ICZN,established,,
 341,341,Exelastis caroli,"Gielis, 2008",species,,Exelastis,,caroli,,755,48,2008,ICZN,established,,
-342,343,Exelastis crepuscularis,"Meyrick, 1909",species,,Exelastis,,crepuscularis,,,,,ICZN,established,,
+342,343,Exelastis crepuscularis,"(Meyrick, 1909)",species,,Exelastis,,crepuscularis,,,,,ICZN,established,,
 343,343,Pterophorus crepuscularis,"Meyrick, 1909",species,,Pterophorus,,crepuscularis,,1191,4,1909,ICZN,established,,
 344,345,Exelastis crudipennis,"(Meyrick, 1932)",species,,Exelastis,,crudipennis,,,,,ICZN,established,,
 345,345,Marasmarcha crudipennis,"Meyrick, 1932",species,,Marasmarcha,,crudipennis,,1245,252,1932,ICZN,established,,https://www.biodiversitylibrary.org/page/60386924
@@ -349,7 +349,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 349,349,Stenoptilia caroli,"Arenberger, 1988",species,,Stenoptilia,,caroli,,88,69,1988,ICZN,established,,
 350,350,Pterophorus ashanti,"Arenberger, 1995",species,,Pterophorus,,ashanti,,111,250,1995,ICZN,established,,
 351,351,Exelastis hulstaerti,"Gielis, 2011",species,,Exelastis,,hulstaerti,,763,47,2011,ICZN,established,,
-352,353,Exelastis luqueti,"Gibeaux, 1994",species,,Exelastis,,luqueti,,,,,ICZN,established,,
+352,353,Exelastis luqueti,"(Gibeaux, 1994)",species,,Exelastis,,luqueti,,,,,ICZN,established,,
 353,353,Cordivalva luqueti,"Gibeaux, 1994",species,,Cordivalva,,luqueti,,693,68,1994,ICZN,established,,
 354,355,Exelastis montischristi,"(Walsingham, 1897)",species,,Exelastis,,montischristi,,,,,ICZN,established,,
 355,355,Pterophorus montischristi,"Walsingham, 1897",species,,Pterophorus,,montischristi,,1781,59,1897,ICZN,established,,
@@ -371,7 +371,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 371,372,Exelastis tenax,"(Meyrick, 1913)",species,,Exelastis,,tenax,,,,,ICZN,established,,
 372,372,Marasmarcha tenax,"Meyrick, 1913",species,,Marasmarcha,,tenax,,1205,268,1913,ICZN,established,,
 373,373,Exelastis bergeri,"Bigot, 1969",species,,Exelastis,,bergeri,,226,176,1969,ICZN,established,,
-374,375,Exelastis viettei,"Gibeaux, 1994",species,,Exelastis,,viettei,,,,,ICZN,established,,
+374,375,Exelastis viettei,"(Gibeaux, 1994)",species,,Exelastis,,viettei,,,,,ICZN,established,,
 375,375,Cordivalva viettei,"Gibeaux, 1994",species,,Cordivalva,,viettei,,693,70,1994,ICZN,established,,
 376,376,Exelastis vuattouxi,"Bigot, 1970",species,,Exelastis,,vuattouxi,,228,761,1970,ICZN,established,,
 377,377,Fuscoptilia,"Arenberger, 1991",genus,Fuscoptilia,,,,,102,36,1991,ICZN,established,,
@@ -606,7 +606,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 606,607,Hellinsia ammonias,"(Meyrick, 1909)",species,,Hellinsia,,ammonias,,,,,ICZN,established,,
 607,607,Pterophorus ammonias,"Meyrick, 1909",species,,Pterophorus,,ammonias,,1191,3,1909,ICZN,established,,https://www.biodiversitylibrary.org/page/50494888
 608,608,Hellinsia angela,"Gielis, 2011",species,,Hellinsia,,angela,,764,680,2011,ICZN,established,,
-609,610,Hellinsia angulofuscus,"Gielis, 1991",species,,Hellinsia,,angulofuscus,,,,,ICZN,established,,
+609,610,Hellinsia angulofuscus,"(Gielis, 1991)",species,,Hellinsia,,angulofuscus,,,,,ICZN,established,,
 610,610,Oidaematophorus angulofuscus,"Gielis, 1991",species,,Oidaematophorus,,angulofuscus,,719,89,1991,ICZN,established,,
 611,611,Hellinsia antonkozlovi,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,,antonkozlovi,,1020,200,2018,ICZN,established,,
 612,613,Hellinsia ares,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,ares,,,,,ICZN,established,,
@@ -639,7 +639,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 639,639,Hellinsia benalcazari,"Gielis, 2011",species,,Hellinsia,,benalcazari,,764,658,2011,ICZN,established,,
 640,641,Hellinsia beneficus,"(Yano & Heppner, 1983)",species,,Hellinsia,,beneficus,,,,,ICZN,established,,
 641,641,Oidaematophorus beneficus,"Yano & Heppner, 1983",species,,Oidaematophorus,,beneficus,,1844,335,1983,ICZN,established,,
-642,643,Hellinsia betsiae,"Gielis, 1991",species,,Hellinsia,,betsiae,,,,,ICZN,established,,
+642,643,Hellinsia betsiae,"(Gielis, 1991)",species,,Hellinsia,,betsiae,,,,,ICZN,established,,
 643,643,Oidaematophorus betsiae,"Gielis, 1991",species,,Oidaematophorus,,betsiae,,719,81,1991,ICZN,established,,
 644,644,Hellinsia bhutanensis,"Arenberger, 1995",species,,Hellinsia,,bhutanensis,,112,142,1995,ICZN,established,,
 645,645,Hellinsia biangulata,"Gielis & De Vos, 2007",species,,Hellinsia,,biangulata,,772,194,2007,ICZN,established,,
@@ -714,7 +714,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 714,714,Oidaematophorus contortus,"McDunnough, 1938",species,,Oidaematophorus,,contortus,,1163,131,1938,ICZN,established,,
 715,716,Hellinsia conyzae,"(Gibeaux, 1994)",species,,Hellinsia,,conyzae,,,,,ICZN,established,,
 716,716,Paulianilus conyzae,"Gibeaux, 1994",species,,Paulianilus,,conyzae,,693,125,1994,ICZN,established,,
-717,718,Hellinsia coquimboicus,"Gielis, 1991",species,,Hellinsia,,coquimboicus,,,,,ICZN,established,,
+717,718,Hellinsia coquimboicus,"(Gielis, 1991)",species,,Hellinsia,,coquimboicus,,,,,ICZN,established,,
 718,718,Oidaematophorus coquimboicus,"Gielis, 1991",species,,Oidaematophorus,,coquimboicus,,719,88,1991,ICZN,established,,
 719,719,Hellinsia cordobae,"Gielis, 2013",species,,Hellinsia,,cordobae,,766,100,2013,ICZN,established,,
 720,721,Hellinsia corvus,"(Barnes & Lindsey, 1921)",species,,Hellinsia,,corvus,,,,,ICZN,established,,
@@ -895,9 +895,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 897,897,Hellinsia maldonadoica,"Gielis, 2011",species,,Hellinsia,,maldonadoica,,764,684,2011,ICZN,established,,
 898,899,Hellinsia malesanus,"(Meyrick, 1921)",species,,Hellinsia,,malesanus,,,,,ICZN,established,,
 899,899,Pterophorus malesanus,"Meyrick, 1921",species,,Pterophorus,,malesanus,,1189,422,1921,ICZN,established,,
-900,901,Hellinsia mallecoicus,"Gielis, 1991",species,,Hellinsia,,mallecoicus,,,,,ICZN,established,,
+900,901,Hellinsia mallecoicus,"(Gielis, 1991)",species,,Hellinsia,,mallecoicus,,,,,ICZN,established,,
 901,901,Oidaematophorus mallecoicus,"Gielis, 1991",species,,Oidaematophorus,,mallecoicus,,719,86,1991,ICZN,established,,
-902,903,Hellinsia mauleicus,"Gielis, 1991",species,,Hellinsia,,mauleicus,,,,,ICZN,established,,
+902,903,Hellinsia mauleicus,"(Gielis, 1991)",species,,Hellinsia,,mauleicus,,,,,ICZN,established,,
 903,903,Oidaematophorus mauleicus,"Gielis, 1991",species,,Oidaematophorus,,mauleicus,,719,83,1991,ICZN,established,,
 904,905,Hellinsia mauritius,"(Gibeaux, 1994)",species,,Hellinsia,,mauritius,,,,,ICZN,established,,
 905,905,Oidaematophorus mauritius,"Gibeaux, 1994",species,,Oidaematophorus,,mauritius,,693,129,1994,ICZN,established,,
@@ -1010,8 +1010,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1012,1012,Oidaematophorus pollux,"Barnes & Lindsey, 1921",species,,Oidaematophorus,,pollux,,176,395,1921,ICZN,established,,https://www.biodiversitylibrary.org/page/9947432
 1013,1013,Hellinsia pondero,"Gielis, 2016",species,,Hellinsia,,pondero,,768,40,2016,ICZN,established,,
 1014,1014,Hellinsia postnigrata,"Gielis, 2011",species,,Hellinsia,,postnigrata,,764,654,2011,ICZN,established,,
-1015,1016,Hellinsia poulini,"Bigot & Picard, 2005",species,,Hellinsia,,poulini,,,,,ICZN,established,,
-1016,1016,Oidaematophorus poulini,"Bigot & Picard, 2005",species,,Oidaematophorus,,poulini,,270,410,2005,ICZN,established,,
+1016,1016,Oidaematophorus poulini,"Bigot & Picard, 2005",species,,Oidaematophorus,,poulini,,270,410,2005,ICZN,not established,"No type repository in description - corrected with Oidaematophorus poulini Bigot, 2021",
 1017,1018,Hellinsia powelli,"(Gielis, 1996)",species,,Hellinsia,,powelli,,,,,ICZN,established,,
 1018,1018,Oidaematophorus powelli,"Gielis, 1996",species,,Oidaematophorus,,powelli,,729,96,1996,ICZN,established,,
 1019,1020,Hellinsia praealtus,"(Walsingham, 1915)",species,,Hellinsia,,praealtus,,,,,ICZN,established,,
@@ -1055,9 +1054,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1057,1058,Hellinsia simplicissimus,"(McDunnough, 1938)",species,,Hellinsia,,simplicissimus,,,,,ICZN,established,,
 1058,1058,Oidaematophorus simplicissimus,"McDunnough, 1938",species,,Oidaematophorus,,simplicissimus,,1163,130,1938,ICZN,established,,
 1059,1059,Hellinsia siniaevi,"Kovtonovich, 2003",species,,Hellinsia,,siniaevi,,1008,754,2003,ICZN,established,,
-1060,1061,Hellinsia siskaellus,"Gielis, 1991",species,,Hellinsia,,siskaellus,,,,,ICZN,established,,
+1060,1061,Hellinsia siskaellus,"(Gielis, 1991)",species,,Hellinsia,,siskaellus,,,,,ICZN,established,,
 1061,1061,Oidaematophorus siskaellus,"Gielis, 1991",species,,Oidaematophorus,,siskaellus,,719,79,1991,ICZN,established,,
-1062,1063,Hellinsia socorroica,"Gielis, 1991",species,,Hellinsia,,socorroica,,,,,ICZN,established,,
+1062,1063,Hellinsia socorroica,"(Gielis, 1991)",species,,Hellinsia,,socorroica,,,,,ICZN,established,,
 1063,1063,Oidaematophorus socorroica,"Gielis, 1991",species,,Oidaematophorus,,socorroica,,720,21,1991,ICZN,established,,
 1064,1064,Hellinsia solanoi,"Gielis, 1999",species,,Hellinsia,,solanoi,,739,310,1999,ICZN,established,,
 1065,1066,Hellinsia sordidatus,"(Meyrick, 1912)",species,,Hellinsia,,sordidatus,,,,,ICZN,established,,
@@ -1348,7 +1347,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1350,1350,Pterophorus laetidactylus,"Bruand d'Uzelle, 1859",species,,Pterophorus,,loetidactylus,,316,700,1858,ICZN,established,,https://www.biodiversitylibrary.org/page/8375621
 1351,1351,Oxyptilus andryalae,"Millière, 1863",species,,Oxyptilus,,andryalae,,1267,333,1863,ICZN,established,Suggested as more appropriate name than laetus,https://www.biodiversitylibrary.org/page/52217960
 1352,1352,Oxyptilus lantoscanus,"Millière, 1883",species,,Oxyptilus,,lantoscanus,,1272,176,1883,ICZN,established,,
-1353,1354,Crombrugghia reichli,"Arenberger, 1998",species,,Crombrugghia,,reichli,,,,,ICZN,established,,
+1353,1354,Crombrugghia reichli,"(Arenberger, 1998)",species,,Crombrugghia,,reichli,,,,,ICZN,established,,
 1354,1354,Oxyptilus reichli,"Arenberger, 1998",species,,Oxyptilus,,reichli,,121,306,1998,ICZN,established,,
 1355,1356,Crombrugghia richardi,"(Ustjuzhanin & Kovtunovich, 2010)",species,,Crombrugghia,,richardi,,,,,ICZN,established,,
 1356,1356,Stenodacma richardi,"Ustjuzhanin & Kovtunovich, 2010",species,,Stenodacma,,richardi,,1699,697,2010,ICZN,established,,
@@ -1434,7 +1433,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1436,1436,Trichoptilus varius,"Meyrick, 1909",species,,Trichoptilus,,varius,,1191,2,1909,ICZN,established,,
 1437,1438,Megalorhipida viduus,"(Meyrick, 1917)",species,,Megalorhipida,,viduus,,,,,ICZN,established,,
 1438,1438,Trichoptilus viduus,"Meyrick, 1917",species,,Trichoptilus,,viduus,,1212,1,1917,ICZN,established,,
-1439,1440,Megalorhipida vivax,"Meyrick, 1909",species,,Megalorhipida,,vivax,,1699,698,2010,ICZN,established,,
+1439,1440,Megalorhipida vivax,"(Meyrick, 1909)",species,,Megalorhipida,,vivax,,1699,698,2010,ICZN,established,,
 1440,1440,Trichoptilus vivax,"Meyrick, 1909",species,,Trichoptilus,,vivax,,1191,1,1909,ICZN,established,,
 1441,1441,Oxyptilus,"Zeller, 1841",genus,Oxyptilus,,,,,1871,765,1841,ICZN,established,,
 1442,1442,Oxyptilus catathectes,"Meyrick, 1933",species,,Oxyptilus,,catathectes,,1246,425,1933,ICZN,established,,https://www.biodiversitylibrary.org/page/60387097
@@ -1474,9 +1473,9 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1476,1476,Oxyptilus esuriens,"Meyrick, 1932",species,,Oxyptilus,,esuriens,,1244,108,1932,ICZN,established,,
 1477,1477,Trichoptilus infernus,"Meyrick, 1938",species,,Trichoptilus,,infernus,,1259,3,1938,ICZN,established,,
 1478,1478,Prichotilus,"Rose & Pooni, 2005",genus,Prichotilus,,,,,1493,1799,2005,ICZN,established,,
-1479,1480,Prichotilus archaeodes,"Meyrick, 1913",species,,Prichotilus,,archaeodes,,,,1913,ICZN,established,,
+1479,1480,Prichotilus archaeodes,"(Meyrick, 1913)",species,,Prichotilus,,archaeodes,,,,1913,ICZN,established,,
 1480,1480,Trichoptilus archaeodes,"Meyrick, 1913",species,,Trichoptilus,,archaeodes,,1207,105,1913,ICZN,established,,https://www.biodiversitylibrary.org/page/10439969
-1481,1482,Prichotilus bidens,"Meyrick, 1930",species,,Prichotilus,,bidens,,,,,ICZN,established,,
+1481,1482,Prichotilus bidens,"(Meyrick, 1930)",species,,Prichotilus,,bidens,,,,,ICZN,established,,
 1482,1482,Trichoptilus bidens,"Meyrick, 1930",species,,Trichoptilus,,bidens,,1237,564,1930,ICZN,established,,https://www.biodiversitylibrary.org/page/60297924
 1483,1483,Prichotilus tara,"Ustjuzhanin & Kovtunovich, 2011",species,,Prichotilus,,tara,,1704,358,2011,ICZN,established,,
 1484,1484,Prichotilus tanzanicus,"Gielis, 2011",species,,Prichotilus,,tanzanicus,,763,49,2011,ICZN,established,,
@@ -1725,7 +1724,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1727,1728,Inferuncus interpres,"(Meyrick, 1922)",species,,Inferuncus,,interpres,,,,,ICZN,established,,
 1728,1728,Platyptilia interpres,"Meyrick, 1922",species,,Platyptilia,,interpres,,1219,548,1922,ICZN,established,,https://www.biodiversitylibrary.org/page/9808984
 1729,1729,Inferuncus nigreus,"Gibeaux, 1994",species,,Inferuncus,,nigreus,,693,43,1994,ICZN,established,,
-1730,1731,Inferuncus stoltzei,"Gielis, 1990",species,,Inferuncus,,stoltzei,,,,,ICZN,established,,
+1730,1731,Inferuncus stoltzei,"(Gielis, 1990)",species,,Inferuncus,,stoltzei,,,,,ICZN,established,,
 1731,1731,Amblyptilia stoltzei,"Gielis, 1990",species,,Amblyptilia,,stoltzei,,717,118,1990,ICZN,established,,
 1732,1733,Inferuncus strictiformis,"(Meyrick, 1932)",species,,Inferuncus,,strictiformis,,,,,ICZN,established,,
 1733,1733,Platyptilia strictiformis,"Meyrick, 1932",species,,Platyptilia,,strictiformis,,1245,251,1932,ICZN,established,,https://www.biodiversitylibrary.org/page/60386923
@@ -1959,7 +1958,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 1961,1962,Platyptilia exaltatus,"(Zeller, 1867)",species,,Platyptilia,,exaltatus,,,,,ICZN,established,,
 1962,1962,Platyptilus exaltatus,"Zeller, 1867",species,,Platyptilus,,exaltatus,,1876,411,1867,ICZN,established,,
 1963,1963,Platyptilia dejecta,"Meyrick, 1932",species,,Platyptilia,,dejecta,,1218,334,1932,ICZN,established,,
-1964,1965,Platyptilia farfarellus,"Zeller, 1867",species,,Platyptilia,,farfarellus,,,,,ICZN,established,,
+1964,1965,Platyptilia farfarellus,"(Zeller, 1867)",species,,Platyptilia,,farfarellus,,,,,ICZN,established,,
 1965,1965,Platyptilus farfarellus,"Zeller, 1867",species,,Platyptilus,,farfarellus,,1878,334,1867,ICZN,established,,
 1966,1966,Platyptilia benitensis,"Strand, 1913",species,,Platyptilia,,benitensis,,1623,64,1913,ICZN,established,,
 1967,1967,Platyptilia molopias,"Meyrick, 1906",species,,Platyptilia,,molopias,,1184,135,1906,ICZN,established,,
@@ -2017,7 +2016,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2019,2019,Platyptilia odiosa,"Meyrick, 1924",species,,Platyptilia,,odiosa,,1224,93,1924,ICZN,established,,https://www.biodiversitylibrary.org/page/60297453
 2020,2020,Platyptilia onias,"Meyrick, 1916",species,,Platyptilia,,onias,,1211,559,1916,ICZN,established,,https://www.biodiversitylibrary.org/page/10440479
 2021,2021,Platyptilia pauliani,"Gibeaux, 1994",species,,Platyptilia,,pauliani,,693,30,1994,ICZN,established,,
-2022,2023,Platyptilia percnodactylus,"Walsingham, 1880",species,,Platyptilia,,percnodactylus,,,,,ICZN,established,,
+2022,2023,Platyptilia percnodactylus,"(Walsingham, 1880)",species,,Platyptilia,,percnodactylus,,,,,ICZN,established,,
 2023,2023,Platyptilus percnodactylus,"Walsingham, 1880",species,,Platyptilus,,percnodactylus,,1771,8,1880,ICZN,established,,
 2024,2024,Platyptilia peyrierasi,"Gibeaux, 1994",species,,Platyptilia,,peyrierasi,,693,31,1994,ICZN,established,,
 2025,2025,Platyptilia phanerozona,"Diakonoff, 1952",species,,Platyptilia,,phanerozona,,481,16,1952,ICZN,established,,
@@ -2123,7 +2122,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2125,2124,Paraplatyptilia omissalis,"(Fletcher, 1926)",species,,Paraplatyptilia,,omissalis,,1139,246,2005,ICZN,established,,
 2126,2126,Sinpunctiptilia tasmaniae,"Arenberger, 2006",species,,Sinpunctiptilia,,tasmaniae,,138,118,2006,ICZN,established,,
 2127,2127,Sochchora,"Walker, 1864",genus,Sochchora,,,,,1763,952,1864,ICZN,established,,
-2128,2128,Sochchora albipunctella,"(Fletcher, 1911)",species,,Sochchora,,albipunctella,,605,347,1911,ICZN,established,,
+2128,2128,Sochchora albipunctella,"Fletcher, 1911",species,,Sochchora,,albipunctella,,605,347,1911,ICZN,established,,
 2129,2129,Sochchora donatella,"Walker, 1864",species,,Sochchora,,donatella,,1763,952,1864,ICZN,established,,
 2130,2130,Sochchora dotina,"Walsingham, 1915",species,,Sochchora,,dotina,,1790,436,1915,ICZN,established,,https://www.biodiversitylibrary.org/page/593618
 2131,2131,Sochchora mulinus,"Gielis, 2006",species,,Sochchora,,mulinus,,752,29,2006,ICZN,established,,
@@ -2238,7 +2237,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2240,2240,Stenoptilia kasyi,"Arenberger, 2002",species,,Stenoptilia,,kasyi,,134,209,2002,ICZN,established,,
 2241,2241,Stenoptilia kiitulo,"Gielis, 2008",species,,Stenoptilia,,kiitulo,,755,47,2008,ICZN,established,,
 2242,2242,Stenoptilia kirghizica,"Zagulajev, 2002",species,,Stenoptilia,,kirghizica,,1866,362,2002,ICZN,established,,
-2243,1714,Stenoptilia kopetdagi,"Zagulajev, 2002",species,,Stenoptilia,,kopetdagi,,1866,364,2002,ICZN,established,,
+2243,2243,Stenoptilia kopetdagi,"Zagulajev, 2002",species,,Stenoptilia,,kopetdagi,,1866,364,2002,ICZN,established,,
 2244,2244,Stenoptilia kosterini,"Ustjuzhanin, 2001",species,,Stenoptilia,,kosterini,,1690,12,2001,ICZN,established,,
 2245,2245,Stenoptilia chukchi,"Arenberger, 2002",species,,Stenoptilia,,chukchi,,135,135,2002,ICZN,established,,
 2246,2246,Stenoptilia kurushensis,"Kovtunovich, 2000",species,,Stenoptilia,,kurushensis,,1005,877,2000,ICZN,established,,
@@ -2327,7 +2326,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2329,2329,Pterophorus oreodactylus,"Zeller, 1852",species,,Pterophorus,,oreodactylus,,1875,374,1852,ICZN,established,Terra typica unknown,
 2330,2330,Stenoptilia stigmatoides,"Sutter & Skyva, 1992",species,,Stenoptilia,,stigmatoides,,1631,81,1992,ICZN,established,,
 2331,2331,Stenoptilia suprema,"Meyrick, 1926",species,,Stenoptilia,,suprema,,1228,301,1926,ICZN,established,,https://www.biodiversitylibrary.org/page/60297661
-2332,2333,Stenoptilia tenuis,"Felder & Rogenhofer, 1875",species,,Stenoptilia,,tenuis,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/1221397
+2332,2333,Stenoptilia tenuis,"(Felder & Rogenhofer, 1875)",species,,Stenoptilia,,tenuis,,,,,ICZN,established,,https://www.biodiversitylibrary.org/page/1221397
 2333,2333,Mimeseoptilus tenuis,"Felder & Rogenhofer, 1875",species,,Mimeseoptilus,,tenuis,,582,CXL: 50,1875,ICZN,established,,https://www.biodiversitylibrary.org/page/1221397
 2334,2334,Mimeseoptilus gilvidorsis,"Zeller, 1877",species,,Mimeseoptilus,,gilvidorsis,,1884,471,1877,ICZN,established,,
 2335,2335,Stenoptilia transversata,"Gibeaux, 1995",species,,Stenoptilia,,transversata,,695,99,1995,ICZN,established,,
@@ -2419,8 +2418,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2421,2421,Xyroptila aenea,"Kovtunovich & Ustjuzhanin, 2006",species,,Xyroptila,,aenea,,1011,263,2006,ICZN,established,,
 2422,2423,Xyroptila africana,"(Bigot, 1969)",species,,Xyroptila,,africana,,,,,ICZN,established,,
 2423,2423,Xyroptilia africana,"Bigot, 1969",species,,Xyroptilia,,africana,,226,180,1969,ICZN,established,,
-2424,2425,Xyroptila aritai,"Gielis & Mano, 2013",species,,Xyroptila,,aritai,,,,,ICZN,established,,
-2425,2425,Xyriptila aritai,"Gielis & Mano, 2013",species,,Xyriptila,,aritai,,774,151,2013,ICZN,established,,
+2424,2424,Xyroptila aritai,"Gielis & Mano, 2013",species,,Xyroptila,,aritai,,774,151,2013,ICZN,established,,
 2426,2427,Xyroptila caminites,"(Meyrick, 1908)",species,,Xyroptila,,caminites,,,,,ICZN,established,,
 2427,2427,Oxyptilus caminites,"Meyrick, 1908",species,,Oxyptilus,,caminites,,1189,478,1908,ICZN,established,Dated 1907 but published in 1908,https://www.biodiversitylibrary.org/page/13535020
 2428,2428,Xyroptila colluceo,"Gielis & De Vos, 2007",species,,Xyroptila,,colluceo,,772,191,2007,ICZN,established,,
@@ -2528,7 +2526,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2531,2531,Merrifieldia deprinsi,"Arenberger, 1990",species,,Merrifieldia,,deprinsi,,100,67,1990,ICZN,established,,
 2532,2533,Merrifieldia diwani,"(Arenberger, 1981)",species,,Merrifieldia,,diwani,,,,,ICZN,established,,
 2533,2533,Pterophorus diwani,"Arenberger, 1981",species,,Pterophorus,,diwani,,71,101,1981,ICZN,established,,
-2534,2534,Merrifieldia farsi,"(Arenberger, 1981)",species,,Merrifieldia,,farsi,,72,22,1981,ICZN,established,,
+2534,3021,Merrifieldia farsi,"(Arenberger, 1981)",species,,Merrifieldia,,farsi,,72,22,1981,ICZN,established,,
 2535,2536,Merrifieldia hedemanni,"(Rebel, 1896)",species,,Merrifieldia,,hedemanni,,,,,ICZN,established,,
 2536,2536,Gypsochares hedemanni,"Rebel, 1896",species,,Gypsochares,,hedemanni,,1455,115,1896,ICZN,established,,
 2537,2537,Alucita hesperidella,"Walsingham, 1908",species,,Alucita,,hesperidella,,1787,917,1907,ICZN,established,,
@@ -2640,7 +2638,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2644,2644,Pterophorus flavus,"Arenberger, 1991",species,,Pterophorus,,flavus,,103,18,1991,ICZN,established,,
 2645,2646,Pterophorus furcatalis,"(Walker, 1864)",species,,Pterophorus,,furcatalis,,,,,ICZN,established,,
 2646,2646,Aciptilus furcatalis,"Walker, 1864",species,,Aciptilus,,furcatalis,,1763,950,1864,ICZN,established,,
-2647,2647,Pterophorus innotatalis,"(Walker, 1864)",species,,Pterophorus,,innotatalis,,1763,945,1864,ICZN,established,,
+2647,2647,Pterophorus innotatalis,"Walker, 1864",species,,Pterophorus,,innotatalis,,1763,945,1864,ICZN,established,,
 2648,2649,Pterophorus ischnodactyla,"(Treitschke, 1833)",species,,Pterophorus,,ischnodactyla,,,,,ICZN,established,,
 2649,2649,Alucita ischnodactyla,"Treitschke, 1833",species,,Alucita,,ischnodactyla,,1654,223,1833,ICZN,established,,
 2650,2650,Aciptilia actinodactyla,"Chrétien, 1891",species,,Aciptilia,,actinodactyla,,416,99,1891,ICZN,established,,
@@ -2820,8 +2818,8 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2825,2825,Shafferia,"Walcott, 1917",genus,Shafferia,,,,,1761,71,1917,ICZN,established,Crustacea,https://www.biodiversitylibrary.org/page/29838606
 2826,2826,Richardia,"Robineau-Desvoidy, 1830",genus,Richardia,,,,,1488,728,1830,ICZN,established,Diptera: Richardiidae,https://www.biodiversitylibrary.org/page/8687067
 2827,2827,Cnemidophorus,"Wagler, 1830",genus,Cnemidophorus,,,,,1756,154,1830,ICZN ,established,Squamata: Teiidae,https://www.biodiversitylibrary.org/page/38965890
-2828,1454,Sphenarches erythrodactylus,"Fletcher, 1911",species,,Sphenarches,,erythrodactylus,,1895,20,2020,ICZN,established,,
-2829,607,Marasmarcha ammonias,"Meyrick, 1909",species,,Marasmarcha,,ammonias,,1895,20,2020,ICZN,established,,
+2828,1454,Sphenarches erythrodactylus,"(Fletcher, 1911)",species,,Sphenarches,,erythrodactylus,,1895,20,2020,ICZN,established,,
+2829,607,Marasmarcha ammonias,"(Meyrick, 1909)",species,,Marasmarcha,,ammonias,,1895,20,2020,ICZN,established,,
 2830,543,Pterophorus monodactylus,"(Linnaeus, 1758)",species,,Pterophorus,,monodactylus,,,,,ICZN,established,,
 2831,2831,Aciptilia taganrogensis,"Alphéraky, 1876",species,,Aciptilia,,taganrogensis,,1896,225,1876,ICZN,established,,https://www.biodiversitylibrary.org/page/47928623
 2832,2832,Hellinsia shiskini,"Kovtunovich & Ustjuzhanin, 2018",species,,Hellinsia,,shishkini,,1898,405,2018,ICZN,established,,
@@ -2854,7 +2852,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 2859,1695,Platyptilia tetradactyla,"(Linnaeus, 1761)",species,,Platyptilia,,tetradactyla,,,,1761,ICZN,established,,
 2860,1358,Oxyptilus tristis,"(Zeller, 1839)",species,,Oxyptilus,,tristis,,,,,ICZN,established,,
 2861,961,Leioptilus osteodactylus,"(Zeller, 1841)",species,,Leioptilus,,osteodactylus,,,,,ICZN,established,,
-2862,2862,Oxyptilus ericetorum,"(Zeller, 1844)",species,,Oxyptilus,,ericetorum,,,,1844,ICZN,not established,Lacks description,https://digital.slub-dresden.de/werkansicht/dlf/113630/20
+2862,2862,Pterophorus ericetorum,"Zeller, 1844",species,,Pterophorus,,ericetorum,,,,1844,ICZN,not established,Lacks description,https://digital.slub-dresden.de/werkansicht/dlf/113630/20
 2863,2258,Stenoptilia arvernicus,"(Peyerimhoff, 1875)",species,,Stenoptilia,,arvernicus,,712,57,1988,ICZN,established,Established Stenoptilia arvernicus as a species with S. grandis as a synonym,https://www.biodiversitylibrary.org/page/50799053
 2864,1702,Platyptilia pallidactyla,"(Haworth, 1811)",species,,Platyptilia,,pallidactyla,,,,1811,ICZN,established,,
 2865,2865,Euleioptilus,"Bigot & Picard, 1996",genus,Euleioptilus,,,,,979,165,1996,ICZN,established,,
@@ -2999,7 +2997,7 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 3006,3006,Hellinsia nina,"Kovtunovich & Ustjuzhanin, 2024",species,,Hellinsia,,nina,,1966,6,2024,ICZN,established,,
 3007,956,Oidaematophorus ochricostatus,"(Zeller, 1877)",species,,Oidaematophorus,,ochricostatus,,1966,11,,ICZN,established,,
 3008,996,Oidaematophorus pelospilus,"(Zeller, 1877)",species,,Oidaematophorus,,pelospilus,,1966,11,,ICZN,established,,
-3009,3009,Oidaematophorus surinamensis,"(Sepp, 1855)",species,,Oidaematophorus,,surinamensis,,1966,11,,ICZN,established,,
+3009,1087,Oidaematophorus surinamensis,"(Sepp, 1855)",species,,Oidaematophorus,,surinamensis,,1966,11,,ICZN,established,,
 3010,556,Oidaematophorus suspiciosus,"(Meyrick, 1921)",species,,Oidaematophorus,,suspiciosus,,1966,11,,ICZN,established,,
 3011,1022,Oidaematophorus praenigratus,"(Meyrick, 1921)",species,,Oidaematophorus,,praenigratus,,1966,11,,ICZN,established,,
 3012,3012,Walsinghamiella selinda,"Ustjuzhanin & Kovtunovich, 2013",species,,Walsinghamiella,,selinda,,1967,154,2013,ICZN,established,sp. nov.,
@@ -3011,3 +3009,4 @@ ID,basionymID,scientificName,authorship,rank,uninomial,genus,infragenericEpithet
 3018,3018,Hellinsia ekonjo,"Ustjuzhanin & Kovtunovich, 2025",species,,Hellinsia,,ekonjo,,1971,151,2025,ICZN,established,,
 3019,3019,Hellinsia mapanja,"Ustjuzhanin & Kovtunovich, 2025",species,,Hellinsia,,mapanja,,1971,152,2025,ICZN,established,,
 3020,1431,Antarches tessmanni,"(Strand, 1913)",species,,Antarches,,tessmanni,,763,36,2011,ICZN,established,,
+3021,3021,Pterophorus farsi,"Arenberger, 1981",species,,Pterophorus,,farsi,,72,22,1981,ICZN,established,,
