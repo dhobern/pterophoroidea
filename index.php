@@ -34,7 +34,7 @@
         </header>
         
         <div class="Overview">
-            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.25.120</h2>
+            <h2>Catalogue of the Pterophoroidea of the World, version 1.1.25.178</h2>
             
             <ul>
             <li><a href="catalogue.php"><strong>Browse the catalogue</strong></a></li>
@@ -51,7 +51,7 @@
             <a href="http://www.catalogueoflife.org/" target="_blank">
             <strong>Catalogue of Life</strong></a> and updated by Donald Hobern.</p> 
             
-            <p>Version 1.1.25.120 has been updated to correct a number of errors in 
+            <p>Version 1.1.25.178 has been updated to correct a number of errors in 
             processing of Cees Gielis' original dataset and to reflect recent 
             additions to the group. Additional page references have also been 
             added.</p>
