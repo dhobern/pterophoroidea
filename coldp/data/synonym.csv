@@ -19,7 +19,7 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 129,132,,synonym,,
 129,133,,synonym,,
 165,166,,synonym,,
-219,220,,synonym,,
+144,220,,synonym,,
 51,52,,synonym,,
 153,154,,synonym,,
 153,155,,synonym,,
@@ -1273,6 +1273,9 @@ taxonID,nameID,accordingToID,status,referenceID,remarks
 1021,1021,,synonym,1966,
 396,357,,synonym,1967,syn. nov.
 396,358,,synonym,1967,syn. nov.
-51,114,,synonym,1973,syn n.
+51,114,,synonym,1973,syn. n.
 1430,1430,,synonym,763,
 2534,3021,,synonym,,
+103,103,,synonym,1975,syn. n.
+87,213,,synonym,1975,syn. n.
+144,219,,synonym,1975,syn. n.
